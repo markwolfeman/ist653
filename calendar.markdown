@@ -4,7 +4,23 @@ title: Calendar
 permalink: /calendar/
 ---
 
-# Unit 1: Tuesday June 29 Course Introduction & What is a Digital Library? **First Day of Class***
+# Unit 1: Monday June 29 Course Introduction & What is a Digital Library? **First Day of Class***
 
 Readings:
-- No readings
+
+
+-  [What Are Digital Libraries?](https://www.clir.org/1998/07/clir-issues-number-4/) [Waters (1998)]
+- [Digital Library](https://en.wikipedia.org/wiki/Digital_library) [Wikipedia]
+- [Why Digital Libraries?](http://www.lesk.com/mlesk/follett/follett.html) [Lesk (2004)] 
+- [The Library of Utopia](https://www.technologyreview.com/2012/04/25/116142/the-library-of-utopia/) [Carr 2004]
+- [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) [Bush 1945]
+
+
+Videos:
+- [Welcome &amp; meet the instructor](link) [time min.]
+
+Presentation:
+
+Excercise
+
+------------
