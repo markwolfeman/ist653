@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-# Unit 1: Monday June 29 Course Introduction & What is a Digital Library? **First Day of Class***
+# Unit 1: Monday June 29 Course Introduction & What is a Digital Library? 
 
 Readings:
 
@@ -21,6 +21,11 @@ Videos:
 
 Presentation:
 
-Excercise
+
+- Get to know your classmates [Link]({% link  assignments/icebreaker.markdown %}) Due 5/29
+
+- Spend a couple minutes with each digital repository above, and watch the video for Rushdie Archive.
+
+- "As We May Think" questions. Answer one question on the discussion board, approximately 75 words, and make one meaningful comment on one other fellow student's post. Due xxx -->
 
 ------------
