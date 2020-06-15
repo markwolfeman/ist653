@@ -1,10 +1,10 @@
 ---
 permalink: /icebreaker/
-layout: default
-exclude: true
+layout: page
+
 ---
 
-# Icebreaker
+# Icebreakersddd
 
 
 
