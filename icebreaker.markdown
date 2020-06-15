@@ -1,7 +1,7 @@
 ---
-permalink: /icebreaker.html
+permalink: /icebreaker/
 layout: default
-published: false
+exclude: true
 ---
 
 # Icebreaker
