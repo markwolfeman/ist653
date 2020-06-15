@@ -1,5 +1,5 @@
 ---
-permalink: /icebreaker/
+permalink:
 layout: page
 
 ---
