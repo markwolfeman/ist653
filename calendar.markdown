@@ -22,7 +22,7 @@ Videos:
 Presentation:
 
 
-- Get to know your classmates [Link]({% link  assignments/icebreaker.markdown %}) Due 5/29
+- Get to know your classmates [Link]({% link  assignments/icebreaker.markdown %}) Due Monday June 29th
 
 - Spend a couple minutes with each digital repository above, and watch the video for Rushdie Archive.
 

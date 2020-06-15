@@ -1,6 +1,7 @@
 ---
 permalink: /icebreaker.html
 layout: default
+published: false
 ---
 
 # Icebreaker
@@ -20,4 +21,4 @@ layout: default
 - Have you taken an online class in the summer before?
 
 
-**Dudfcsdfsd**
+**June 30th**
