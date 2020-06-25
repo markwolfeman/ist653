@@ -6,9 +6,7 @@ permalink:
 
 <h1> Icebreaker</h1>
 
-- [Using the forum "Meet Your Classmates" on the Discussion Board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140056_1&nav=discussion_board_entry&conf_id=_225263_1&forum_id=_420202_1), create a thread that gives information about yourself. If you want to post a picture or links related to the questions below, please do.
-
-- Follow the [link to Blackboard discussion board](1) to post information about the following: Type favorite color in the thread header.
+- [Using the forum "Meet Your Classmates" on the Discussion Board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140056_1&nav=discussion_board_entry&conf_id=_225263_1&forum_id=_420202_1), create a thread that gives information about yourself. If you want to post a picture or links related to the questions below, please do. Type favorite color in the thread header.
 
 - What is you favorite novel or graphic novel?
 
