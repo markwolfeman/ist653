@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-# Unit 1: 	June 29 Course Introduction & What is a Digital Library? 
+# Unit 1: 	June 29 Course Introduction
 
 Readings:
 
