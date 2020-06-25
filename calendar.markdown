@@ -17,7 +17,15 @@ Readings:
 
 
 Videos:
-- [Welcome &amp; meet the instructor](link) [time min.]
+- [Welcome &amp; meet the instructor](https://youtu.be/nn-g7YH5u9U) [9:20 min.]
+Videos:   
+
+- Overview of course Part 1 [ min.]
+- Overview of course Part 2 [ min.]
+- [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46: 19 min.]
+- [Foundations of Digital Libraries Part 1](https://youtu.be/nexEnlECLV4) [ 8:17 min.]
+- [Foundations of Digital Libraries Part 2](https://www.youtube.com/watch?v=J9J6w39nK7w) [33:36 min.]
+<!-- - Homework 1 overview [3:50 min.] -->
 
 Presentation:
 

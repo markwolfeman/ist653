@@ -11,7 +11,7 @@ IST 653 / 3 Credits / Summer 2020
 # Instructor Information
 Instructor, Mark Wolfe
 <br/>
-<br/>![Instructor](/assets/instructor_wolfe.jpg)
+<br/>![Instructor](/assets/instructor_new.jpg)
 <br/>
 <br/>Program in <a href="https://www.albany.edu/cehc/programs/ms-information-science">Information Science</a>
 <br/>Login Schedule: Daily, 10am &amp; 5pm
