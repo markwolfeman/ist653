@@ -88,3 +88,5 @@ Reasonable accommodations will be provided for students with documented physical
 
 The class follows the University's policy on [Academic Integrity](http://www.albany.edu/studentconduct/standards_of_academic_integrity.php) Academic Integrity.
 
+# Grading Scale
+![](/assets/grade_scale.jpg)
