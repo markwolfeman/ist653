@@ -6,7 +6,7 @@ permalink: about
 
 # Meet your instructor, Mark Wolfe
 
-![Instructor](/assets/instructor_wolfe.jpg)
+![Instructor](/assets/instructor_new.jpg)
 
 IST 538 / 3 Credits / Summer 2020 (6W4)
 

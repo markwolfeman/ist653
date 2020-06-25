@@ -4,4 +4,4 @@ title: Assignments
 permalink: /assignments/
 ---
 
-![homework](/assets/hw.jpg) **(Due )**
+![homework](/assets/hw.jpg) 

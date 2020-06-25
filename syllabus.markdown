@@ -40,9 +40,9 @@ Upon completion of this course, students will:
 - Group Final Project 30%
 
 
-# Weekly Modules 
+# Units 
 
-The first unit of class will begin Monday, June 29th. Each subsequent unit will be started on the date following the unit number. Each unit of course materials will be released at least three days in advance of the date on the schedule. The due date and time for each homework will be stated when released. 
+The first unit of class will begin **Monday, June 29th.** Each subsequent unit will be started on the date following the unit number. Each unit of course materials will be released at least three days in advance of the date on the schedule. The due date and time for each homework will be stated when released. 
 
 # Computer
 
@@ -54,7 +54,7 @@ Except for the two tests, all assignments will be group oriented projects. You m
 
 # Readings
 
-Readings are due on the Unit day they are listed on the syllabus. For example, it is assumed you will complete Unit 1's Carr (2012) reading by the start or during the early part of Unit 1. Because the class has no "meeting time," you should not use that flexibility to push everything to the very end of the unit. The presentations, exercises, and assignments are created with the assumption that you've already completed the readings. The sooner you begin the week's materials, the more relavant your questions and participation on BlackBoard will be. 
+Readings are due on the Unit day they are listed on the syllabus. For example, it is assumed you will complete Unit 2's Carr (2012) reading by the start or during the early part of Unit 2. Because the class has no "meeting time," you should not use that flexibility to push everything to the very end of the unit. The presentations, exercises, and assignments are created with the assumption that you've already completed the readings. The sooner you begin the week's materials, the more relavant your questions and participation on BlackBoard will be. 
 
 # Discussions & Exercises
 
@@ -62,15 +62,15 @@ The success of this class will be greatly enhanced by active participation from 
 
 # Required Software
 
-We will be using several programs during the course, all of which will be available on Information Commons computers and available online to download for free. 
+We will be using several programs during the course, all of which will be available on to download for free. 
 
 # Homeworks & Final Project
 
-Your homeworks will consist of various hands-on assignments as well as written reports. The final project and ALL homeworks will completed as a team-based assigments.
+Your homeworks will consist of various hands-on assignments as well as written reports. The final project and ALL homeworks will completed as a team-based assigments, but you will hand in individually usally via email.
 
 We use the Discussion tool in Blackboard to facilitate student collaboration and as a venue for asking questions. The group assignments and final project will use the Discussion tool to facilitate assignments. As with any community, the more you put into it, the more you will get in return. 
 
-To excel in this class, students must demonstrate the ability to use various digital library related technologies. Hand in assignments on time! Contact me if you cannot meet a deadline, if not, I will mark assignment as a zero. Additionally, students who fall behind will most likely suffer on the following assignments and tests, and ultimately their final grade. You should devote 8-10 hours a unit to the course.
+Hand in assignments on time! Contact me if you cannot meet a deadline, if not, I will mark assignment as a zero. Additionally, students who fall behind will most likely suffer on the following assignments and tests, and ultimately their final grade. You should devote 8-10 hours a unit to the course.
 
 # Tests
 
