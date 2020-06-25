@@ -35,8 +35,7 @@ Disscussion:
 
 Exercises:
 
-- Get to know your classmates [Link]({% link  assignments/icebreaker.markdown %}) Due Monday June 29th
-- Practice Quiz on Basic Expectations of Course
+- [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/icebreaker.html) **Due: 6/29**
 - Spend a couple minutes with each digital repository above, and watch the video for Rushdie Archive.
 
 
