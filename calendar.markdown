@@ -12,8 +12,8 @@ Readings:
 
 Videos:
 - [Course Welcome &amp; Meet the Instructor](https://youtu.be/nn-g7YH5u9U) [9:20 min.]
-- Overview of course Part 1 [ min.]
-- Overview of course Part 2 [ min.]
+- [Overview of course Part 1](https://youtu.be/5p3WmGu53kc) [11:25 min.]
+- [Overview of course Part 2](https://youtu.be/5750W3JQmO4) [8:13 min.]
 - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46: 19 min.]
 
 Presentation:
