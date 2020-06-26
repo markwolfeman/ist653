@@ -18,7 +18,7 @@ Videos:
 
 Presentation:
 
-- [Pre-History to Digital Libraries](http://www.albany.edu/~mwolfe/ist653/ist653_introduction.pptx)[.pptx]
+- [Pre-History to Digital Libraries](https://www.albany.edu/~mwolfe/ist653/prehistory_to_digital_libraries.pptx)[.pptx]
 
 Disscussion:
  - [The Story of the Beautiful](http://peacockroom.wayne.edu)
