@@ -59,7 +59,7 @@ Videos:
 
 Presentation:
 
-- [Foundations of Digital Libraries](http://www.albany.edu/~mwolfe/ist653/week2/Foundations%20of%20Digital%20Libraries.pptx)
+- [Foundations of Digital Libraries](https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx)
 
 Discussion & Exercise:
 
