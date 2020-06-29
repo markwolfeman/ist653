@@ -16,4 +16,4 @@ In the [BlackBoard discussion tool](https://blackboard.albany.edu/webapps/discus
 
 **Exercise Due Wednesday July 1st**
 
-<br/>![Bush](../assets/think.png)---
+<br/>![Bush](../assets/think.png)
