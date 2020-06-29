@@ -16,4 +16,4 @@ In the BlackBoard discussion tool, answer one of the questions below based on th
 
 **Exercise Due Wednesday July 1st**
 
-<br/>![Bush](/assets/think.png)
+<br/>![Bush](../assets/think.png)
