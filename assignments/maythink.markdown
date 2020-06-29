@@ -3,7 +3,7 @@ layout: default
 title: 
 permalink:
 ---
-# "AS WE MAY THINK" Exercise
+<h1>"AS WE MAY THINK" Exercise</h1>
 
 In the BlackBoard discussion tool, answer one of the questions below based on the reading by Vanavar Bush, and comment on a fellow student's post. Your posted answer should be approximately _75 words_, and the comment, a sentence or two. 
 
