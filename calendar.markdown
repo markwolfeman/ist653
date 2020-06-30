@@ -50,6 +50,7 @@ Readings:
 - [Why Digital Libraries?](http://www.lesk.com/mlesk/follett/follett.html) [Lesk (2004)] 
 - [The Library of Utopia](https://www.technologyreview.com/2012/04/25/116142/the-library-of-utopia/) [Carr 2004]
 - [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) [Bush 1945]
+- PDF of article "As We May Think": [http://web.mit.edu/STS.035/www/PDFs/think.pdf](http://web.mit.edu/STS.035/www/PDFs/think.pdf)
 
 Videos:
 
