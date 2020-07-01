@@ -75,9 +75,15 @@ Readings:
 - Besser (2003) [Introduction to Imaging (read: intro to p. 46)](http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf) [.pdf]
 - [FADGI or Federal Agencies Digital Guidelines Initiative (About, Review Process, and skim the Glossary)](http://www.digitizationguidelines.gov/)
 
-videos:
+Videos:
+
+- [Introduction to Image Scanning](https://www.youtube.com/watch?v=U0kazym7NB8) [48:04]
+- [Flatbed Scanner vs Overhead Digitization](http://www.sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization) [2:54]
 
 Presentation:
+
+- [Introduction to Image Scanning](https://www.albany.edu/~mwolfe/ist653/unit2/Introduction%20to%20Image%20Scanning.pptx) [.ppt]
+
 
 
 ------------
