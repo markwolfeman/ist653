@@ -82,7 +82,7 @@ Videos:
 
 Presentation:
 
-- [Introduction to Image Scanning](https://www.albany.edu/~mwolfe/ist653/unit2/Introduction%20to%20Image%20Scanning.pptx) [.ppt]
+- [Introduction to Image Scanning](https://www.albany.edu/~mwolfe/ist653/unit3/Introduction%20to%20Image%20Scanning.pptx) [.ppt]
 
 
 
