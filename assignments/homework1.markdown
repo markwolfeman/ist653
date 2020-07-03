@@ -16,6 +16,7 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Group 4: (Crystal, Andrew &amp; Martin) [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home)
 - Group 5: (Ali, Lindsay &amp; Danielle) [NYS Historic Newspapers](http://nyshistoricnewspapers.org)
 - Group 6: (Katherine, Jennifer &amp; Joanna ) [New York State Library Digital Online Collections](http://www.nysl.nysed.gov/scandocs/)
+- Group 7: (Jill) [Ad * Access](https://repository.duke.edu/dc/adaccess)
 
 # Part 1 Institution
 
