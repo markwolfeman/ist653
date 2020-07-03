@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome & Unit 1 Released"
-date:   2020-06-25
+title:  "Homework 1 Released"
+date:   2020-07-01
 categories: welcome
 ---
 
@@ -20,4 +20,5 @@ I will create Group Threads for you all to discuss in.
 - Group 4: (Crystal, Andrew & Martin) [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home)
 - Group 5: (Ali, Lindsay & Danielle) [NYS Historic Newspapers](http://nyshistoricnewspapers.org/)
 - Group 6: (Katherine, Jennifer & Joanna ) [New York State Library Digital Online Collections](http://www.nysl.nysed.gov/scandocs/)
+- Group 7: (Jill) [ad access](https://repository.duke.edu/dc/adaccess)
 
