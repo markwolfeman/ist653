@@ -52,4 +52,4 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Functionality to have a &quot;book cart&quot;? Guide to searching techniques?
 
 - This assignment is worth **10 points.**
-- **Due Saturday July 4th** (sooner if you can)
+- **Due Sunday July 5th** 
