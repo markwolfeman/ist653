@@ -23,7 +23,7 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Who owns and manages the digital library?
 - What is the scope, purpose, and mission of the repository?
 - What audience is it aimed at? or What community does it serve?
-- How old is it? If there no date, can you infer one?
+- How old is it? If there is no date, can you infer one?
 - Where does it fit in the organizational chart of the institution?
 - How is it funded? (Internally/institutional, grant, consortia)
 - Is it one all-encompassing digital library or many?

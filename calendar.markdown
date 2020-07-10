@@ -121,13 +121,13 @@ Presentation:
 
 Readings:
 
-<!-- - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
+- [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
 -  [6b Image creation "File/Image Processing" ](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Review: Kenny (2000)]
-- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc]-->
+- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc]
 
 Videos:
 
-<!-- - File Naming Short videos:
+ - File Naming Short videos:
 	- [Part 1](https://www.youtube.com/watch?v=Hi_A4Ywn4VU)
 	- [Part 2](https://www.youtube.com/watch?v=8ogTKWpq6is)
 	- [Part 3](https://www.youtube.com/watch?v=959hYLK40gE)
@@ -139,12 +139,12 @@ Videos:
 	- [Part 1](https://www.youtube.com/watch?v=CWcMrAfhlKI)
 	- [Part 2](https://www.youtube.com/watch?v=xlFVDefj3hg)
 	- [Part 3](https://www.youtube.com/watch?v=7KbZCic_V3g)
-	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) 	-->
+	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) 	
 
 
 Presentation:
 
-<!--
+
 - Presentation and Homework 2 brief:
     - [Part 1](https://youtu.be/ljXxzpk3qrw) [15:13]
     - [Part 2](https://youtu.be/f0PZqOHlSWQ) [16:11]
@@ -156,7 +156,7 @@ Technology downloads:
 - [Resizer](http://www.den4b.com/?x=products&product=resizer) (PC)
 - [TSR Watermark Image](https://www.watermark-image.com/) (PC) 
 - [iWatermark](https://iwatermark.en.softonic.com/mac) (Mac)
--->
+
 
 ------------
 
