@@ -128,18 +128,18 @@ Readings:
 Videos:
 
  - File Naming Short videos:
-	- [Part 1](https://www.youtube.com/watch?v=Hi_A4Ywn4VU)
-	- [Part 2](https://www.youtube.com/watch?v=8ogTKWpq6is)
-	- [Part 3](https://www.youtube.com/watch?v=959hYLK40gE)
-	- [Part 4](https://www.youtube.com/watch?v=VWaIe2u8zRU)
+	- [Part 1](https://www.youtube.com/watch?v=Hi_A4Ywn4VU) [3:19]
+	- [Part 2](https://www.youtube.com/watch?v=8ogTKWpq6is) [2:37]
+	- [Part 3](https://www.youtube.com/watch?v=959hYLK40gE) [3:28]
+	- [Part 4](https://www.youtube.com/watch?v=VWaIe2u8zRU) [1:44]
 - [Creating your first TSR Watermark](https://www.youtube.com/watch?v=_jByEuZii5I) [2:45]
 - [iWatermark (Mac)](https://www.youtube.com/watch?v=-sXSdbirX2I) [7:51]
 
 - AVPreserve Exiftool Tutorials:
-	- [Part 1](https://www.youtube.com/watch?v=CWcMrAfhlKI)
-	- [Part 2](https://www.youtube.com/watch?v=xlFVDefj3hg)
-	- [Part 3](https://www.youtube.com/watch?v=7KbZCic_V3g)
-	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) 	
+	- [Part 1](https://www.youtube.com/watch?v=CWcMrAfhlKI) [4:45]
+	- [Part 2](https://www.youtube.com/watch?v=xlFVDefj3hg) [6:06]
+	- [Part 3](https://www.youtube.com/watch?v=7KbZCic_V3g) [10:45]
+	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) [7:27]	
 
 
 Presentation:
