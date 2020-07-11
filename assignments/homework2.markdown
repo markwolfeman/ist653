@@ -22,7 +22,7 @@ You've been given a collection of digitized images, but before they go into the 
 
 - **Update Embedded Metadata using Exiftool and MS Excel:**
 
-	- using Exiftool, update all of the city and copyright tags with your college's hometown and name respectively. See IPTC's city tag name [here] and EXIF's copyright tag name [here]
+	- using Exiftool, update all of the city and copyright tags with your college's hometown and name respectively. See IPTC's city tag name [[here]](https://exiftool.org/TagNames/IPTC.html) and EXIF's copyright tag name [[here]](https://exiftool.org/TagNames/EXIF.html).
 	- export a .csv/Excel file, the following tags: filesize, filetype, copyright, city, and createdate
 	- in Excel, truncate your CreateDate column to year only, using a formula something like this: <span style="font-family:Courier">=LEFT(A1,LEN(A1)-3)</span>
 	- create a <span style="font-family:Courier">Sum</span> for your total file size.
