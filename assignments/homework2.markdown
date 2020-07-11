@@ -12,7 +12,7 @@ You've been given a collection of digitized images, but before they go into the 
 
 - **Using Renamer:**
 
-	- look up OCLC code for your assigned college or university, and append to file name: http://www.oclc.org/contacts/libraries.en.html
+	- look up OCLC code for your assigned college or university, and append to file name: [OCLC Codes for libraries](http://www.oclc.org/contacts/libraries.en.html)
 	- change case of file extension from upper to lowercase
 	- serialize your file names, add leading zeros for 6 charcter serial
 	- make lowercase and remove unconvetional characters or spacings
