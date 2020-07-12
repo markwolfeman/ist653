@@ -39,7 +39,7 @@ the .csv file should look something like this, but with updated file names: [.cs
 
 <br/>
 
-- **Due Monday July 13th.** 
+- **Due Tuesday July 14th.** 
 
 - Assignment is worth 10 points. 
 
