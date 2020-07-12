@@ -158,42 +158,34 @@ Technology downloads:
 - [iWatermark](https://iwatermark.en.softonic.com/mac) (Mac)
 
 
+
 ------------
 
-# Unit 6: 	July 13 Images & (Management) Part 3
+# Unit 6: 	July 13 Digital Audio and Video 
 
 Readings:
 
-Videos:
-
-Presentation:
-
-------------
-
-
-# Unit 7: 	July 15 Digitization Planning & Vendors
-
-Readings:
+-  [Format Considerations in AudioVisual
+Preservation Reformatting (2010)](http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf)
+- [Digital Audio Best Practices (2006)](https://sustainableheritagenetwork.org/system/files/atoms/file/Audio_Best_Practices.pdf) (pp. 1-35)
+- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf)  
 
 Videos:
 
-Presentation:
-
-
-------------
-
-# Unit 8: 	July 17 Digital Audio and Video 
-
-Readings:
-
-Videos:
+- [Foundations of Audio](https://youtu.be/c1vFiRgxBQE) [51:35]
+- [Foundations of Video](https://youtu.be/_yhXESSMYOQ) [32:09]
+- [Optional:  Kickstarter Film Telecine Project](https://www.youtube.com/watch?v=czzpf-VnB_Y)   [2:33]
 
 Presentation:
+
+- [Foundations of Audio](http://www.albany.edu/~mwolfe/ist653/unit5/Foundations%20of%20Digital%20Audio.pptx) [.pptx] 
+- [Foundations fo Video](http://www.albany.edu/~mwolfe/ist653/unit5/Foundations%20of%20Digital%20Video.pptx) [.pptx]
+- [Sample vendor proposal](http://www.albany.edu/~mwolfe/ist653/unit5/example_vendor_proposal.pdf)
 
 
 ------------
 
-# Unit 9:  	July 20 Metadata Part 1
+# Unit 7:  	July 15 Metadata Part 1
 
 Readings:
 
@@ -204,7 +196,7 @@ Presentation:
 
 ------------
 
-# Unit 10: 	July 22 Metadata Worflow Part 2
+# Unit 8: 	July 17 Metadata Worflow Part 2
 
 Readings:
 
@@ -215,7 +207,7 @@ Presentation:
 
 ------------
 
-# Unit 11:  	July 24 Linked Data & Controlled Vocabularies 
+# Unit 9:  	July 20 Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -226,7 +218,7 @@ Presentation:
 
 ------------
 
-# Unit 12: 	July 27 Choosing an Repository Architecture
+# Unit 10: 	July 22 Choosing an Repository Architecture
 
 Readings:
 
@@ -237,7 +229,7 @@ Presentation:
 
 ------------
 
-# Unit 13: 	July 29 Project Planning
+# Unit 11: 	July 24 Project Planning
 
 Readings:
 
@@ -248,7 +240,7 @@ Presentation:
 
 ------------
 
-# Unit 14:	July 31 Sustainability & Preservation
+# Unit 12:	July 27 Sustainability & Preservation
 
 Readings:
 
@@ -258,11 +250,11 @@ Presentation:
 
 ------------
 
-# Unit 15:	August 05 Open Lab Final Project and Review
+# Unit 13:	July 29 Open Lab Final Project and Review
 
 ------------
 
-# Unit 16:	August 5 Open Lab Final Project and Review
+# Final Day	August 5 Open Lab Final Project and Review
 
 ------------
 
