@@ -32,8 +32,8 @@ the .csv file should look something like this, but with updated file names: [.cs
 
 - **Using TSR Watermark Image or iWatermark**
 	- create watermark by choosing icon from assigned college make watermark transparent and defined, save as .jpg
-		- Video tutorial on how to do actions and watermarks in Watermark Image
-		- Video tutorial on how to do actions and watermarks in iWatermark
+		- [Video tutorial](https://www.youtube.com/watch?v=-sXSdbirX2I) on how to do actions and watermarks in Watermark Image
+		- [Video tutorial](https://www.youtube.com/watch?v=-sXSdbirX2I) on how to do actions and watermarks in iWatermark
 	- reduce images in size using Resize Images section on the last tab, files should be about 100k per file
 
 
