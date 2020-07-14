@@ -24,12 +24,12 @@ permalink:
 
 - Based on the Miller's discussion in Chapter 2 &amp; 7. Discuss in roughly in 300 words:
     
-- Why was Dublin Core and MODS created?
-- What are the strengths and weaknesses of using MODS or Dublin Core?
-- Talk about their structure or lack of;
-- Ease or difficulty of implentation;
-- Explain technically some of the features of each, benefits/cost or drawbacks;
-- Why do you think the developers of Omeka has chosen [Dublin Core over MODS?](http://omeka.org/forums/topic/omeka-and-mods-element-set)
+- 	Why was Dublin Core and MODS created?
+- 	What are the strengths and weaknesses of using MODS or Dublin Core?
+- 	Talk about their structure or lack of;
+- 	Ease or difficulty of implentation;
+- 	Explain technically some of the features of each, benefits/cost or drawbacks;
+- 	Why do you think the developers of Omeka has chosen [Dublin Core over MODS?](http://omeka.org/forums/topic/omeka-and-mods-element-set)
 
 - It's worth 10 points and due **Saturday July 18th** 
 - Submit via email as one .zip file (include .xml, .csv, and .doc files). 
