@@ -209,7 +209,7 @@ Presentation:
 Exercise:  (**Install XML editor by July 16th**)
 
 - [Notepad++ (PC only)](https://notepad-plus-plus.org/)
-- [jEdit (Mac only)](http://www.jedit.org/)
+- [jEdit (Mac only)](http://www.jedit.org/) or [XMLSpear](http://www.donkeydevelopment.com/#downloads)
 - [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/) 
 
 ------------
