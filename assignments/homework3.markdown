@@ -29,9 +29,9 @@ permalink:
 	- Talk about their structure or lack of;
 	- Ease or difficulty of implentation;
 	- Explain technically some of the features of each, benefits/cost or drawbacks;
-	- Why do you think the developers of Omeka has chosen [Dublin Core over MODS?](http://omeka.org/forums/topic/omeka-and-mods-element-set)
+	- Why do you think the developers of Omeka have chosen [Dublin Core over MODS?](http://omeka.org/forums/topic/omeka-and-mods-element-set)
 
 
 - It's worth 10 points and due **Saturday July 18th** 
 - Submit via email as one .zip file (include .xml, .csv, and .doc files). 
-- Work in your groups! It will go faster!
+- Work in groups on the discussion board--it will go faster!
