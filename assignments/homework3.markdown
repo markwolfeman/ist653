@@ -11,7 +11,7 @@ permalink:
 - Omeka's ["Working with Dublin Core"](https://omeka.org/codex/Working_with_Dublin_Core") and [Dublin Core.org's Generic Examples](http://dublincore.org/documents/2000/07/16/usageguide/generic.shtml)
 
 - Use 5 of your images from Homework 2 to describe 
-- Download [xml file](https://www.albany.edu/~mwolfe/ist653/homework/hw3/dc_hw3.xml) 
+- Download [xml file](https://www.albany.edu/~mwolfe/ist653/homework/hw3/dc_hw3.xml) Right-click and choose "Save as" to project folder.
 - Choose five that are as different from each other as allowable. 
 - [Class example link](https://s-media-cache-ak0.pinimg.com/564x/25/9c/c4/259cc4503e54e6ead71cf02ae2a9c5d1.jpg)
 - Use [Advanced Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/) to encode your metadata
