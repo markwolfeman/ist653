@@ -32,6 +32,6 @@ permalink:
 	- Why do you think the developers of Omeka have chosen [Dublin Core over MODS?](http://omeka.org/forums/topic/omeka-and-mods-element-set)
 
 
-- It's worth 10 points and due **Sunday July 19th** 
+- It's worth 10 points and due **Monday July 20th** 
 - Submit via email as one .zip file (include .xml, .csv, and .doc files). 
 - Work in groups on the discussion board--it will go faster!

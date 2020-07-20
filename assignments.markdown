@@ -8,4 +8,6 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/homework2.html) **Due Tuesday July 14th**
 
-![homework](/assets/hw.jpg) [Homework 3](https://markwolfeman.github.io/ist653/assignments/homework3.html) **Due Sundday July 19th**
+![homework](/assets/hw.jpg) [Homework 3](https://markwolfeman.github.io/ist653/assignments/homework3.html) **Due Monday July 20th**
+
+![homework](/assets/hw.jpg) [Homework 4](https://markwolfeman.github.io/ist653/assignments/homework4.html) Coming soon!
