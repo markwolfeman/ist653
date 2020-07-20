@@ -215,7 +215,47 @@ Exercise:  (**Install XML editor by July 16th**)
 
 ------------
 
-# Unit 8: 	July 17 Metadata Worflow Part 2
+# Unit 8: 	July 20 Choosing a Repository Architecture
+
+Readings:
+
+- [Omeka Getting Started and Documentation](https://omeka.org/codex/Documentation)
+	- Read sections:  "Site Planning Tips," "Examples and Case Studies"
+ - [Omeka and Its Peers, Scheinfeldt (2010)](https://foundhistory.org/2010/09/omeka-and-its-peers/)
+
+
+Videos:
+
+- [Choosing a Digital Repository Part 1](https://youtu.be/EW_R5XwJ3VY) [09:18]
+- [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8)[53:15]
+- <!-- [Homework 4 Overview](https://youtu.be/2Hm4ZNT1ji4) [3:49] -->
+
+Presentation:
+
+- [Choosing a Digital Repository](http://www.albany.edu/~mwolfe/ist653/unit7/Choosing%20a%20Digital%20Repository.pptx)[.ppt]
+
+
+------------
+
+# Unit 9:  	July 22 Linked Data & Controlled Vocabularies 
+
+Readings:
+
+- ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-4613699-dt-content-rid-12909016_1/courses/2173-IIST-653-8831/miller_chapter5.pdf) [Blackboard-Course Content]
+- ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/)
+
+Videos:
+
+- [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
+- [Introduction to  Vocabularies &amp; Linked Data](https://youtu.be/M0TvMshLveQ)[39:36]
+
+Presentation:
+
+- [Introduction to  Vocabularies &amp; Linked Data](http://www.albany.edu/~mwolfe/ist653/week12/Vocabularies%20and%20Linked%20Data.pptx) [.ppt]
+
+------------
+
+# Unit 10: 	July 24 Project Planning
 
 Readings:
 
@@ -226,7 +266,7 @@ Presentation:
 
 ------------
 
-# Unit 9:  	July 20 Linked Data & Controlled Vocabularies 
+# Unit 11: 	July 27 Sustainability & Preservation
 
 Readings:
 
@@ -237,29 +277,7 @@ Presentation:
 
 ------------
 
-# Unit 10: 	July 22 Choosing an Repository Architecture
-
-Readings:
-
-Videos:
-
-Presentation:
-
-
-------------
-
-# Unit 11: 	July 24 Project Planning
-
-Readings:
-
-Videos:
-
-Presentation:
-
-
-------------
-
-# Unit 12:	July 27 Sustainability & Preservation
+# Unit 12:	July 29 Open Lab Final Project and Review
 
 Readings:
 
@@ -269,7 +287,7 @@ Presentation:
 
 ------------
 
-# Unit 13:	July 29 Open Lab Final Project and Review
+# Unit 13:	July 31 Open Lab Final Project and Review
 
 ------------
 
