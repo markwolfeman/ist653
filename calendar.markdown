@@ -247,11 +247,11 @@ Readings:
 Videos:
 
 - [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
-- [Introduction to  Vocabularies &amp; Linked Data](https://youtu.be/M0TvMshLveQ)[39:36]
+- [Introduction to  Vocabularies &amp; Linked Data](https://youtu.be/M0TvMshLveQ) [39:36]
 
 Presentation:
 
-- [Introduction to  Vocabularies &amp; Linked Data](http://www.albany.edu/~mwolfe/ist653/week12/Vocabularies%20and%20Linked%20Data.pptx) [.ppt]
+- [Introduction to  Vocabularies &amp; Linked Data](http://www.albany.edu/~mwolfe/ist653/unit9/Vocabularies%20and%20Linked%20Data.pptx) [.ppt]
 
 ------------
 
