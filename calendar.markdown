@@ -228,7 +228,7 @@ Videos:
 
 - [Choosing a Digital Repository Part 1](https://youtu.be/EW_R5XwJ3VY) [09:18]
 - [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8)[53:15]
-- <!-- [Homework 4 Overview](https://youtu.be/2Hm4ZNT1ji4) [3:49] -->
+ 
 
 Presentation:
 
@@ -259,9 +259,20 @@ Presentation:
 
 Readings:
 
+- [Using Omeka to Build Digital Collections: The METRO Case Study by ](http://dlib.org/dlib/march10/kucsma/03kucsma.html) Kucsma, Reiss, & Sidman (2010) in D-Lib
+- [Review: The Showcase of Omeka Powered sites](https://omeka.org/showcase/) 
+- [Planning Tips:](https://omeka.org/codex/Site_Planning_Tips) "Questions to Ask While Planning"
+- (Optional reading), ["Institutional Repository on a Shoestring" in D-Lib  Wrenn & Mueller (2009)](https:www.dlib.org/dlib/january09/wrenn/01wrenn.html)  
+
 Videos:
 
+- Omeka Screencasts:
+  
+	- Watch all 12 [&quot;Getting Started&quot; screencasts videos](https://omeka.org/classic/docs/GettingStarted/Screencasts/)
+- [Homework 4 Overview](https://youtu.be/2Hm4ZNT1ji4) [3:49]
+
 Presentation:
+- No presentation
 
 
 ------------
