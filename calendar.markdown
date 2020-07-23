@@ -232,7 +232,7 @@ Videos:
 
 Presentation:
 
-- [Choosing a Digital Repository](http://www.albany.edu/~mwolfe/ist653/unit7/Choosing%20a%20Digital%20Repository.pptx)[.ppt]
+- [Choosing a Digital Repository](https://www.albany.edu/~mwolfe/ist653/unit8/Choosing%20a%20Digital%20Repository.pptx)[.ppt]
 
 
 ------------
