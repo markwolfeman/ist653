@@ -269,6 +269,7 @@ Videos:
 - Omeka Screencasts:
   
 	- Watch all 12 [&quot;Getting Started&quot; screencasts videos](https://omeka.org/classic/docs/GettingStarted/Screencasts/)
+	
 - [Homework 4 Overview](https://youtu.be/2Hm4ZNT1ji4) [3:49]
 
 Presentation:
