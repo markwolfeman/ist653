@@ -262,7 +262,7 @@ Readings:
 - [Using Omeka to Build Digital Collections: The METRO Case Study by ](http://dlib.org/dlib/march10/kucsma/03kucsma.html) Kucsma, Reiss, & Sidman (2010) in D-Lib
 - [Review: The Showcase of Omeka Powered sites](https://omeka.org/showcase/) 
 - [Planning Tips:](https://omeka.org/codex/Site_Planning_Tips) "Questions to Ask While Planning"
-- (Optional reading), ["Institutional Repository on a Shoestring" in D-Lib  Wrenn & Mueller (2009)](https:www.dlib.org/dlib/january09/wrenn/01wrenn.html)  
+- (Optional reading), ["Institutional Repository on a Shoestring" in D-Lib  Wrenn & Mueller (2009)](https://www.dlib.org/dlib/january09/wrenn/01wrenn.html)  
 
 Videos:
 
