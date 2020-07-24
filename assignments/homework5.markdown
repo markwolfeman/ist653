@@ -39,7 +39,7 @@ permalink:
 - Ensure that all of your images are public, if you see &quot;(Private)&quot;, they need changing.
 - Each item will be need to be added, then metadata assigned to it. </li>
 - I would like the metadata to look similar to this [example .csv file](https://www.albany.edu/~mwolfe/ist653/homework/hw5/example.csv) 
-	[or this completed one](https://www.albany.edu/~mwolfe/ist653/homework/hw5/omeka_metadata_canals.csv)
+	OR [this completed one](https://www.albany.edu/~mwolfe/ist653/homework/hw5/omeka_metadata_canals.csv)
  - Lastly, Select Users on the navigation bar, and add me as an &quot;Admin&quot; user. 
 
 --------------
