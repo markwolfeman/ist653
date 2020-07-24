@@ -27,7 +27,7 @@ permalink:
 	- Why was Dublin Core and MODS created?
 	- What are the strengths and weaknesses of using MODS or Dublin Core?
 	- Talk about their structure or lack of;
-	- Ease or difficulty of implentation;
+	- Ease or difficulty of implementation;
 	- Explain technically some of the features of each, benefits/cost or drawbacks;
 	- Why do you think the developers of Omeka have chosen [Dublin Core over MODS?](http://omeka.org/forums/topic/omeka-and-mods-element-set)
 
