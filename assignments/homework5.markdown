@@ -15,7 +15,7 @@ permalink:
 	- Using ReNamer or by hand, normalize your filenames using best practices.
  - Using the DOS prompt: 
    	- Change drive by merely typing the drive you want to be in and a colon like, <span style="font-family:Courier">C:</span>
-   	- Navigagte to the folder of images by typing,  <span style="font-family:Courier">CD</span> [path to directory with images] you can copy and paste in the path or enter it by hand.
+   	- Navigate to the folder of images by typing,  <span style="font-family:Courier">CD</span> [path to directory with images] you can copy and paste in the path or enter it by hand.
     - Print out the directory to a .txt file using a series of commands: <span style="font-family:Courier"> dir /b &gt; filenames.txt</span>
     - Copy and paste the file names from the newly created .txt file and past into the <span style="font-family:Courier">indentifier</span> field column of your spreadsheet.
 
