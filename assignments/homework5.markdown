@@ -23,7 +23,7 @@ permalink:
 
 - Upload using CSV Import tool Option:
 	- [Read CSV Inport Tool documentation](https://omeka.org/classic/docs/Plugins/CSV_Import/)  
-	- [Watch video for the CSV Inport Tool](https://vimeo.com/104014678)
+	- [Watch video for the CSV Import Tool](https://vimeo.com/104014678)
 - Create your metadata spreadsheet template in the spirit of the one you used in Homework 3, following these guidelines:
 
 	- Ensure that your spreadsheet headings are unique, with no spaces.
