@@ -16,7 +16,7 @@ Using Omeka, you will demonstrate your ability to build a small repository of im
 
 - In your plugin, click Add an Exhibit to build an exhibit that tells a story and/or documents the photos you have uploaded to the repository.
 - If you have not already, you can create a collection, and add your images to that collection so they "live" somewhere, but it's not required. But if your images are not associated with a collection, they can still be incorporated in your exhibit.
-- Create an image gallery inside your exhibit, and add your images.</li>
+- Create an image gallery inside your exhibit, and add your images.
 - Create 3 pages that include text and images that tell a story ( approximately 250 words for all). Consider the sequence, if there is one, to your pages.
 
 **Part 2 (10 Points) Install Simple Pages plugin**
@@ -38,9 +38,11 @@ Using Omeka, you will demonstrate your ability to build a small repository of im
  
  **<font color="Blue">***2 points of extra credit***</font>**  Add images of head shots to your staffing pages. The pictures can be fictitious or annoymous in some manner, not unless you are OK with the public viewing them.
  
- - Past Student Projects: [Hemingway Home](http://hemingwayatkeywest.omeka.net/)[Souvenir Buildings](http://souvenirbuildings.omeka.net)[Exotic Fish of the World](http://exoticfish.omeka.net/)[Electrical Outlets of Distinction](https://outlets.omeka.net/)[Hike Iceland](https://hikeiceland.omeka.net/)
+ - Past Student Projects: [Hemingway Home](http://hemingwayatkeywest.omeka.net/), [Souvenir Buildings](http://souvenirbuildings.omeka.net), [Exotic Fish of the World](http://exoticfish.omeka.net/), [Electrical Outlets of Distinction], (https://outlets.omeka.net/)[Hike Iceland](https://hikeiceland.omeka.net/)
 
   
-This assignment is worth 30 points. It is **Due Wednesday August 3rd**
-Once completed, send me the link to your Omeka website and include your login an password. Please! Use a password that's not in use with your other logins. 
+- This assignment is worth 30 points. It is **Due Wednesday August 3rd**
+Once completed, send me the link to your Omeka website. 
+
+- This is also a group assignment, so feel free to help, suggest and comment on each other's work and questions in the discussion board. Everyone still has to hand in an individual assignment.  
 
