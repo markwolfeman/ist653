@@ -299,19 +299,23 @@ Presentation:
 
 # Unit 12:	July 29 Open Lab Final Project and Review
 
-Readings:
-
-Videos:
-
-Presentation:
+- work on your Final Project
+- work on Test 2 / Job Announcment
 
 ------------
 
 # Unit 13:	July 31 Open Lab Final Project and Review
 
+- work on your Final Project
+- work on Test 2 / Job Announcment
+
 ------------
 
 # Final Day	August 5 Open Lab Final Project and Review
+
+- Please hand in all assignments. 
+- Test 2 / Create Job Announcement due
+- Omeka Final Project due
 
 ------------
 
