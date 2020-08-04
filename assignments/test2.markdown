@@ -52,7 +52,7 @@ permalink:
 - Is experience with other DL in place of Omeka experience acceptable?
 - Is professional development supported and/or expected?
 
-- The "take home" test is worth 15 points. Email me the completed Word document by **Wednesday, August 3rd.** 
+- The "take home" test is worth 15 points. Email me the completed Word document by **Wednesday, August 5th.** 
 - You can work in groups. If it's a shared project, a group member must write at least one section, and please designate that person with section. You can post questions and discuss on the dicussion board.
 
 - Email me the word doc when it's complete. 
