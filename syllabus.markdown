@@ -4,8 +4,8 @@ title: Syllabus
 permalink: /syllabus/
 ---
 # Course Information
-IST 653 / 3 Credits / Summer 2020
-<br/>June 29 - August 7
+IST 653 / 3 Credits / Summer 2021
+<br/>May 24 - July 2, 2021
 <br/>Fully Online (100%)
 
 # Instructor Information
@@ -42,7 +42,7 @@ Upon completion of this course, students will:
 
 # Units 
 
-The first unit of class will begin **Monday, June 29th.** Each subsequent unit will be started on the date following the unit number. Each unit of course materials will be released at least three days in advance of the date on the schedule. The due date and time for each homework will be stated when released. 
+The first unit of class will begin **Monday, May 24th.** Each subsequent unit will be started on the date following the unit number. Each unit of course materials will be released at least three days in advance of the date on the schedule. The due date and time for each homework will be stated when released. 
 
 # Computer
 
