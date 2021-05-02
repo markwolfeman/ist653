@@ -41,7 +41,7 @@ Exercises:
 
 ------------
 
-# Unit 2: ++++ What is a Digital Library 
+# Unit 2:  May 26 What is a Digital Library 
 
 Readings:
 
@@ -68,7 +68,7 @@ Discussion & Exercise:
 
 ------------
 
-# Unit 3:	++++ Images (Digitization) 
+# Unit 3:  May 28  Images (Digitization) 
 Readings:
 
 <!-- - Besser (2003) [Introduction to Imaging (read: intro to p. 46)](http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf) [.pdf]
@@ -88,7 +88,7 @@ Presentation:
 
 ------------
 
-# Unit 4: 	+++ Images (Management) Part 1
+# Unit 4: May 31 Images (File Management) Part 1
 
 Readings:
 
@@ -117,7 +117,7 @@ Presentation:
 	- [Adobe Bridge (free)](https://www.adobe.com/products/bridge.html) -->
 
 ------------
-# Unit 5: 	July 10 Images (Management) Part 2
+# Unit 5: 	June 2 Images (File Management) Part 2
 
 Readings:
 
@@ -161,7 +161,7 @@ Technology downloads:
 
 ------------
 
-# Unit 6: 	+++ Digital Audio and Video 
+# Unit 6: 	June 3 Digital Audio and Video 
 
 Readings:
 
@@ -185,7 +185,7 @@ Presentation:
 
 ------------
 
-# Unit 7:  	+++ Metadata and XML
+# Unit 7:  June 7	Metadata and XML
 
 Readings:
 
@@ -215,7 +215,7 @@ Exercise:  (**Install XML editor by +++**)
 
 ------------
 
-# Unit 8:  +++ Choosing a Repository Architecture
+# Unit 8:  June 9 Choosing a Repository Architecture
 
 Readings:
 
@@ -237,7 +237,7 @@ Presentation:
 
 ------------
 
-# Unit 9:  	+++ Linked Data & Controlled Vocabularies 
+# Unit 9:  	June 11 Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -255,7 +255,7 @@ Presentation:
 
 ------------
 
-# Unit 10: 	+++ Project Planning
+# Unit 10:  June 14 Project Planning
 
 Readings:
 
@@ -278,7 +278,7 @@ Presentation:
 
 ------------
 
-# Unit 11: 	++++ Sustainability & Preservation
+# Unit 11: 	June 16 Sustainability & Preservation
 
 Readings:
 
@@ -296,21 +296,27 @@ Presentation:
 <!-- - None -->
 
 ------------
-
-# Unit 12: +++ Open Lab Final Project and Review
+# No Class: June 18 Juneteenth Observed
 
 <!-- - work on your Final Project
 - work on Test 2 / Job Announcment-->
 
 ------------
 
-# Unit 13:	+++ Open Lab Final Project and Review
+# Unit 12: June 21 Open Lab Final Project and Review
+
+<!-- - work on your Final Project
+- work on Test 2 / Job Announcment-->
+
+------------
+
+# Unit 13:	June 25 Open Lab Final Project and Review
 
 <!-- - work on Test 2 / Job Announcment-->
 
 ------------
 
-# Final Day	+++ Open Lab Final Project and Review
+# Final Day	June 28 Open Lab Final Project and Review
 
 <!-- - Please hand in all assignments. 
 - Test 2 / Create Job Announcement due
