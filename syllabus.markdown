@@ -50,7 +50,7 @@ Students must have access to a computer and a high-speed Internet connection, an
 
 # Group Work
 
-Except for the two tests, all assignments will be group oriented projects. You must help each other to succeed via the discussion tool. Homework 1 is the only assignment that you will not collaborate on. All other group assignments will entail resolving problems together, but everyone will hand in or post their individual assignment. 
+Except for the two tests, all assignments will be group oriented projects. You must help each other to succeed via the discussion tool. Homework 1 is the only assignment that you will not collaborate on class-wide, instead you will have an assigned partner(s). All other group assignments will entail resolving problems together, but everyone will hand in or post their individual assignment. 
 
 # Readings
 
@@ -74,7 +74,7 @@ Hand in assignments on time! Contact me if you cannot meet a deadline, if not, I
 
 # Tests
 
-You will take two tests. Each will be administered via Blackboard.
+You will take two tests. One will be administered via Blackboard and the other via the course site.
 
 # Submission Process
 

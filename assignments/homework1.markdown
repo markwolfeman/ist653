@@ -10,7 +10,7 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (,&amp;) [NY Heritage](http://www.newyorkheritage.org/)
+- Group 1: (,&amp;) [NY Heritage](https://nyheritage.org/)
 - Group 2: (, &amp;) [CALI-SPHERE](http://calisphere.cdlib.org/)
 - Group 3: (,  &amp;) [DPLA](https://dp.la/)
 - Group 4: 

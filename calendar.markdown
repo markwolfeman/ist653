@@ -11,32 +11,31 @@ Readings:
 - No readings
 
 Videos:
-<!-- - [Course Welcome &amp; Meet the Instructor](https://youtu.be/nn-g7YH5u9U) [9:20 min.]-->
-<!-- - [Overview of course Part 1](https://youtu.be/5p3WmGu53kc) [11:25 min.]-->
-<!-- - [Overview of course Part 2](https://youtu.be/5750W3JQmO4) [8:13 min.]-->
-<!-- - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]-->
+
+- [Course Welcome &amp; Meet the Instructor](https://youtu.be/injHmsjGUWI) [11:58 min.]
+- [Overview of Course Part 1]() [ min.]
+- [Overview of Course Part 2]() [ min.]
+- [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
 
 Presentation:
 
-<!-- - [Pre-History to Digital Libraries](https://www.albany.edu/~mwolfe/ist653/prehistory_to_digital_libraries.pptx)[.pptx]
+ - [Pre-History to Digital Libraries](https://www.albany.edu/~mwolfe/ist653/prehistory_to_digital_libraries.pptx)[.pptx]
 
 Disscussion:
  - [The Story of the Beautiful](http://peacockroom.wayne.edu)
- - [Making of America](http://quod.lib.umich.edu/m/moa/)
- - [Digital Kenyon](http://digital.kenyon.edu/greenslade/)
- - [UAlbany](https://archives.albany.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q=&search_field=all_fields)
+ - [Trinity College, Dublin Ireland](https://digitalcollections.tcd.ie/)
+  - [UAlbany Digtial Collections](https://archives.albany.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q=&search_field=all_fields)
+  - [Nation Science Digital Library](https://nsdl.oercommons.org/)
  - [Mark Twain Project Online](http://www.marktwainproject.org/homepage.html)
  - [Vincent van Gogh: The Letters](http://vangoghletters.org/vg/)
- - [DPLA](http://dp.la/)
- - [OAIster](http://www.oclc.org/oaister.en.html)
+ - [Digital Public Library of American](http://dp.la/)
  - [NYC OpenData](https://nycopendata.socrata.com/)
- - [NSDL](https://nsdl.oercommons.org/)
- - [The Salman Rushdie Digital Archive](http://www.nytimes.com/video/multimedia/1247467357139/the-salman-rushdie-digital-archive.html) [5 min video] -->
+  - [The Salman Rushdie Digital Archive](http://www.nytimes.com/video/multimedia/1247467357139/the-salman-rushdie-digital-archive.html) [5 min video]
 
 Exercises:
 
-<!-- - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/icebreaker.html) **Due: 6/29**
-- Spend a couple minutes with each digital repository above, and watch the video for Rushdie Archive. -->
+ - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: **
+- Spend a couple minutes with each digital repository above, and watch the video for Rushdie Archive. 
 
 
 ------------
@@ -45,12 +44,11 @@ Exercises:
 
 Readings:
 
-<!--  -  [What Are Digital Libraries?](https://www.clir.org/1998/07/clir-issues-number-4/) [Waters (1998)]
+- [What Are Digital Libraries?](https://www.clir.org/1998/07/clir-issues-number-4/) [Waters (1998)]
 - [Digital Library](https://en.wikipedia.org/wiki/Digital_library) [Wikipedia]
 - [Why Digital Libraries?](http://www.lesk.com/mlesk/follett/follett.html) [Lesk (2004)] 
 - [The Library of Utopia](https://www.technologyreview.com/2012/04/25/116142/the-library-of-utopia/) [Carr 2004]
-- [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) [Bush 1945]
-- PDF of article "As We May Think": [http://web.mit.edu/STS.035/www/PDFs/think.pdf](http://web.mit.edu/STS.035/www/PDFs/think.pdf) -->
+- [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) or [PDF](http://web.mit.edu/STS.035/www/PDFs/think.pdf) [Bush 1945]
 
 Videos:
 
@@ -85,10 +83,12 @@ Presentation:
 <!-- - [Introduction to Image Scanning](https://www.albany.edu/~mwolfe/ist653/unit3/Introduction%20to%20Image%20Scanning.pptx) [.ppt]
 -->
 
-
+------------
+# No Class: Memorial Day Observed
 ------------
 
-# Unit 4: May 31 Images (File Management) Part 1
+
+# Unit 4: June 2 Images (File Management) Part 1
 
 Readings:
 
@@ -117,7 +117,7 @@ Presentation:
 	- [Adobe Bridge (free)](https://www.adobe.com/products/bridge.html) -->
 
 ------------
-# Unit 5: 	June 2 Images (File Management) Part 2
+# Unit 5: 	June 4 Images (File Management) Part 2
 
 Readings:
 
@@ -161,7 +161,7 @@ Technology downloads:
 
 ------------
 
-# Unit 6: 	June 3 Digital Audio and Video 
+# Unit 6: 	June 7 Digital Audio and Video 
 
 Readings:
 
@@ -185,7 +185,7 @@ Presentation:
 
 ------------
 
-# Unit 7:  June 7	Metadata and XML
+# Unit 7:  June 9	Metadata and XML
 
 Readings:
 
@@ -215,7 +215,7 @@ Exercise:  (**Install XML editor by +++**)
 
 ------------
 
-# Unit 8:  June 9 Choosing a Repository Architecture
+# Unit 8:  June 11 Choosing a Repository Architecture
 
 Readings:
 
@@ -237,7 +237,7 @@ Presentation:
 
 ------------
 
-# Unit 9:  	June 11 Linked Data & Controlled Vocabularies 
+# Unit 9:  	June 14 Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -255,7 +255,7 @@ Presentation:
 
 ------------
 
-# Unit 10:  June 14 Project Planning
+# Unit 10:  June 16 Project Planning
 
 Readings:
 
@@ -275,10 +275,14 @@ Videos:
 Presentation:
 <!-- - None -->
 
+------------
+
+# No Class: June 18 Juneteenth Observed
+
 
 ------------
 
-# Unit 11: 	June 16 Sustainability & Preservation
+# Unit 11: 	June 21 Sustainability & Preservation
 
 Readings:
 
@@ -295,15 +299,10 @@ Presentation:
 
 <!-- - None -->
 
-------------
-# No Class: June 18 Juneteenth Observed
-
-<!-- - work on your Final Project
-- work on Test 2 / Job Announcment-->
 
 ------------
 
-# Unit 12: June 21 Open Lab Final Project and Review
+# Unit 12: June 23 Open Lab Final Project and Review
 
 <!-- - work on your Final Project
 - work on Test 2 / Job Announcment-->
