@@ -13,8 +13,8 @@ Readings:
 Videos:
 
 - [Course Welcome &amp; Meet the Instructor](https://youtu.be/injHmsjGUWI) [11:58 min.]
-- [Overview of Course Part 1]() [ min.]
-- [Overview of Course Part 2]() [ min.]
+- [Overview of Course Part 1](https://youtu.be/VrTX-ur68p8) [14:39 min.]
+- [Overview of Course Part 2](https://youtu.be/3gEnI1CIxwI) [8:08 min.]
 - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
 
 Presentation:
@@ -35,7 +35,7 @@ Disscussion:
 Exercises:
 
  - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: 5/24 **
-- Spend a couple minutes with each digital repository above, and watch the video for Rushdie Archive. 
+- Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive. 
 
 
 ------------
