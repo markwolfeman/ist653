@@ -34,7 +34,7 @@ Disscussion:
 
 Exercises:
 
- - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: **
+ - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: 5/24 **
 - Spend a couple minutes with each digital repository above, and watch the video for Rushdie Archive. 
 
 
