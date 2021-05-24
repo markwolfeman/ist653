@@ -52,7 +52,7 @@ Readings:
 
 Videos:
 
-[Foundations of Digital Libraries Part 1](https://youtu.be/nexEnlECLV4) [ 8:17 min.]
+- [Foundations of Digital Libraries Part 1](https://youtu.be/nexEnlECLV4) [ 8:17 min.]
 - [Foundations of Digital Libraries Part 2](https://www.youtube.com/watch?v=J9J6w39nK7w) [33:36 min.]
 <!-- - - Homework 1 overview [3:50 min.] --> 
 
