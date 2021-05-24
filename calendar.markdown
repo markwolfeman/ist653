@@ -25,7 +25,7 @@ Disscussion:
  - [The Story of the Beautiful](http://peacockroom.wayne.edu)
  - [Trinity College, Dublin Ireland](https://digitalcollections.tcd.ie/)
   - [UAlbany Digtial Collections](https://archives.albany.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q=&search_field=all_fields)
-  - [Nation Science Digital Library](https://nsdl.oercommons.org/)
+  - [National Science Digital Library](https://nsdl.oercommons.org/)
  - [Mark Twain Project Online](http://www.marktwainproject.org/homepage.html)
  - [Vincent van Gogh: The Letters](http://vangoghletters.org/vg/)
  - [Digital Public Library of American](http://dp.la/)
@@ -52,17 +52,17 @@ Readings:
 
 Videos:
 
-<!-- - [Foundations of Digital Libraries Part 1](https://youtu.be/nexEnlECLV4) [ 8:17 min.]
+[Foundations of Digital Libraries Part 1](https://youtu.be/nexEnlECLV4) [ 8:17 min.]
 - [Foundations of Digital Libraries Part 2](https://www.youtube.com/watch?v=J9J6w39nK7w) [33:36 min.]
-- Homework 1 overview [3:50 min.] --> 
+<!-- - - Homework 1 overview [3:50 min.] --> 
 
 Presentation:
 
-<!-- - [Foundations of Digital Libraries](https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx)-->
+ [Foundations of Digital Libraries](https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx)
 
 Discussion & Exercise:
 
-<!-- - ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140056_1&nav=discussion_board_entry&conf_id=_225263_1&forum_id=_435413_1), approximately 75 words, and comment on one other fellow student's post. **Due  ** -->
+["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140056_1&nav=discussion_board_entry&conf_id=_225263_1&forum_id=_435413_1), approximately 75 words, and comment on one other fellow student's post. **Due Wednesday May 26th** 
 
 ------------
 
