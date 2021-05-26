@@ -6,17 +6,17 @@ permalink:
 
 <h1> Homework 1</h1>
 
-Each group is assigned a digital library to evaluate. Students will need to address the questions below, and present to the class on the disccusion board. Answer the questions in your own words, don't merely copy and paste text from the site documentation. Each group must divide up the questions equally, and present in writing on the Blackboard Discussion Board. Nominate a person from your group to post your assignment to a thread on the discussion forum for &quot;Homework 1&quot;. Please attribute your name to the section you worked on. You are welcome to use screen shots. It's probably easiest to use Word, and submit the document as an attachment to the disscussion board, post under your group name (i.e. &quot;Group 2 final submission&quot;). 
+Each group is assigned a digital library to evaluate. Students will need to address the questions below, and present to the class on the disccusion board. Answer the questions in your own words, don't merely copy and paste text from the site documentation. Each group must divide up the questions equally, and present in writing on the Blackboard Discussion Board. Nominate a person from your group to post your assignment to a thread on the discussion forum for &quot;Homework 1&quot;. Please attribute your name to the section you worked on. You are welcome to use screen shots right in the post. Post under your group name (i.e. &quot;Group 2 final submission&quot;). 
 
 # Assigned digital libraries: 
 
-- Group 1: (,&amp;) [NY Heritage](https://nyheritage.org/)
-- Group 2: (, &amp;) [CALI-SPHERE](http://calisphere.cdlib.org/)
-- Group 3: (,  &amp;) [DPLA](https://dp.la/)
-- Group 4: 
-- Group 5: (, &amp;) [NYS Historic Newspapers](http://nyshistoricnewspapers.org)
-- Group 6: (,&amp; ) [New York State Library Digital Online Collections](http://www.nysl.nysed.gov/scandocs/)
-- Group 7: () 
+- Group 1: (J. Auerfeld, M. Auerfeld&amp;Boland) [SlaveVoyages](https://www.slavevoyages.org/)
+- Group 2: (Bradt,Carrillo &amp; Collins) [CALI-SPHERE](http://calisphere.cdlib.org/)
+- Group 3: (Cook, DiGioacchino  &amp; Fitzsimmons-Cruz) [DPLA](https://dp.la/)
+- Group 4: (Georges, Higgins &amp; Horrigan) [Jacob's Pillow](https://archives.jacobspillow.org/)
+- Group 5: (Johnson, Kang &amp; Kortright) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
+- Group 6: (Navea De Chirinos, Nguyen &amp; Otasowie ) [New York State Library Digital Online Collections](http://www.nysl.nysed.gov/scandocs/)
+- Group 7: (Smith, Valentin &amp; Wood)[Open Vault at WGBH](https://openvault.wgbh.org/) 
 
 # Part 1 Institution
 
@@ -52,4 +52,4 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Functionality to have a &quot;book cart&quot;? Guide to searching techniques?
 
 - This assignment is worth **10 points.**
-- **Due ** 
+- **Due Tuesday June 1** 
