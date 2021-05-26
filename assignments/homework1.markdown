@@ -18,7 +18,7 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Group 4: (Georges, Higgins &amp; Horrigan) [Jacob's Pillow](https://archives.jacobspillow.org/)
 - Group 5: (Johnson, Kang &amp; Kortright) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
 - Group 6: (Navea De Chirinos, Nguyen &amp; Otasowie ) [New York State Library Digital Online Collections](http://www.nysl.nysed.gov/scandocs/)
-- Group 7: (Smith, Valentin &amp; Wood)[Open Vault at WGBH](https://openvault.wgbh.org/) 
+- Group 7: (Smith, Valentin &amp; Wood) [Open Vault at WGBH](https://openvault.wgbh.org/) 
 
 # Part 1 Institution
 

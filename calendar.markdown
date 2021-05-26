@@ -54,7 +54,8 @@ Videos:
 
 - [Foundations of Digital Libraries Part 1](https://youtu.be/nexEnlECLV4) [ 8:17 min.]
 - [Foundations of Digital Libraries Part 2](https://www.youtube.com/watch?v=J9J6w39nK7w) [33:36 min.]
-<!-- - - Homework 1 overview [3:50 min.] --> 
+- Homework 1 overview (https://youtu.be/nZnNIw-FzL8) [6:42 min.] 
+
 
 Presentation:
 
@@ -70,7 +71,7 @@ Discussion & Exercise:
 Readings:
 
 - Besser (2003) [Introduction to Imaging (read: intro to p. 46)](http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf) [.pdf]
-- [FADGI or Federal Agencies Digital Guidelines Initiative (About, Review Process, and skim the Glossary)](http://www.digitizationguidelines.gov/) -->
+- [FADGI or Federal Agencies Digital Guidelines Initiative (About, Review Process, and skim the Glossary)](http://www.digitizationguidelines.gov/) 
 
 Videos:
 
