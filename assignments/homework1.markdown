@@ -10,8 +10,8 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (J. Auerfeld, M. Auerfeld&amp;Boland) [SlaveVoyages](https://www.slavevoyages.org/)
-- Group 2: (Bradt,Carrillo &amp; Collins) [CALI-SPHERE](http://calisphere.cdlib.org/)
+- Group 1: (J. Auerfeld, M. Auerfeld &amp; Boland) [SlaveVoyages](https://www.slavevoyages.org/)
+- Group 2: (Bradt, Carrillo &amp; Collins) [CALI-SPHERE](http://calisphere.cdlib.org/)
 - Group 3: (Cook, DiGioacchino  &amp; Fitzsimmons-Cruz) [DPLA](https://dp.la/)
 - Group 4: (Georges, Higgins &amp; Horrigan) [Jacob's Pillow](https://archives.jacobspillow.org/)
 - Group 5: (Johnson, Kang &amp; Kortright) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
@@ -52,4 +52,4 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Functionality to have a &quot;book cart&quot;? Guide to searching techniques?
 
 - This assignment is worth **10 points.**
-- **Due Tuesday June 1** 
+- **Due Monday May 31st** 
