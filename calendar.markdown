@@ -95,8 +95,8 @@ Readings:
 
 - [Image file formats. A Few Scanning Tips.](http://www.scantips.com/basics09.html) Fulton, W. (2013)
 - [Chapter 2 &quot;Selection&quot;, 3 &quot;Conversion&quot;, & 4&quot;Quality Control](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) in *Moving Theory into Practice: Digital Imaging for Libraries and Archives,* Kenney. [2000]
-- [Skim Renamer user manual for PC](http://www.den4b.com/wiki/ReNamer) or
-- [Renamer tool for Mac](https://renamer.com/help/English.lproj/getting_started.html) 
+- Skim Renamer user manual [PC](http://www.den4b.com/wiki/ReNamer) or
+  [Mac](https://renamer.com/help/English.lproj/getting_started.html) 
 - [12 Myths about Embedded Photo Metadata](https://www.controlledvocabulary.com/blog/top-metadata-myths.html) 
 
 Videos:
