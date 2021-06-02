@@ -95,8 +95,8 @@ Readings:
 
 - [Image file formats. A Few Scanning Tips.](http://www.scantips.com/basics09.html) Fulton, W. (2013)
 - [Chapter 2 &quot;Selection&quot;, 3 &quot;Conversion&quot;, & 4&quot;Quality Control](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) in *Moving Theory into Practice: Digital Imaging for Libraries and Archives,* Kenney. [2000]
-- [Skim Renamer user manual](http://www.den4b.com/wiki/ReNamer) (PC)
-- [Renamer tool](https://renamer.com/) (MAC)
+- [Skim Renamer user manual for PC](http://www.den4b.com/wiki/ReNamer) or
+- [Renamer tool for Mac](https://renamer.com/help/English.lproj/getting_started.html) 
 - [12 Myths about Embedded Photo Metadata](https://www.controlledvocabulary.com/blog/top-metadata-myths.html) 
 
 Videos:
@@ -111,7 +111,7 @@ Presentation:
 
 - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
-- Technology / Exercise:  (install and experiment on a folder of photos) Due: **Due June 6**) Make sure your folder of image files have been backed up or are not important!
+- Technology / Exercise:  (install and experiment on a folder of photos) Due: **Due June 6/4**) Make sure your folder of image files have been backed up or are not important!
 	- [Renamer (PC)](http://www.den4b.com/?x=products&product=renamer) and 
 	- [Resizer (PC)](http://www.den4b.com/?x=products&product=resizer) or
 	- [Renamer (for Mac)](https://renamer.com/) and 
