@@ -118,7 +118,7 @@ Technology / Exercise  **Due June 6/6**
 Windows
 	- [Renamer (PC)](http://www.den4b.com/?x=products&product=renamer) 
 	- [FastStone Image Viewer (PC)](https://www.faststone.org/FSViewerDetail.htm)
-Machintosh & Windows
+Machintosh / Windows
 	- [Renamer (for Mac)](https://renamer.com/) and 
 	- [Adobe Bridge (free)](https://www.adobe.com/products/bridge.html) or
 	- [Photoscape for Mac and Windows](http://x.photoscape.org/)
