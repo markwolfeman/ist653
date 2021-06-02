@@ -106,7 +106,7 @@ Videos:
 	- [(Lecture) Part 2](https://www.youtube.com/watch?v=GUCbciGAhD4&feature=youtu.be) [31:57]
 - [How to Show File Extensions in Windows](https://www.youtube.com/watch?v=wxIIskKmUQA) [0:43]
 - [Renamer, a Powerful Software for Mass File Renaming](https://www.youtube.com/watch?v=VA55zshYwTs&t=1s)
-- [How to Batch Edit Images with Photoscape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s) 
+- [How to Batch Edit Images with PhotoScape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s) 
 
 
 Presentation:
