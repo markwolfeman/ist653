@@ -105,17 +105,20 @@ Videos:
 	- [(Lecture) Part 1](https://www.youtube.com/watch?v=gbyaB-ntjyA) [18:40]
 	- [(Lecture) Part 2](https://www.youtube.com/watch?v=GUCbciGAhD4&feature=youtu.be) [31:57]
 - [How to Show File Extensions in Windows](https://www.youtube.com/watch?v=wxIIskKmUQA) [0:43]
-- [Renamer, a Powerful Software for Mass File Renaming](https://www.youtube.com/watch?v=VA55zshYwTs) [5:20] 
+- [FastStone brief tutorial]((https://www.youtube.com/watch?v=FVKS47TI15I) 
+
 
 Presentation:
 
 - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
-- Technology / Exercise:  (install and experiment on a folder of photos) **Due June 6/6**. Make sure your folder of image files have been backed up or are not important!
-	- [Renamer (PC)](http://www.den4b.com/?x=products&product=renamer) and 
-	- [Resizer (PC)](http://www.den4b.com/?x=products&product=resizer) or
+Technology / Exercise  **Due June 6/6**  
+- Install software and experiment on a folder of photos. Make sure your folder of images have been backed up or are not important! Following the two videos above, and complete a similar task on your own. Use the product compatiable with your computer. You are not limited to Renamer or any of the products below. Adobe Bridge is great, but it requires you to login into their system.
+	- [Renamer (PC)](http://www.den4b.com/?x=products&product=renamer) 
+	- [FastStone Image Viewer (PC)](https://www.faststone.org/FSViewerDetail.htm)
 	- [Renamer (for Mac)](https://renamer.com/) and 
-	- [Adobe Bridge (free)](https://www.adobe.com/products/bridge.html)
+	- [Adobe Bridge (free)](https://www.adobe.com/products/bridge.html) or
+	- [Photoscape for Mac and Windows](http://x.photoscape.org/)
 
 ------------
 # Unit 5: 	June 4 Images (File Management) Part 2
