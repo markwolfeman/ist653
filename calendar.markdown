@@ -114,7 +114,7 @@ Presentation:
 - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
 Technology / Exercise  **Due June 6/6**  
-- Install software and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batche edit with PhotoScape), and complete a similar task on your own.  Please use Renamer and PhotoScape, but you can use Adobe Bridge or FastStone if you wish, but I will not create or link to videos for their use.
+- Install software and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own.  Please use Renamer and PhotoScape, but you can use Adobe Bridge or FastStone if you wish, but I will not create or link to videos for their use.
 
 Windows
 
