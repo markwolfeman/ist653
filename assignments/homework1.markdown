@@ -19,6 +19,7 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Group 5: (Johnson, Kang &amp; Kortright) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
 - Group 6: (Navea De Chirinos, Nguyen &amp; Otasowie ) [New York State Library Digital Online Collections](http://www.nysl.nysed.gov/scandocs/)
 - Group 7: (Smith, Valentin &amp; Wood) [Open Vault at WGBH](https://openvault.wgbh.org/) 
+- Group 8: (Coombs) [Tufts Digital Library](https://dl.tufts.edu/pages/index) 
 
 # Part 1 Institution
 
