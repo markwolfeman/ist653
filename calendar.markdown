@@ -111,7 +111,7 @@ Presentation:
 
 - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
-- Technology / Exercise:  (install and experiment on a folder of photos) **Due June 6/6**) Make sure your folder of image files have been backed up or are not important!
+- Technology / Exercise:  (install and experiment on a folder of photos) **Due June 6/6**. Make sure your folder of image files have been backed up or are not important!
 	- [Renamer (PC)](http://www.den4b.com/?x=products&product=renamer) and 
 	- [Resizer (PC)](http://www.den4b.com/?x=products&product=resizer) or
 	- [Renamer (for Mac)](https://renamer.com/) and 
