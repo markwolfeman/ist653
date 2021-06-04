@@ -5,6 +5,9 @@ permalink:
 ---
 
 <h1>College Photo Assignment</h1>
+
+Right-click and save file to project folder
+
   - Julia [Ball State University](http://www.greengrove.markdwolfe.com/ist653/ball_state_university.zip)
   - Maylynne [berea College](http://www.greengrove.markdwolfe.com/ist653/berea_college.zip)
   - Laura [Bowling Green University](http://www.greengrove.markdwolfe.com/ist653/bowling_green.zip)
