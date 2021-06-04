@@ -35,11 +35,9 @@ the .csv file should look something like this, but with updated file names: [.cs
 		- [Video tutorial](https://www.youtube.com/watch?v=ei0UoIIU_Yo&t=196s) using PhotoScape 
 	- reduce images in size using Resize Images section on the last tab, files should be about 100k per file
 		- [Video tutorial](https://youtu.be/aOj9PMCxDi4) resize images using PhotoScape 
-
-
 <br/>
 
-- **Due .** 
+- **Due:** 
 
 - Assignment is worth 10 points. 
 

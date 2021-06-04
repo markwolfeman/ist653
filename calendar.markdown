@@ -164,7 +164,7 @@ Presentation:
 
 Technology downloads:
 
-- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
+- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool
 
 
 
