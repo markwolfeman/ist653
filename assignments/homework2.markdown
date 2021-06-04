@@ -34,7 +34,7 @@ the .csv file should look something like this, but with updated file names: [.cs
 	- create watermark by choosing icon from assigned college make watermark transparent and defined, save as .jpg
 		- [Video tutorial](https://www.youtube.com/watch?v=ei0UoIIU_Yo&t=196s) using PhotoScape 
 	- reduce images in size using Resize Images section on the last tab, files should be about 100k per file
-		- [Video tutorial]() resize images using PhotoScape 
+		- [Video tutorial](https://youtu.be/aOj9PMCxDi4) resize images using PhotoScape 
 
 
 <br/>
