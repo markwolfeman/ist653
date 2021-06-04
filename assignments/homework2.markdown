@@ -5,9 +5,8 @@ permalink:
 ---
 
 <h1> Homework 2</h1>
-
-video 
-You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, TSR Watermark Software or iWatermark, and ExifTool to update and manage a small collection of images. These images were scanned by different people for different purposes. The file names are not normalized. [Get your assigned photos and college here.](http://www.greengrove.markdwolfe.com/ist653/)
+ 
+You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, and ExifTool to update and manage a small collection of images. These images were scanned by different people for different purposes. The file names are not normalized. [Get your assigned photos and college here.](https://markwolfeman.github.io/ist653/assignments/college_photo_list.html)
 
 # Part 1 (5 points) Getting Your File Names Ready
 

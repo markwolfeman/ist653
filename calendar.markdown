@@ -145,7 +145,8 @@ Videos:
 	- [Part 3](https://www.youtube.com/watch?v=959hYLK40gE) [3:28]
 	- [Part 4](https://www.youtube.com/watch?v=VWaIe2u8zRU) [1:44]
 
-- [How to make a watermark Using PhotoScape](https://youtu.be/ei0UoIIU_Yo) [2:45]
+- [Create watermarks with PhotoScape](https://youtu.be/ei0UoIIU_Yo) [2:45]
+- [Resize multiple images with PhotoScape](https://youtu.be/aOj9PMCxDi4) [7:13]
 
 
 - AVPreserve Exiftool Tutorials:
