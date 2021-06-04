@@ -133,7 +133,7 @@ Machintosh
 
 Readings:
 
-[Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
+- [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
 -  [6b Image creation "File/Image Processing" ](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Review: Kenny (2000)]
 - [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc]
 
@@ -165,7 +165,6 @@ Presentation:
 Technology downloads:
 
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
-
 
 
 

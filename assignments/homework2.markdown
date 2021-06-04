@@ -26,7 +26,7 @@ You've been given a collection of digitized images, but before they go into the 
 	- export a .csv/Excel file, the following tags: filesize, filetype, copyright, city, and createdate
 	- in Excel, truncate your CreateDate column to year only, using a formula something like this: <span style="font-family:Courier">=LEFT(A1,LEN(A1)-3)</span>
 	- create a <span style="font-family:Courier">Sum</span> for your total file size.
-the .csv file should look something like this, but with updated file names: [.csv]
+the .csv file should look something like this, but with updated file names: [.csv](https://markwolfeman.github.io/ist653/assignments/completed_csvfile.jpg)
 
 # Part 2 (5 points) Getting your Images Ready
 
