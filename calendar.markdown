@@ -133,31 +133,30 @@ Machintosh
 
 Readings:
 
-<!-- - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
+[Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
 -  [6b Image creation "File/Image Processing" ](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Review: Kenny (2000)]
-- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc]-->
+- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc]
 
 Videos:
 
- <!-- - File Naming Short videos:
+- File Naming Short videos:
 	- [Part 1](https://www.youtube.com/watch?v=Hi_A4Ywn4VU) [3:19]
 	- [Part 2](https://www.youtube.com/watch?v=8ogTKWpq6is) [2:37]
 	- [Part 3](https://www.youtube.com/watch?v=959hYLK40gE) [3:28]
-	- [Part 4](https://www.youtube.com/watch?v=VWaIe2u8zRU) [1:44]-->
-<!-- - [Creating your first TSR Watermark](https://www.youtube.com/watch?v=_jByEuZii5I) [2:45]-->
-<!-- - [iWatermark (Mac)](https://www.youtube.com/watch?v=-sXSdbirX2I) [7:51]-->
+	- [Part 4](https://www.youtube.com/watch?v=VWaIe2u8zRU) [1:44]
 
-<!-- - AVPreserve Exiftool Tutorials:
+- [How to make a watermark Using PhotoScape](https://youtu.be/ei0UoIIU_Yo) [2:45]
+
+
+- AVPreserve Exiftool Tutorials:
 	- [Part 1](https://www.youtube.com/watch?v=CWcMrAfhlKI) [4:45]
 	- [Part 2](https://www.youtube.com/watch?v=xlFVDefj3hg) [6:06]
 	- [Part 3](https://www.youtube.com/watch?v=7KbZCic_V3g) [10:45]
-	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) [7:27]-->
-
+	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) [7:27]
 
 Presentation:
 
-
-<!-- - Presentation and Homework 2 brief:
+- Presentation and Homework 2 brief:
     - [Part 1](https://youtu.be/ljXxzpk3qrw) [15:13]
     - [Part 2](https://youtu.be/f0PZqOHlSWQ) [16:11]
     - [Part 3](https://youtu.be/u4GLskHEvto) [20:12]
@@ -165,9 +164,7 @@ Presentation:
 Technology downloads:
 
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
-- [Resizer](http://www.den4b.com/?x=products&product=resizer) (PC)
-- [TSR Watermark Image](https://www.watermark-image.com/) (PC) 
-- [iWatermark](https://iwatermark.en.softonic.com/mac) (Mac) -->
+
 
 
 
