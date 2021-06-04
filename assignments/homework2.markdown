@@ -16,8 +16,8 @@ You've been given a collection of digitized images, but before they go into the 
 	- change case of file extension from upper to lowercase
 	- serialize your file names, add leading zeros for 6 character serial, for example "000001.jpg"
 	- make lowercase and remove unconventional characters or spacings
-	- append Exif Date, just the year <span style="font-family:Courier">(YYYY)</span>, for example "2001_000002.jpg" to the file name by clicking on <span style="font-family:Courier">Insert Meta Tag</span>.
-	- format your file name so it goes from general to particular, left to right, for example "bun_bunyan_college_2001_000002.jpg"
+	- append Exif Date, just the year <span style="font-family:Courier">(YYYY)</span>, for example "2001_000001.jpg" to the file name by clicking on <span style="font-family:Courier">Insert Meta Tag</span>.
+	- format your file name so it goes from general to particular, left to right, for a final file name that looks like this example "bun_bunyan_college_2001_000001.jpg"
 
 
 - **Update Embedded Metadata using Exiftool and MS Excel:**
