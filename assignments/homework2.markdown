@@ -6,7 +6,7 @@ permalink:
 
 <h1> Homework 2</h1>
  
-You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel and ExifTool to update and manage a small collection of images. These images were scanned by different people for different purposes. The file names must be normalized. Embedded metadata must be updated. Images must be resized and watermarked in preparation for deposit into a digital library.  
+You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel, and ExifTool to update and manage a small collection of images. These images were scanned by different people for different purposes. The file names must be normalized. Embedded metadata must be updated. Images must be resized and watermarked in preparation for deposit into a digital library.  
 
 [Get your assigned photos and college here.](https://markwolfeman.github.io/ist653/assignments/college_photo_list.html)
 
@@ -18,7 +18,7 @@ You've been given a collection of digitized images, but before they go into the 
 	- <u>change case</u> of file extension from upper to lowercase
 	- <u>serialize</u> your file names, add leading zeros for 6 character serial, for example "000001.jpg"
 	- <u>make lowercase</u> and <u>remove</u> unconventional characters or spacings
-	- <u>append</u> Exif Date, just the year <span style="font-family:Courier">(YYYY)</span>, for example "2001_000001.jpg" to the file name by clicking on <span style="font-family:Courier">Insert Meta Tag</span>, located here: [Renamer button](https://markwolfeman.github.io/ist653/assignments/insert_meta_tag.JPG)
+	- <u>append</u> Exif Date, just the year <span style="font-family:Courier">(YYYY)</span>, for example "2001_000001.jpg" to the file name by clicking on <span style="font-family:Courier">Insert Meta Tag</span>, located here: [ReNamer button](https://markwolfeman.github.io/ist653/assignments/insert_meta_tag.JPG)
 	- format your file name so it goes from general to particular, left to right, for a final file name that looks like this example "bun_bunyan_college_2001_000001.jpg"
 
 
