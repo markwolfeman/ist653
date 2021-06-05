@@ -158,9 +158,11 @@ Videos:
 Presentation:
 
 - Presentation and Homework 2 brief:
-    - [Part 1](https://www.youtube.com/watch?v=ypS52pgnTZc) [7:25]
-    - [Part 2](https://youtu.be/xMxXsehb0JY) [7:26]
-    - [Part 3](https://youtu.be/MZP8ka3Nrrg) [9:03]
+    - [Part 1](https://youtu.be/ypS52pgnTZc) [7:26]
+    - [Part 2](https://youtu.be/Y_YDsakzz-4) [14:40]
+    - [Part 3](https://youtu.be/xMxXsehb0JY) [15:25]
+    - [Part 4](https://youtu.be/sTygDTEoqdk) [8:42]
+    - [Part 5](https://youtu.be/MZP8ka3Nrrg) [9:04]
 
 Technology downloads:
 
