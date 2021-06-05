@@ -6,7 +6,7 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Homework 1](https://markwolfeman.github.io/ist653/assignments/homework1.html) Digital Library Report **Due Monday May 31st**
 
-![homework](/assets/hw.jpg) [Homework 2]() Managing Image Files
+![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/homework2.html) Managing Image Files
 
 ![homework](/assets/hw.jpg) [Homework 3]() 
 
