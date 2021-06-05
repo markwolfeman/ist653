@@ -6,7 +6,7 @@ permalink:
 
 <h1> Homework 2</h1>
 
-Videos on Unit 5 under "Presentation and Homework 2 brief"
+The explainer video is under Unit 5 as "Presentation and Homework 2 brief"
  
 You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel, and ExifTool to update and manage a small collection of images. These images were scanned by different people for different purposes. The file names must be normalized. Embedded metadata must be updated. Images must be resized and watermarked in preparation for deposit into a digital library.  
 
