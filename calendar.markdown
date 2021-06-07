@@ -266,8 +266,6 @@ Presentation:
 
 ------------
 
-------------
-
 # No Class: June 18 Juneteenth Observed
 
 
@@ -293,8 +291,10 @@ Videos:
 Presentation:
 <!-- - None -->
 
+------------
 
-# Unit 11: 	June 21 Sustainability & Preservation
+
+# Unit 11: 	June 23 Sustainability & Preservation
 
 Readings:
 
@@ -314,20 +314,20 @@ Presentation:
 
 ------------
 
-# Unit 12: June 23 Open Lab Final Project and Review
+# Unit 12: June 25 Open Lab Final Project and Review
 
 <!-- - work on your Final Project
 - work on Test 2 / Job Announcment-->
 
 ------------
 
-# Unit 13:	June 25 Open Lab Final Project and Review
+# Unit 13:	June 28 Open Lab Final Project and Review
 
 <!-- - work on Test 2 / Job Announcment-->
 
 ------------
 
-# Final Day	June 28 Open Lab Final Project and Review
+# Final Day	June 30 Open Lab Final Project and Review
 
 <!-- - Please hand in all assignments. 
 - Test 2 / Create Job Announcement due

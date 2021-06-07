@@ -43,7 +43,7 @@ the .csv file should look something like this, but with updated file names: [.cs
 		- [Video tutorial](https://youtu.be/aOj9PMCxDi4) resize images using PhotoScape 
 <br/>
 
-- **Due: Tuesday June 8th** 
+- **Due: Wednesday June 9th** 
 
 - Assignment is worth 10 points. 
 
