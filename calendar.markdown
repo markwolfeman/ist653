@@ -172,7 +172,7 @@ Technology downloads:
 
 ------------
 
-# Unit 6: 	June 7 Digital Audio and Video 
+# Unit 6: 	June 9 Digital Audio and Video 
 
 Readings:
 
@@ -196,7 +196,7 @@ Presentation:
 
 ------------
 
-# Unit 7:  June 9	Metadata and XML
+# Unit 7:  June 11	Metadata and XML
 
 Readings:
 
@@ -226,7 +226,7 @@ Exercise:  (**Install XML editor by +++**)
 
 ------------
 
-# Unit 8:  June 11 Choosing a Repository Architecture
+# Unit 8:  June 14 Choosing a Repository Architecture
 
 Readings:
 
@@ -248,7 +248,7 @@ Presentation:
 
 ------------
 
-# Unit 9:  	June 14 Linked Data & Controlled Vocabularies 
+# Unit 9:  	June 16 Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -266,7 +266,14 @@ Presentation:
 
 ------------
 
-# Unit 10:  June 16 Project Planning
+------------
+
+# No Class: June 18 Juneteenth Observed
+
+
+------------
+
+# Unit 10:  June 21 Project Planning
 
 Readings:
 
@@ -286,12 +293,6 @@ Videos:
 Presentation:
 <!-- - None -->
 
-------------
-
-# No Class: June 18 Juneteenth Observed
-
-
-------------
 
 # Unit 11: 	June 21 Sustainability & Preservation
 
