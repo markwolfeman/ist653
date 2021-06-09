@@ -176,22 +176,21 @@ Technology downloads:
 
 Readings:
 
-<!-- -  [Format Considerations in AudioVisual
+ [Format Considerations in AudioVisual
 Preservation Reformatting (2010)](http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf)
 - [Digital Audio Best Practices (2006)](https://sustainableheritagenetwork.org/system/files/atoms/file/Audio_Best_Practices.pdf) (pp. 1-35)
-- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf)  -->
+- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf) 
 
 Videos:
 
-<!-- - [Foundations of Audio](https://youtu.be/c1vFiRgxBQE) [51:35]
+- [Foundations of Audio](https://youtu.be/c1vFiRgxBQE) [51:35]
 - [Foundations of Video](https://youtu.be/_yhXESSMYOQ) [32:09]
-- [Optional:  Kickstarter Film Telecine Project](https://www.youtube.com/watch?v=czzpf-VnB_Y)   [2:33]-->
 
 Presentation:
 
-<!-- - [Foundations of Audio](http://www.albany.edu/~mwolfe/ist653/unit6/Foundations%20of%20Digital%20Audio.pptx) [.pptx] 
+- [Foundations of Audio](http://www.albany.edu/~mwolfe/ist653/unit6/Foundations%20of%20Digital%20Audio.pptx) [.pptx] 
 - [Foundations fo Video](http://www.albany.edu/~mwolfe/ist653/unit6/Foundations%20of%20Digital%20Video.pptx) [.pptx]
-- [Sample vendor proposal](http://www.albany.edu/~mwolfe/ist653/unit6/example_vendor_proposal.pdf)-->
+- [Sample vendor proposal](http://www.albany.edu/~mwolfe/ist653/unit6/example_vendor_proposal.pdf)
 
 
 ------------
@@ -222,7 +221,7 @@ Exercise:  (**Install XML editor by +++**)
 <!-- - [Oxygen (30 day trial)](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html)
 - [Notepad++ (PC only)](https://notepad-plus-plus.org/)
 - [jEdit (Mac only)](http://www.jedit.org/) or [XMLSpear](http://www.donkeydevelopment.com/#downloads)
-- [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/) -->
+- [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/) [dublin core generator form by Nicolás Ockier](https://ockier.es/dublin-core/en-dublin-core.php)-->
 
 ------------
 
