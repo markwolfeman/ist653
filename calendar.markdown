@@ -218,11 +218,12 @@ Presentation:
 
 Exercise:  (**Install XML editor by +++**)
 
-- [Oxygen (30 day trial)](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) <--- Preferred
+- [Oxygen (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) <--- Preferred 
 
 - [Notepad++ (PC only)](https://notepad-plus-plus.org/)
 - [jEdit (Mac only)](http://www.jedit.org/) or [XMLSpear](http://www.donkeydevelopment.com/#downloads)
-- [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/) [dublin core generator form by Nicolás Ockier](https://ockier.es/dublin-core/en-dublin-core.php)
+- [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/)
+- [dublin core generator form by Nicolás Ockier](https://ockier.es/dublin-core/en-dublin-core.php)
 
 ------------
 
