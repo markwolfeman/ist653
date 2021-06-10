@@ -216,9 +216,9 @@ Presentation:
 - [Introduction to Metadata](http://www.albany.edu/~mwolfe/ist653/unit7/Introduction%20to%20Metadata.pptx) [.pptx]
 - [Introduction to XML](http://www.albany.edu/~mwolfe/ist538/unit1/XML_unit1.pptx) [.ppt]
 
-Exercise:  (**Install XML editor by +++**)
+Exercise:  (**Install XML editor Friday, June 11th**)
 
-- [Oxygen (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) <--- Preferred 
+- [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) <--- Preferred 
 
 - [Notepad++ (PC only)](https://notepad-plus-plus.org/)
 - [jEdit (Mac only)](http://www.jedit.org/) or [XMLSpear](http://www.donkeydevelopment.com/#downloads)
