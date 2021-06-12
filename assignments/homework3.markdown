@@ -6,6 +6,10 @@ permalink:
 
 <h1> Homework 3</h1>
 
+- [Homework 3 overview Part 1](https://youtu.be/E3SKUWa6EmI) [19:22 min.]
+- [Homework 3 overview Part 2](https://youtu.be/3FxpAW4IjFY) [2:02 min.]
+
+
 # Part 1 (5 points)
 
 - Omeka's ["Working with Dublin Core"](https://omeka.org/classic/docs/Content/Working_with_Dublin_Core/) and [Dublin Core.org's Generic Examples](http://dublincore.org/documents/2000/07/16/usageguide/generic.shtml)
