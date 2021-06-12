@@ -8,7 +8,7 @@ permalink:
 
 # Part 1 (5 points)
 
-- Omeka's ["Working with Dublin Core"](https://omeka.org/codex/Working_with_Dublin_Core") and [Dublin Core.org's Generic Examples](http://dublincore.org/documents/2000/07/16/usageguide/generic.shtml)
+- Omeka's ["Working with Dublin Core"](https://omeka.org/classic/docs/Content/Working_with_Dublin_Core/) and [Dublin Core.org's Generic Examples](http://dublincore.org/documents/2000/07/16/usageguide/generic.shtml)
 
 - Use 5 of your images from Homework 2 to describe 
 - Download [xml file](https://www.albany.edu/~mwolfe/ist653/homework/hw3/dc_hw3.xml) Right-click and choose "Save as" to project folder.
