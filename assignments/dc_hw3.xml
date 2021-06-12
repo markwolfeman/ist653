@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--name-->
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<image>
+		<dc:title>Joe on the Phone</dc:title>
+		<dc:creator>Smith, Tom</dc:creator>
+		<dc:subject>Football</dc:subject>
+		<dc:description>Joe Namedfsaf</dc:description>
+		<dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type>
+		<dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+
+	</image>
+	<image> 
+		
+	</image>
+	<image>
+		
+		
+		
+	</image>
+	<image> 
+		
+		
+	</image>
+	<image> 
+		
+		
+		
+	</image>
+</metadata>
