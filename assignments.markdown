@@ -8,7 +8,7 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/homework2.html) Managing Image Files **Due Wednesday June 9th**
 
-![homework](/assets/hw.jpg) [Homework 3]() 
+![homework](/assets/hw.jpg) [Homework 3](https://markwolfeman.github.io/ist653/assignments/homework3.html) Metadata and XML **Due Tuesday June 13th**
 
 ![homework](/assets/hw.jpg) [Homework 4]() 
 
