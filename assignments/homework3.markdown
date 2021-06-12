@@ -18,7 +18,7 @@ permalink:
 - Describe them using the DC fields: Title, Creator, Subject (limit to one), Description, Date and Date Created, Type (use DCMI authority), Format (used IMT authority), and Indentifier (filename without format extension)
 - Generate XML for each image and cut and paste it into your .xml file. You will have five image records when you are done.
 - Remember to  consult the [Library of Congress Subject headings (LCSH) (new)](http://id.loc.gov/authorities/subjects.html) or the [older LCSH site](http://authorities.loc.gov/) for guidance on your subject headings.
-- Convert your completed .xml file to .csv file using the [XML to TXT - Free Online Converter website](https://www.coolutils.com/online/XML-to-TXT) or [XML to CSV Converter](http://www.luxonsoftware.com/converter/xmltocsv)
+- Convert your completed .xml file to .csv file using the [XML to TXT - Free Online Converter website](https://www.coolutils.com/online/XML-to-TXT) or [XML to CSV Converter](https://www.convertcsv.com/xml-to-csv.htm)
 
 # Part 2  (5 points)
 
@@ -32,6 +32,6 @@ permalink:
 	- Why do you think the developers of Omeka have chosen [Dublin Core over MODS?](http://omeka.org/forums/topic/omeka-and-mods-element-set)
 
 
-- It's worth 10 points and due **Due ** 
+- It's worth 10 points and due **Due** 
 - Submit via email as one .zip file (include .xml, .csv, and .doc files). 
 - Work in groups and share information on the discussion board--it will go faster!
