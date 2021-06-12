@@ -11,21 +11,48 @@
 		<dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
 
 	</image>
-	<image> 
-		
+	<image>
+		<dc:title>Joe Nameth in mud</dc:title>
+		<dc:creator>Sports Illustrated</dc:creator>
+		<dc:subject xsi:type="dcterms:LCSH">Football</dc:subject>
+		<dc:description>Joe Nameth is standing in the mud talking to coach.</dc:description>
+		<dc:publisher>Sports Illustrated</dc:publisher>
+		<dc:date>1971</dc:date>
+		<dc:created>2021</dc:created>
+		<dc:type>image</dc:type>
+		<dc:format>.jpg</dc:format>
+		<dc:identifier>nameth_1971_000001</dc:identifier>
+
 	</image>
 	<image>
+		<dc:title>Joe Nameth in mud</dc:title>
+		<dc:creator>Sports Illustrated</dc:creator>
+		<dc:subject xsi:type="dcterms:LCSH">Football</dc:subject>
+		<dc:description>Joe Nameth is standing in the mud talking to coach.</dc:description>
+		<dc:publisher>Sports Illustrated</dc:publisher>
+		<dc:date>1971</dc:date>
+		<dcterms:created>2021</dcterms:created>
+		<dc:type>image</dc:type>
+		<dc:format>.jpg</dc:format>
+		<dc:identifier>nameth_1971_000001</dc:identifier>
 		
-		
-		
+	
 	</image>
 	<image> 
+		<dc:title>Joe Nameth in mud</dc:title>
+		<dc:creator>Sports Illustrated</dc:creator>
+		<dc:subject xsi:type="dcterms:LCSH">Football</dc:subject>
+		<dc:description>Joe Nameth is standing in the mud talking to coach.</dc:description>
+		<dc:publisher>Sports Illustrated</dc:publisher>
+		<dc:date>1971</dc:date>
+		<dcterms:created>2021</dcterms:created>
+		<dc:type>image</dc:type>
+		<dc:format>.jpg</dc:format>
+		<dc:identifier>nameth_1971_000001</dc:identifier>
 		
-		
+	
 	</image>
 	<image> 
-		
-		
-		
+	
 	</image>
 </metadata>
