@@ -1,0 +1,62 @@
+﻿<!--HW3
+IST 653
+Mike Smith-->
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+	<image>
+		<dc:title>Three_friends_horizontal</dc:title>
+		<dc:creator>Smith, Mike</dc:creator>
+		<dc:subject xsi:type="dcterms:LCSH">Students</dc:subject>
+		<dc:description>Three friends are standing at the University at Albany podium during a celebration. </dc:description>
+		<dc:created>2004-03-12</dc:created>
+		<dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type>
+		<dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+		<dc:identifier>psc_2004_000001</dc:identifier>
+	</image>
+
+	<image>
+		<dc:title>Students_in_the_fountain</dc:title>
+		<dc:creator>Smith, Mike</dc:creator>
+		<dc:subject xsi:type="dcterms:LCSH">Students</dc:subject>
+		<dc:description>There are many students celebrating in the water fountain.</dc:description>
+		<dc:created>2004-03-12</dc:created>
+		<dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type>
+		<dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+		<dc:identifier>psc_2004_000004</dc:identifier>
+	</image>
+
+	<image>
+		<dc:title>Three_friends_vertical</dc:title>
+		<dc:creator>Smith, Mike</dc:creator>
+		<dc:subject xsi:type="dcterms:LCSH">Students</dc:subject>
+		<dc:description>Three friends are standing near the water fountain during a celebration.</dc:description>
+		<dc:created>2004-03-12</dc:created>
+		<dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type>
+		<dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+		<dc:identifier>psc_2004_000013</dc:identifier>
+	</image>
+
+	<image>
+		<dc:title>Students_at_the_fountain</dc:title>
+		<dc:creator>Smith, Mike</dc:creator>
+		<dc:subject xsi:type="dcterms:LCSH">Students</dc:subject>
+		<dc:description>A view of the entire water fountain from an aerial point</dc:description>
+		<dc:created>2004-03-12</dc:created>
+		<dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type>
+		<dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+		<dc:identifier>psc_2004_000015</dc:identifier>
+	</image>
+
+	<image>
+		<dc:title>Students_at_the_fountain</dc:title>
+		<dc:creator>Smith, Mike</dc:creator>
+		<dc:subject xsi:type="dcterms:LCSH">Students</dc:subject>
+		<dc:description>This is a closer view of the students in the water fountain.</dc:description>
+		<dc:created>2004-03-12</dc:created>
+		<dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type>
+		<dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+		<dc:identifier>psc_2004_000018</dc:identifier>
+	</image>
+
+</metadata>
