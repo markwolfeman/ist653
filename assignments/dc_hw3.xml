@@ -3,15 +3,6 @@
 <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<image>
-		<dc:title>Joe on the Phone</dc:title>
-		<dc:creator>Smith, Tom</dc:creator>
-		<dc:subject>Football</dc:subject>
-		<dc:description>Joe Namedfsaf</dc:description>
-		<dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type>
-		<dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
-
-	</image>
-	<image>
 		<dc:title>Joe Nameth in mud</dc:title>
 		<dc:creator>Sports Illustrated</dc:creator>
 		<dc:subject xsi:type="dcterms:LCSH">Football</dc:subject>
@@ -25,30 +16,15 @@
 
 	</image>
 	<image>
-		<dc:title>Joe Nameth in mud</dc:title>
-		<dc:creator>Sports Illustrated</dc:creator>
-		<dc:subject xsi:type="dcterms:LCSH">Football</dc:subject>
-		<dc:description>Joe Nameth is standing in the mud talking to coach.</dc:description>
-		<dc:publisher>Sports Illustrated</dc:publisher>
-		<dc:date>1971</dc:date>
-		<dcterms:created>2021</dcterms:created>
-		<dc:type>image</dc:type>
-		<dc:format>.jpg</dc:format>
-		<dc:identifier>nameth_1971_000001</dc:identifier>
+		
+	</image>
+	<image>
+		
 		
 	
 	</image>
 	<image> 
-		<dc:title>Joe Nameth in mud</dc:title>
-		<dc:creator>Sports Illustrated</dc:creator>
-		<dc:subject xsi:type="dcterms:LCSH">Football</dc:subject>
-		<dc:description>Joe Nameth is standing in the mud talking to coach.</dc:description>
-		<dc:publisher>Sports Illustrated</dc:publisher>
-		<dc:date>1971</dc:date>
-		<dcterms:created>2021</dcterms:created>
-		<dc:type>image</dc:type>
-		<dc:format>.jpg</dc:format>
-		<dc:identifier>nameth_1971_000001</dc:identifier>
+		
 		
 	
 	</image>
