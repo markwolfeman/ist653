@@ -9,7 +9,7 @@ permalink:
 - [Homework 3 overview Part 1](https://youtu.be/E3SKUWa6EmI) [19:22 min.]
 - [Homework 3 overview Part 2](https://youtu.be/3FxpAW4IjFY) [2:02 min.]
 
-The object of this homework is to mark up your assigned images from Homework 2. You will mark them up using XML using Oxygen, and describe them using the Dublin Core metadata standard via the Dublin Core generator. For the subject headings you will consult the Library of Congress subject heading authority, linked below. The second part of the project you will discuss benefits and challenges of Dublin Core in 300 words responding to the questions.  
+The object of this homework is to mark up your assigned images from Homework 2. You will mark them up in XML using Oxygen, and describe them using the Dublin Core metadata standard via the Dublin Core generator. For the subject headings you will consult the Library of Congress subject heading authority, linked below. The second part of the project you will discuss benefits and challenges of Dublin Core in 300 words responding to the questions.  
 
 
 # Part 1 (5 points)
