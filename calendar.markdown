@@ -231,8 +231,8 @@ Exercise:  (**Install XML editor Friday, June 11th**)
 
 Readings:
 
-[Omeka Getting Started and Documentation](https://omeka.org/codex/Documentation)
-- Read sections:  "Site Planning Tips," "Examples and Case Studies"
+- [Omeka Site Planning Tips](https://omeka.org/classic/docs/GettingStarted/Site_Planning_Tips/)
+- [Omeka Examples and Case Studies](https://omeka.org/classic/docs/GettingStarted/UsingOmeka/)
 - [Omeka and Its Peers, Scheinfeldt (2010)](https://foundhistory.org/2010/09/omeka-and-its-peers/)
 
 
