@@ -239,7 +239,7 @@ Readings:
 Videos:
 
 - [Choosing a Digital Repository Part 1](https://youtu.be/EW_R5XwJ3VY) [09:18]
-- [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8)[53:15] 
+- [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8) [53:15] 
 
 Presentation:
 
