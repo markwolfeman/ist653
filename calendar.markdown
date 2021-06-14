@@ -231,20 +231,19 @@ Exercise:  (**Install XML editor Friday, June 11th**)
 
 Readings:
 
-<!-- - [Omeka Getting Started and Documentation](https://omeka.org/codex/Documentation)
-	- Read sections:  "Site Planning Tips," "Examples and Case Studies"
- - [Omeka and Its Peers, Scheinfeldt (2010)](https://foundhistory.org/2010/09/omeka-and-its-peers/)-->
+[Omeka Getting Started and Documentation](https://omeka.org/codex/Documentation)
+- Read sections:  "Site Planning Tips," "Examples and Case Studies"
+- [Omeka and Its Peers, Scheinfeldt (2010)](https://foundhistory.org/2010/09/omeka-and-its-peers/)
 
 
 Videos:
 
-<!-- - [Choosing a Digital Repository Part 1](https://youtu.be/EW_R5XwJ3VY) [09:18]
-- [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8)[53:15] -->
- 
+- [Choosing a Digital Repository Part 1](https://youtu.be/EW_R5XwJ3VY) [09:18]
+- [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8)[53:15] 
 
 Presentation:
 
-<!-- - [Choosing a Digital Repository](https://www.albany.edu/~mwolfe/ist653/unit8/Choosing%20a%20Digital%20Repository.pptx)[.ppt]-->
+- [Choosing a Digital Repository](https://www.albany.edu/~mwolfe/ist653/unit8/Choosing%20a%20Digital%20Repository.pptx)[.ppt]
 
 
 ------------
