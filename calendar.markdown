@@ -252,17 +252,17 @@ Presentation:
 
 Readings:
 
-<!-- - ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-4613699-dt-content-rid-12909016_1/courses/2173-IIST-653-8831/miller_chapter5.pdf) [Blackboard-Course Content]
-- ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) -->
+- ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-4613699-dt-content-rid-12909016_1/courses/2173-IIST-653-8831/miller_chapter5.pdf) [Blackboard-Course Content]
+- ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) 
 
 Videos:
 
-<!--- [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
-- [Introduction to  Vocabularies &amp; Linked Data](https://youtu.be/M0TvMshLveQ) [39:36] -->
+- [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
+- [Introduction to  Vocabularies &amp; Linked Data](https://youtu.be/M0TvMshLveQ) [39:36] 
 
 Presentation:
 
-<!-- - [Introduction to  Vocabularies &amp; Linked Data](http://www.albany.edu/~mwolfe/ist653/unit9/Vocabularies%20and%20Linked%20Data.pptx) [.ppt] -->
+ - [Introduction to  Vocabularies &amp; Linked Data](http://www.albany.edu/~mwolfe/ist653/unit9/Vocabularies%20and%20Linked%20Data.pptx) [.ppt]
 
 ------------
 
