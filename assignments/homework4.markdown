@@ -6,7 +6,7 @@ permalink:
 
 <h1> Homework 4</h1>
 
-- [Homework 4 Overview](https://youtu.be/2Hm4ZNT1ji4) [3:49]
+- [Homework 4 Overview](https://youtu.be/2Hm4ZNT1ji4) [3:45]
 
 # Part 1 (5 points)
 
@@ -37,4 +37,4 @@ permalink:
 <br/>
 - **Note**: everything in your site can be updated and/or changed at a later date!
 - This assignment is worth 10 points and **Due: Wednesday, July  23rd**. 
-- E-mail me the url to your site.
+- E-mail me the URL to your site.
