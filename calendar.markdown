@@ -296,18 +296,18 @@ Presentation:
 
 Readings:
 
-<!-- - Optional ~ ["Practical Limits to the Scope of Digital Preservation" by Kastellec (2012)](https://ejournals.bc.edu/index.php/ital/article/view/2167/pdf)
+- Optional ~ ["Practical Limits to the Scope of Digital Preservation" by Kastellec (2012)](https://ejournals.bc.edu/index.php/ital/article/view/2167/pdf)
 - Optional ~ ["Preservation in the Age of Google" by Conway (2010)](http://libproxy.albany.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=lih&AN=47797788&site=eds-live&scope=site) -->
 
 Videos:
 
-<!-- -  [Snow Byte & the Seven Formats: A Digital Preservation Fairy Tale ](https://youtu.be/TfMgOKy9bPw) [7:15]
-- [The Cost of Inaction Calculator Rationale](https://www.youtube.com/watch?v=5gB6uj9uLQ4) [8:41]-->
+-  [Snow Byte & the Seven Formats: A Digital Preservation Fairy Tale ](https://youtu.be/TfMgOKy9bPw) [7:15]
+- [The Cost of Inaction Calculator Rationale](https://www.youtube.com/watch?v=5gB6uj9uLQ4) [8:41]
 
 
 Presentation:
 
-<!-- - None -->
+ - None
 
 
 ------------
