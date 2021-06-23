@@ -4,7 +4,7 @@ title:
 permalink:
 ---
 
-<h1> Homework 5</h1> # Select and prepare content for Omeka collection
+<h1> Homework 5</h1> **Select and prepare content for Omeka collection**
 
 - [Homework 5 Overview](https://www.youtube.com/watch?v=U8wPB-TenNc&feature=youtu.be) [12:22]
 
@@ -16,10 +16,10 @@ permalink:
 **[Part 2]**
 
 - Upload the 10 images and create metadata 
-  - Add Item
-  - Assign metadata for Title, Subject, Description, Creator, Date, Rights, Format, Type, and Identifier. 
+- Each item will be need to be added, then metadata assigned to it.
+  - Add Item, upload image
+  - For each image, Assign metadata for Title, Subject, Description, Creator, Date, Rights, Format, Type, and Identifier. 
   - Ensure that all of your images are public, if you see &quot;(Private)&quot;, they need changing.
-  - Each item will be need to be added, then metadata assigned to it. 
   - Lastly, Select Users on the navigation bar, and add me as an &quot;Admin&quot; user. 
 
 --------------
