@@ -12,14 +12,22 @@ permalink:
 - Choose 10 images to upload into your repository.
 	- These images should reflect the theme you chose for your repository for Homework 4. If you want to change the theme of your repository, now is the time to do so. The project should have some kind of educational mission.  Consider that you might want to send this link to a potential employer.
 	- Using ReNamer normalize your filenames using best practices we've already covered.
- 
+
 **[Part 2]**
+- Create a collection for your images
+  - Add Collection
+  - Create metadata for the collection by completing the fields, Title, Subject, and Description
+  -Ensure "public" is checked 
+
+**[Part 3]**
 
 - Upload the 10 images and create metadata 
 - Each item will be need to be added, then metadata assigned to it.
   - Add Item, upload image
-  - For each image, Assign metadata for Title, Subject, Description, Creator, Date, Rights, Format, Type, and Identifier. 
+  - For each image, assign metadata for Title, Subject, Description, Creator, Date, Rights, Format, Type, and Identifier. 
   - Ensure that all of your images are public, if you see &quot;(Private)&quot;, they need changing.
+  - Under "Collection" on the right hand side, choose in drop down, a collection for the item to go in.
+
   - Lastly, Select Users on the navigation bar, and add me as an &quot;Admin&quot; user. 
 
 --------------
