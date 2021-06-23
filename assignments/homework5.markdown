@@ -6,7 +6,8 @@ permalink:
 
 <h1> Homework 5</h1> **Select and prepare content for Omeka collection**
 
-- [Homework 5 Overview](https://www.youtube.com/watch?v=U8wPB-TenNc&feature=youtu.be) []
+- [Homework 5 Overview Part 1](https://youtu.be/HeC8kxfFvK8) [2:29]
+- [Homework 5 Overview Part 2](https://youtu.be/5k2kmNSv7q8) [8:58]
 
 **[Part 1]**
 - Choose 10 images to upload into your repository.
@@ -32,7 +33,7 @@ permalink:
 
 
 <br/>
-- **Due** 
+- **Due Friday, June 25th** 
 - This assignment is worth 10 points. 
 - Email me the link to your Omeka site, plus id and password. I should also receive a seperate email from Omeka once you add me as a user. 
 - You can work in groups and help each other on the discussion board, but you must progress with your *own* Omeka site.
