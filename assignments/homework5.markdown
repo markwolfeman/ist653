@@ -30,11 +30,11 @@ permalink:
 
   - Lastly, Select Users on the navigation bar, and add me as an &quot;Admin&quot; user. 
 
---------------
+
 <br/>
 - **Due** 
 - This assignment is worth 10 points. 
-- Email me the link to your Omeka site, plus id and password, and the .txt file as an attachment. I should also receive a seperate email from Omeka once you add me as a user. 
+- Email me the link to your Omeka site, plus id and password. I should also receive a seperate email from Omeka once you add me as a user. 
 - You can work in groups and help each other on the discussion board, but you must progress with your *own* Omeka site.
 
 
