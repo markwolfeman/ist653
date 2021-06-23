@@ -6,8 +6,9 @@ permalink:
 
 <h1> Homework 5</h1> **Select and prepare content for Omeka collection**
 
-- [Homework 5 Overview Part 1](https://youtu.be/HeC8kxfFvK8) [2:29]
-- [Homework 5 Overview Part 2](https://youtu.be/5k2kmNSv7q8) [8:58]
+- [Homework 5 Overview Part 1](https://youtu.be/5k2kmNSv7q8) [8:58]
+- [Homework 5 Overview Part 2](https://youtu.be/HeC8kxfFvK8) [2:29]
+
 
 **[Part 1]**
 - Choose 10 images to upload into your repository.
