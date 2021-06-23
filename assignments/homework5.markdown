@@ -31,6 +31,7 @@ permalink:
   - Under "Collection" on the right hand side, choose in drop down, a collection for the item to go in.
 
   - Lastly, Select Users on the navigation bar, and add me as an &quot;Admin&quot; user. 
+
 <br/>
 - **Due Friday, June 25th** 
 - This assignment is worth 10 points. 
