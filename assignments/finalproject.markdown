@@ -4,7 +4,7 @@ title:
 permalink:
 ---
 
-[Final Project](https://youtu.be/RkGeFUEuW2I) [7:51]
+[Video Overview for Final Project](https://youtu.be/RkGeFUEuW2I) [7:51]
 
 <h1> Final Project</h1>
 
