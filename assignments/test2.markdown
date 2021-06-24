@@ -12,7 +12,7 @@ We've spent the course exploring the domain of digitial libraries. In your "take
 
 - You've been nominated to serve on a hiring committee. You've been tasked with creating an entry level position that will run your newly installed Omeka site. The library director has prioritized Omeka and its collections and exhibits, and wants to see it grow to over 50,000 digital objects that documents its local history. The qualified candidate must be able to do &quot;soup to nuts&quot; with the application. They need to be able to install it, configure, upload materials, create metadata, and make it look professional and meet the expectations of the medium to large fictitious public library in East Orangekill, NY. You also expect the candidate to occasionally pitch in the reference desk as needed. 
 
-- Go to [ALA JobLIST](http://joblist.ala.org/) or [jobs.diglib.org](https://jobs.diglib.org/) or [Code4Lib Jobs](https://jobs.code4lib.org/) you may use Google and search jobs related to Omeka as well as skills related to running a digital repository, you might need to expand your search to &quot;DSpace&quot; &quot;Fedora&quot; &quot;Digital Librarian&quot; &quot;ContentDM&quot; etc. You may do keyword searches or click on tags related to the topic to find listings.
+- Go to [ALA JobLIST](http://joblist.ala.org/) or [jobs.diglib.org](https://jobs.diglib.org/) or [Code4Lib Jobs](https://jobs.code4lib.org/) you may use Google and search jobs related to Omeka as well as skills related to running a digital repository, you might need to expand your search to &quot;DSpace&quot; &quot;Fedora&quot; &quot;Digital Librarian&quot; &quot;ContentDM&quot; &quot;Digital Initiatives Librarian&quot; &quot;Digital Curator&quot; &quot;Digital Archivist&quot; etc. You may do keyword searches or click on tags related to the topic to find listings.
 
 - Use the sites listed above and information gleaned from the [Omeka web site](https://omeka.org/) to buttress your description of the institution and work environment, responsibilities, qualifications (required and prefereed), and education &amp; experience. This is an entry level position, but some experience is required.
 
@@ -54,6 +54,7 @@ We've spent the course exploring the domain of digitial libraries. In your "take
 - Is professional development supported and/or expected?
 
 - Test 2 is worth 15 points. 
+- Due **Wednesday, June 30th**
 - Email me the completed Word document by **** 
 
 
