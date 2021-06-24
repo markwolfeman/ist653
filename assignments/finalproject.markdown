@@ -41,8 +41,9 @@ Using Omeka, you will demonstrate your ability to build a small repository of im
  - Past Student Projects: [Hemingway Home](http://hemingwayatkeywest.omeka.net/), [Souvenir Buildings](http://souvenirbuildings.omeka.net), [Exotic Fish of the World](http://exoticfish.omeka.net/), [Electrical Outlets of Distinction](https://outlets.omeka.net/), [Hike Iceland](https://hikeiceland.omeka.net/)
 
   
-- This assignment is worth 30 points. It is **Due Wednesday, June 30th**
-Once completed, send me the link to your Omeka website. 
+- This assignment is worth 30 points. 
+- **Due Wednesday, June 30th**
+- Once completed, email me the link to your Omeka website. 
 
-- This is also a group assignment, so feel free to help, suggest and comment on each other's work and questions in the discussion board. Everyone still has to hand in an individual assignment.  
+- This is a group assignment, so feel free to help, suggest and comment on each other's work and questions in the discussion board.  
 
