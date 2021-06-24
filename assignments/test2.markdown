@@ -6,7 +6,7 @@ permalink:
 
 <h1> Test 2 (Create a Job Announcement)</h1>
 
-[Test 2 video overview instructions](https://youtu.be/VTI6hTIQ7bQ?t=582) [ ] 
+[Test 2 video overview](https://youtu.be/jtqxZaZrjlE) [5:53] 
 
 We've spent the course exploring the domain of digitial libraries. In your "take-home" exam, you will explore and document how the discipline of digital libraries is expressed in a job desciption and position announcement.
 
@@ -52,10 +52,10 @@ We've spent the course exploring the domain of digitial libraries. In your "take
 - How many year(s) of experience is needed? Alternative experience acceptable?
 - Is experience with other DL in place of Omeka experience acceptable?
 - Is professional development supported and/or expected?
-
+<p/>
 - Test 2 is worth 15 points. 
-- Due **Wednesday, June 30th**
-- Email me the completed Word document by **** 
+- **Due Wednesday, June 30th**
+- Email me the completed Word document
 
 
 
