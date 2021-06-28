@@ -321,15 +321,17 @@ Presentation:
 
 # Unit 13:	June 28 Open Lab Final Project and Review
 
-<!-- - work on Test 2 / Job Announcment-->
+- work on Test 2 / Job Announcment
 
 ------------
 
 # Final Day	June 30 Open Lab Final Project and Review
 
-<!-- - Please hand in all assignments. 
+- Please hand in all assignments. 
 - Test 2 / Create Job Announcement due
-- Omeka Final Project due -->
+- Omeka Final Project 
+
+**Everything Must Handed in June 30th**
 
 ------------
 
