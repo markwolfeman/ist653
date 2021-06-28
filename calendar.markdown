@@ -331,7 +331,7 @@ Presentation:
 - Test 2 / Create Job Announcement due
 - Omeka Final Project 
 
-**Everything Must Handed in June 30th**
+**Everything Must Be Handed In By June 30th**
 
 ------------
 
