@@ -314,8 +314,8 @@ Presentation:
 
 # Unit 12: June 25 Open Lab Final Project and Review
 
-<!-- - work on your Final Project
-- work on Test 2 / Job Announcment-->
+- work on your Final Project
+- work on Test 2 / Job Announcment
 
 ------------
 
