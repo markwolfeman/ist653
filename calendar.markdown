@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-# Unit 1: 	May 24 Course Introduction
+# Unit 1: 	May 23 Course Introduction
 
 Readings:
 
@@ -13,8 +13,8 @@ Readings:
 Videos:
 
 - [Course Welcome &amp; Meet the Instructor](https://youtu.be/injHmsjGUWI) [11:58 min.]
-- [Overview of Course Part 1](https://youtu.be/VrTX-ur68p8) [14:39 min.]
-- [Overview of Course Part 2](https://youtu.be/3gEnI1CIxwI) [8:08 min.]
+- [Overview of Course Part 1]() [00:00 min.]
+- [Overview of Course Part 2]() [00:00 min.]
 - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
 
 Presentation:
