@@ -40,7 +40,7 @@ Exercises:
 
 ------------
 
-# Unit 2:  May 26 What is a Digital Library 
+# Unit 2:  May  What is a Digital Library 
 
 Readings:
 
@@ -67,7 +67,7 @@ Discussion & Exercise:
 
 ------------
 
-# Unit 3:  May 28  Images (Digitization) 
+# Unit 3:  May   Images (Digitization) 
 Readings:
 
 - Besser (2003) [Introduction to Imaging (read: intro to p. 46)](http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf) [.pdf]
@@ -89,7 +89,7 @@ Presentation:
 ------------
 
 
-# Unit 4: June 2 Images (File Management) Part 1
+# Unit 4: June  Images (File Management) Part 1
 
 Readings:
 
@@ -113,7 +113,7 @@ Presentation:
 
 - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
-Technology / Exercise  **Due June 6/6**  
+Technology / Exercise  **Due**  
 - Install software and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own.  Please use Renamer and PhotoScape, but you can use Adobe Bridge or FastStone if you wish, but I will not create or link to videos for their use.
 
 Windows
@@ -129,7 +129,7 @@ Machintosh
 - [Adobe Bridge (free Mac and Win)](https://www.adobe.com/products/bridge.html) 
 
 ------------
-# Unit 5: 	June 4 Images (File Management) Part 2
+# Unit 5: 	June  Images (File Management) Part 2
 
 Readings:
 
@@ -172,7 +172,7 @@ Technology downloads:
 
 ------------
 
-# Unit 6: 	June 9 Digital Audio and Video 
+# Unit 6: 	June  Digital Audio and Video 
 
 Readings:
 
@@ -195,7 +195,7 @@ Presentation:
 
 ------------
 
-# Unit 7:  June 11	Metadata and XML
+# Unit 7:  June 	Metadata and XML
 
 Readings:
 
@@ -227,7 +227,7 @@ Exercise:  (**Install XML editor Friday, June 11th**)
 
 ------------
 
-# Unit 8:  June 14 Choosing a Repository Architecture
+# Unit 8:  June  Choosing a Repository Architecture
 
 Readings:
 
@@ -248,7 +248,7 @@ Presentation:
 
 ------------
 
-# Unit 9:  	June 16 Linked Data & Controlled Vocabularies 
+# Unit 9:  	June  Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -266,12 +266,12 @@ Presentation:
 
 ------------
 
-# No Class: June 18 Juneteenth Observed
+# No Class: June  Juneteenth Observed
 
 
 ------------
 
-# Unit 10:  June 21 Project Planning
+# Unit 10:  June  Project Planning
 
 Readings:
 
@@ -292,7 +292,7 @@ Presentation:
 ------------
 
 
-# Unit 11: 	June 23 Sustainability & Preservation
+# Unit 11: 	June  Sustainability & Preservation
 
 Readings:
 
@@ -312,26 +312,26 @@ Presentation:
 
 ------------
 
-# Unit 12: June 25 Open Lab Final Project and Review
+# Unit 12: June  Open Lab Final Project and Review
 
 - work on your Final Project
 - work on Test 2 / Job Announcment
 
 ------------
 
-# Unit 13:	June 28 Open Lab Final Project and Review
+# Unit 13:	June Open Lab Final Project and Review
 
 - work on Test 2 / Job Announcment
 
 ------------
 
-# Final Day	June 30 Open Lab Final Project and Review
+# Final Day	June  Open Lab Final Project and Review
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement due
 - Omeka Final Project 
 
-**Everything Must Be Handed In By June 30th**
+**Everything Must Be Handed In By Date:**
 
 ------------
 
