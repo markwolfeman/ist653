@@ -15,7 +15,7 @@ Videos:
 - [Course Welcome &amp; Meet the Instructor]() [00:00 min.]
 - [Overview of Course Part 1]() [00:00 min.]
 - [Overview of Course Part 2]() [00:00 min.]
-- [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
+<!-- - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]-->
 
 Presentation:
 
@@ -34,7 +34,7 @@ Disscussion:
 
 Exercises:
 
- - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: 5/24 **
+ - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: 5/23 **
 - Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive. 
 
 
@@ -54,7 +54,7 @@ Videos:
 
 - [Foundations of Digital Libraries Part 1](https://youtu.be/nexEnlECLV4) [ 8:17 min.]
 - [Foundations of Digital Libraries Part 2](https://www.youtube.com/watch?v=J9J6w39nK7w) [33:36 min.]
-- [Homework 1 overview](https://youtu.be/nZnNIw-FzL8) [6:42 min.] 
+<!-- - [Homework 1 overview](https://youtu.be/nZnNIw-FzL8) [6:42 min.]--> 
 
 
 Presentation:
@@ -63,7 +63,7 @@ Presentation:
 
 Discussion & Exercise:
 
-["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140056_1&nav=discussion_board_entry&conf_id=_225263_1&forum_id=_435413_1), approximately 75 words, and comment on one other fellow student's post. **Due Wednesday May 26th** 
+["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140056_1&nav=discussion_board_entry&conf_id=_225263_1&forum_id=_435413_1), approximately 75 words, and comment on one other fellow student's post. **Due Wednesday May** 
 
 ------------
 
@@ -74,10 +74,10 @@ Readings:
 - [FADGI or Federal Agencies Digital Guidelines Initiative (About, Review Process, and skim the Glossary)](http://www.digitizationguidelines.gov/) 
 
 Videos:
-
+<!--
 - [Introduction to Image Scanning](https://www.youtube.com/watch?v=U0kazym7NB8) [48:04]
 - [Flatbed Scanner vs Overhead Digitization](http://www.sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization) [2:54]
-- [Library of Congress Introduction to Scanning](https://youtu.be/HqGuI6gkurA) [9:26] 
+- [Library of Congress Introduction to Scanning](https://youtu.be/HqGuI6gkurA) [9:26] -->
 
 Presentation:
 
@@ -92,25 +92,25 @@ Presentation:
 # Unit 4: June  Images (File Management) Part 1
 
 Readings:
-
+<!--
 - [Image file formats. A Few Scanning Tips.](http://www.scantips.com/basics09.html) Fulton, W. (2013)
 - [Chapter 2 &quot;Selection&quot;, 3 &quot;Conversion&quot;, & 4&quot;Quality Control](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) in *Moving Theory into Practice: Digital Imaging for Libraries and Archives,* Kenney. [2000]
 - Skim Renamer user manual [PC](http://www.den4b.com/wiki/ReNamer) or
   [Mac](https://renamer.com/help/English.lproj/getting_started.html) 
-- [12 Myths about Embedded Photo Metadata](https://www.controlledvocabulary.com/blog/top-metadata-myths.html) 
+- [12 Myths about Embedded Photo Metadata](https://www.controlledvocabulary.com/blog/top-metadata-myths.html) -->
 
 Videos:
-
+<!--
  - Filenaming, Embedded Metadata, Managing Digital Assets:
 	- [(Lecture) Part 1](https://www.youtube.com/watch?v=gbyaB-ntjyA) [18:40]
 	- [(Lecture) Part 2](https://www.youtube.com/watch?v=GUCbciGAhD4&feature=youtu.be) [31:57]
 - [How to Show File Extensions in Windows](https://www.youtube.com/watch?v=wxIIskKmUQA) [0:43]
 - [Renamer, a Powerful Software for Mass File Renaming](https://www.youtube.com/watch?v=VA55zshYwTs&t=1s)
-- [How to Batch Edit Images with PhotoScape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s) 
+- [How to Batch Edit Images with PhotoScape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s)  -->
 
 
 Presentation:
-
+<!--
 - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
 Technology / Exercise  **Due**  
@@ -127,18 +127,18 @@ Machintosh
 - [Renamer (for Mac)](https://renamer.com/) 
 - [PhotoScape for Mac and Win](http://x.photoscape.org/) <-- Preferred
 - [Adobe Bridge (free Mac and Win)](https://www.adobe.com/products/bridge.html) 
-
+-->
 ------------
 # Unit 5: 	June  Images (File Management) Part 2
 
 Readings:
-
+<!--
 - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
 -  [6b Image creation "File/Image Processing" ](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Review: Kenny (2000)]
-- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc]
+- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc] -->
 
 Videos:
-
+<!--
 - File Naming Short videos:
 	- [Part 1](https://www.youtube.com/watch?v=Hi_A4Ywn4VU) [3:19]
 	- [Part 2](https://www.youtube.com/watch?v=8ogTKWpq6is) [2:37]
@@ -154,20 +154,20 @@ Videos:
 	- [Part 2](https://www.youtube.com/watch?v=xlFVDefj3hg) [6:06]
 	- [Part 3](https://www.youtube.com/watch?v=7KbZCic_V3g) [10:45]
 	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) [7:27]
-
+-->
 Presentation:
-
+<!--
 - Presentation and Homework 2 brief:
     - [Part 1](https://youtu.be/ypS52pgnTZc) [7:26]
     - [Part 2](https://youtu.be/Y_YDsakzz-4) [14:40]
     - [Part 3](https://youtu.be/xMxXsehb0JY) [15:25]
     - [Part 4](https://youtu.be/sTygDTEoqdk) [8:42]
     - [Part 5](https://youtu.be/MZP8ka3Nrrg) [9:04]
-
+-->
 Technology downloads:
-
+<!--
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool
-
+-->
 
 
 ------------
@@ -175,90 +175,91 @@ Technology downloads:
 # Unit 6: 	June  Digital Audio and Video 
 
 Readings:
-
+<!--
  - [Format Considerations in AudioVisual
 Preservation Reformatting (2010)](http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf)
 - [Digital Audio Best Practices (2006)](https://sustainableheritagenetwork.org/system/files/atoms/file/Audio_Best_Practices.pdf) (pp. 1-35)
-- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf) 
+- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf) -->
 
 Videos:
-
+<!--
 - [Foundations of Audio](https://youtu.be/c1vFiRgxBQE) [51:35]
-- [Foundations of Video](https://youtu.be/_yhXESSMYOQ) [32:09]
+- [Foundations of Video](https://youtu.be/_yhXESSMYOQ) [32:09] -->
 
 Presentation:
-
+<!--
 - [Foundations of Audio](http://www.albany.edu/~mwolfe/ist653/unit6/Foundations%20of%20Digital%20Audio.pptx) [.pptx] 
 - [Foundations fo Video](http://www.albany.edu/~mwolfe/ist653/unit6/Foundations%20of%20Digital%20Video.pptx) [.pptx]
-- [Sample vendor proposal](http://www.albany.edu/~mwolfe/ist653/unit6/example_vendor_proposal.pdf) [.pdf]
+- [Sample vendor proposal](http://www.albany.edu/~mwolfe/ist653/unit6/example_vendor_proposal.pdf) [.pdf] -->
 
 
 ------------
 
 # Unit 7:  June 	Metadata and XML
-
+<!--
 Readings:
 
 - [Chapters 1, &amp; 2 of Miller ](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1&mode=reset)[Blackboard-Course Content "Readings"]
 - [How Does XML Help Libraries?](http://www.infotoday.com/cilmag/sep02/banerjee.htm) (Banerjee)
-- [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1)[Blackboard-Course Content "Readings"] 
+- [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1)[Blackboard-Course Content "Readings"] -->
 
 Videos:
-
+<!--
 - [Introduction to Metadata](https://youtu.be/6xFmFrpDMwQ) [40:36]
 - [Introduction to XML](https://youtu.be/-kN-oY3hDyg) [44:58]
 - [XML Coders Boot Camp](https://www.youtube.com/watch?v=b27DeLZvkTo&amp;feature=youtu.be) 	[12:49]
-<!-- - [Homework 3 Overview](https://youtu.be/S930vpERxRY) [25:43] -->
+[Homework 3 Overview](https://youtu.be/S930vpERxRY) [25:43] -->
        
 
 Presentation:
-
+<!--
 - [Introduction to Metadata](http://www.albany.edu/~mwolfe/ist653/unit7/Introduction%20to%20Metadata.pptx) [.pptx]
-- [Introduction to XML](http://www.albany.edu/~mwolfe/ist538/unit1/XML_unit1.pptx) [.ppt]
+- [Introduction to XML](http://www.albany.edu/~mwolfe/ist538/unit1/XML_unit1.pptx) [.ppt] -->
 
-Exercise:  (**Install XML editor Friday, June 11th**)
-
+Exercise:  (**Install XML editor Friday, June**)
+<!--
 - [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) <--- Preferred 
 
 - [Notepad++ (PC only)](https://notepad-plus-plus.org/)
 - [jEdit (Mac only)](http://www.jedit.org/) or [XMLSpear](http://www.donkeydevelopment.com/#downloads)
 - [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/)
-- [dublin core generator form by Nicolás Ockier](https://ockier.es/dublin-core/en-dublin-core.php)
+- [dublin core generator form by Nicolás Ockier](https://ockier.es/dublin-core/en-dublin-core.php) -->
 
 ------------
 
 # Unit 8:  June  Choosing a Repository Architecture
 
 Readings:
-
+<!--
 - [Omeka Site Planning Tips](https://omeka.org/classic/docs/GettingStarted/Site_Planning_Tips/)
 - [Omeka Examples and Case Studies](https://omeka.org/classic/docs/GettingStarted/UsingOmeka/)
 - [Omeka and Its Peers, Scheinfeldt (2010)](https://foundhistory.org/2010/09/omeka-and-its-peers/)
-
+-->
 
 Videos:
-
+<!--
 - [Choosing a Digital Repository Part 1](https://youtu.be/EW_R5XwJ3VY) [09:18]
 - [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8) [53:15] 
-
+-->
 Presentation:
-
+<!--
 - [Choosing a Digital Repository](https://www.albany.edu/~mwolfe/ist653/unit8/Choosing%20a%20Digital%20Repository.pptx)[.ppt]
-
+-->
 
 ------------
 
 # Unit 9:  	June  Linked Data & Controlled Vocabularies 
-
+<!--
 Readings:
 
 - ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-5922331-dt-content-rid-98416793_1/courses/2216-CIST-653-2155/miller_chapter5.pdf) [Blackboard-Course Content]
 - ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) 
-
+-->
 Videos:
-
+<!--
 - [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
 - [Introduction to  Vocabularies &amp; Linked Data](https://youtu.be/M0TvMshLveQ) [39:36] 
+-->
 
 Presentation:
 
