@@ -12,7 +12,7 @@ Readings:
 
 Videos:
 
-- [Course Welcome &amp; Meet the Instructor](https://youtu.be/injHmsjGUWI) [11:58 min.]
+- [Course Welcome &amp; Meet the Instructor]() [00:00 min.]
 - [Overview of Course Part 1]() [00:00 min.]
 - [Overview of Course Part 2]() [00:00 min.]
 - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
