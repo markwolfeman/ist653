@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-# Unit 1: 	May 23 Course Introduction
+# Unit 1: 	May 23 Course Introduction
 
 Readings:
 
@@ -34,7 +34,7 @@ Disscussion:
 
 Exercises:
 
- - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: 5/23 **
+ - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: TBA**
 - Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive. 
 
 
@@ -63,7 +63,7 @@ Presentation:
 
 Discussion & Exercise:
 
-["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140056_1&nav=discussion_board_entry&conf_id=_225263_1&forum_id=_435413_1), approximately 75 words, and comment on one other fellow student's post. **Due Wednesday May** 
+["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140056_1&nav=discussion_board_entry&conf_id=_225263_1&forum_id=_435413_1), approximately 75 words, and comment on one other fellow student's post. **Due: TBA** 
 
 ------------
 
@@ -74,8 +74,8 @@ Readings:
 - [FADGI or Federal Agencies Digital Guidelines Initiative (About, Review Process, and skim the Glossary)](http://www.digitizationguidelines.gov/) 
 
 Videos:
-<!--
-- [Introduction to Image Scanning](https://www.youtube.com/watch?v=U0kazym7NB8) [48:04]
+
+<!-- - [Introduction to Image Scanning](https://www.youtube.com/watch?v=U0kazym7NB8) [48:04]
 - [Flatbed Scanner vs Overhead Digitization](http://www.sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization) [2:54]
 - [Library of Congress Introduction to Scanning](https://youtu.be/HqGuI6gkurA) [9:26] -->
 
