@@ -4,8 +4,8 @@ title: Syllabus
 permalink: /syllabus/
 ---
 # Course Information
-IST 653 / 3 Credits / Summer 2021
-<br/>May 24 - July 2, 2021
+IST 653 / 3 Credits / Summer 2022
+<br/>May 23 - July 1, 2022
 <br/>Fully Online (100%)
 
 # Instructor Information
