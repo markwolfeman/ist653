@@ -42,7 +42,7 @@ Upon completion of this course, students will:
 
 # Units 
 
-The first unit of class will begin **Monday, May 24th.** Each subsequent unit will be started on the date following the unit number. Each unit of course materials will be released at least three days in advance of the date on the schedule. The due date and time for each homework will be stated when released. 
+The first unit of class will begin **Monday, May 23rd.** Each subsequent unit will be started on the date following the unit number. Each unit of course materials will be released at least three days in advance of the date on the schedule. The due date and time for each homework will be stated when released. 
 
 # Computer
 
