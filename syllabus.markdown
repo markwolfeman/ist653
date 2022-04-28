@@ -78,11 +78,11 @@ You will take two tests. One will be administered via Blackboard and the other v
 
 # Submission Process
 
-Submit all assignments as directed, it may be in email or on Blackboard. Homework submissions to the instructor should include a subject heading like the following, "IST 653 / Homework 3 submission." Some of the assignments must be submitted as an archived file using the .zip format so as not to be deemed a virus by Outlook. I will return your homework via email, graded.
+Submit all assignments as directed, it may be in email or on Blackboard. Homework submissions to the instructor should include a subject heading like the following, "IST 653 / Homework 3 submission." Homework will be graded and returned to you via email.
 
 # Disability Support
 
-Reasonable accommodations will be provided for students with documented physical, sensory, systemic, cognitive, learning and psychiatric disabilities. If you believe you have a disability requiring accommodation in this class, please notify the Director of the Disability Resource Center (Campus Center 137, 442-5490). That office will provide the course instructor with verification of your disability, and will recommend appropriate accommodations. Website for [Disability Access and Inclusion Student Services (DAISS)] (https://www.albany.edu/disability/)
+Reasonable accommodations will be provided for students with documented physical, sensory, systemic, cognitive, learning and psychiatric disabilities. If you believe you have a disability requiring accommodation in this class, please notify the Director of the Disability Resource Center (Campus Center 137, 442-5490). That office will provide the course instructor with verification of your disability, and will recommend appropriate accommodations. Website for [Disability Access and Inclusion Student Services (DAISS)](https://www.albany.edu/disability/)
 
 # Academic Integrity
 
