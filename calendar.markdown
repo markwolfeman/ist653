@@ -100,6 +100,7 @@ Readings:
 - [12 Myths about Embedded Photo Metadata](https://www.controlledvocabulary.com/blog/top-metadata-myths.html) -->
 
 Videos:
+
 <!-- - Filenaming, Embedded Metadata, Managing Digital Assets:
 	- [(Lecture) Part 1](https://www.youtube.com/watch?v=gbyaB-ntjyA) [18:40]
 	- [(Lecture) Part 2](https://www.youtube.com/watch?v=GUCbciGAhD4&feature=youtu.be) [31:57]
@@ -158,8 +159,7 @@ Presentation:
     - [Part 5](https://youtu.be/MZP8ka3Nrrg) [9:04] -->
 
 Technology downloads:
-<!--
-- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool -->
+<!-- - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool -->
 
 
 ------------
