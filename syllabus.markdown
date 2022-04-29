@@ -21,8 +21,7 @@ Instructor, Mark Wolfe
 None
 
 # Description
-This course provides an overview of both the theoretical and practical aspects of digital libraries. Topics covered include background history, types and formats of digital content, collection development and selection, digitization techniques and technologies, metadata standards, access, preservation, and project management of digital libraries. A special emphasis will be placed on hands-on experiences, using digital library tools and techniques in a 
-team-based learning where appropriate.
+This course provides an overview of both the theoretical and practical aspects of digital libraries. Topics covered include background history, types and formats of digital content, collection development and selection, digitization techniques and technologies, metadata standards, access, preservation, and project management of digital libraries. A special emphasis will be placed on hands-on experiences, using digital library tools and techniques in a team-based learning where appropriate.
 
 # Learning Outcomes
 Upon completion of this course, students will: 
@@ -46,7 +45,7 @@ The first unit of class will begin **Monday, May 23rd.** Each subsequent unit wi
 
 # Computer
 
-Students must have access to a computer and a high-speed Internet connection, and a technology back-up plan in order to take the course. 
+Students must have access to a computer and a high-speed Internet connection, and a technology back-up plan in order to take the course. The course is geared toward PC and Mac users.  
 
 # Group Work
 
@@ -74,7 +73,7 @@ Hand in assignments on time! Contact me if you cannot meet a deadline, if not, I
 
 # Tests
 
-You will take two tests. One will be administered via Blackboard and the other via the course site.
+You will take two tests. Test 1 is administered via Blackboard and Test 2 is a "take home" exam.
 
 # Submission Process
 
