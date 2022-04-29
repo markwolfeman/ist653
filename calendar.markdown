@@ -92,26 +92,24 @@ Presentation:
 # Unit 4: June  Images (File Management) Part 1
 
 Readings:
-<!--
-- [Image file formats. A Few Scanning Tips.](http://www.scantips.com/basics09.html) Fulton, W. (2013)
+
+<!-- - [Image file formats. A Few Scanning Tips.](http://www.scantips.com/basics09.html) Fulton, W. (2013)
 - [Chapter 2 &quot;Selection&quot;, 3 &quot;Conversion&quot;, & 4&quot;Quality Control](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) in *Moving Theory into Practice: Digital Imaging for Libraries and Archives,* Kenney. [2000]
 - Skim Renamer user manual [PC](http://www.den4b.com/wiki/ReNamer) or
   [Mac](https://renamer.com/help/English.lproj/getting_started.html) 
 - [12 Myths about Embedded Photo Metadata](https://www.controlledvocabulary.com/blog/top-metadata-myths.html) -->
 
 Videos:
-<!--
- - Filenaming, Embedded Metadata, Managing Digital Assets:
+<!-- - Filenaming, Embedded Metadata, Managing Digital Assets:
 	- [(Lecture) Part 1](https://www.youtube.com/watch?v=gbyaB-ntjyA) [18:40]
 	- [(Lecture) Part 2](https://www.youtube.com/watch?v=GUCbciGAhD4&feature=youtu.be) [31:57]
 - [How to Show File Extensions in Windows](https://www.youtube.com/watch?v=wxIIskKmUQA) [0:43]
 - [Renamer, a Powerful Software for Mass File Renaming](https://www.youtube.com/watch?v=VA55zshYwTs&t=1s)
-- [How to Batch Edit Images with PhotoScape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s)  -->
+- [How to Batch Edit Images with PhotoScape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s) -->
 
 
 Presentation:
-<!--
-- [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
+<!-- - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
 Technology / Exercise  **Due**  
 - Install software and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own.  Please use Renamer and PhotoScape, but you can use Adobe Bridge or FastStone if you wish, but I will not create or link to videos for their use.
@@ -126,20 +124,17 @@ Machintosh
 
 - [Renamer (for Mac)](https://renamer.com/) 
 - [PhotoScape for Mac and Win](http://x.photoscape.org/) <-- Preferred
-- [Adobe Bridge (free Mac and Win)](https://www.adobe.com/products/bridge.html) 
--->
+- [Adobe Bridge (free Mac and Win)](https://www.adobe.com/products/bridge.html) -->
 ------------
 # Unit 5: 	June  Images (File Management) Part 2
 
 Readings:
-<!--
-- [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
+<!-- - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
 -  [6b Image creation "File/Image Processing" ](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Review: Kenny (2000)]
 - [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc] -->
 
 Videos:
-<!--
-- File Naming Short videos:
+<!-- - File Naming Short videos:
 	- [Part 1](https://www.youtube.com/watch?v=Hi_A4Ywn4VU) [3:19]
 	- [Part 2](https://www.youtube.com/watch?v=8ogTKWpq6is) [2:37]
 	- [Part 3](https://www.youtube.com/watch?v=959hYLK40gE) [3:28]
@@ -153,21 +148,18 @@ Videos:
 	- [Part 1](https://www.youtube.com/watch?v=CWcMrAfhlKI) [4:45]
 	- [Part 2](https://www.youtube.com/watch?v=xlFVDefj3hg) [6:06]
 	- [Part 3](https://www.youtube.com/watch?v=7KbZCic_V3g) [10:45]
-	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) [7:27]
--->
+	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) [7:27] -->
 Presentation:
-<!--
-- Presentation and Homework 2 brief:
+<!-- - Presentation and Homework 2 brief:
     - [Part 1](https://youtu.be/ypS52pgnTZc) [7:26]
     - [Part 2](https://youtu.be/Y_YDsakzz-4) [14:40]
     - [Part 3](https://youtu.be/xMxXsehb0JY) [15:25]
     - [Part 4](https://youtu.be/sTygDTEoqdk) [8:42]
-    - [Part 5](https://youtu.be/MZP8ka3Nrrg) [9:04]
--->
+    - [Part 5](https://youtu.be/MZP8ka3Nrrg) [9:04] -->
+
 Technology downloads:
 <!--
-- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool
--->
+- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool -->
 
 
 ------------
