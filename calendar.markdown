@@ -124,7 +124,7 @@ Windows
 Machintosh
 
 - [Renamer (for Mac)](https://renamer.com/) 
-- [PhotoScape for Mac and Win](http://x.photoscape.org/) <-- Preferred
+- [PhotoScape for Mac and Win](http://x.photoscape.org/)  Preferred
 - [Adobe Bridge (free Mac and Win)](https://www.adobe.com/products/bridge.html) -->
 ------------
 # Unit 5: 	June  Images (File Management) Part 2
