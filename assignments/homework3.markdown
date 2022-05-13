@@ -38,6 +38,6 @@ The object of this homework is to mark up your assigned images from Homework 2. 
 	- Why do you think the developers of Omeka have chosen [Dublin Core over MODS?](http://omeka.org/forums/topic/omeka-and-mods-element-set)
 
 
-- It's worth 10 points and due **Due June 15th** 
+- It's worth 10 points and due **Due TBA** 
 - Submit via email as one .zip file (include .xml, and .doc files). 
 - Work in groups and share information on the discussion board--it will go faster!

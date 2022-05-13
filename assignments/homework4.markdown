@@ -36,5 +36,5 @@ permalink:
 <br/>
 <br/>
 - **Note**: everything in your site can be updated and/or changed at a later date!
-- This assignment is worth 10 points and **Due: Tuesday, July  22nd**. 
+- This assignment is worth 10 points and **Due: TBA**. 
 - E-mail me the URL to your site.

@@ -40,7 +40,7 @@ Exercises:
 
 ------------
 
-# Unit 2:  May  What is a Digital Library 
+# Unit 2:  May 25  What is a Digital Library 
 
 Readings:
 
