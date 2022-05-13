@@ -98,7 +98,7 @@ Readings:
 - Skim Renamer user manual [PC](http://www.den4b.com/wiki/ReNamer) or
   [Mac](https://renamer.com/help/English.lproj/getting_started.html) 
 - [12 Myths about Embedded Photo Metadata](https://www.controlledvocabulary.com/blog/top-metadata-myths.html) -->
---
+
 Videos:
 
 <!-- - Filenaming, Embedded Metadata, Managing Digital Assets:
