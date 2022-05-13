@@ -90,7 +90,7 @@ Presentation:
 
 
 # Unit 4: June  Images (File Management) Part 1
-
+---
 Readings:
 
 <!-- - [Image file formats. A Few Scanning Tips.](http://www.scantips.com/basics09.html) Fulton, W. (2013)
@@ -98,7 +98,7 @@ Readings:
 - Skim Renamer user manual [PC](http://www.den4b.com/wiki/ReNamer) or
   [Mac](https://renamer.com/help/English.lproj/getting_started.html) 
 - [12 Myths about Embedded Photo Metadata](https://www.controlledvocabulary.com/blog/top-metadata-myths.html) -->
-
+--
 Videos:
 
 <!-- - Filenaming, Embedded Metadata, Managing Digital Assets:
@@ -126,6 +126,7 @@ Machintosh
 - [Renamer (for Mac)](https://renamer.com/) 
 - [PhotoScape for Mac and Win](http://x.photoscape.org/)  Preferred
 - [Adobe Bridge (free Mac and Win)](https://www.adobe.com/products/bridge.html) -->
+---
 ------------
 # Unit 5: 	June  Images (File Management) Part 2
 
