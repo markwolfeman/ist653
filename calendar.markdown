@@ -15,7 +15,7 @@ Videos:
 - [Course Welcome &amp; Meet the Instructor](https://youtu.be/UxLKvDjOHUc) [09:21 min.]
 - [Overview of Course Part 1]() [00:00min.]
 - [Overview of Course Part 2]() [00:00 min.]
-<!-- - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]-->
+- [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
 
 Presentation:
 
@@ -30,12 +30,12 @@ Disscussion:
  - [Vincent van Gogh: The Letters](http://vangoghletters.org/vg/)
  - [Digital Public Library of American](http://dp.la/)
  - [NYC OpenData](https://nycopendata.socrata.com/)
-  - [The Salman Rushdie Digital Archive](http://www.nytimes.com/video/multimedia/1247467357139/the-salman-rushdie-digital-archive.html) [5 min video]
+- [The Salman Rushdie Digital Archive](http://www.nytimes.com/video/multimedia/1247467357139/the-salman-rushdie-digital-archive.html) [5 min video]
 
 Exercises:
 
- - [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: TBA**
-- Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive. 
+- [Get to know your classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: Monday Jun 23rd**
+- Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive, albiet dated, it covers the fundamentals nicely. 
 
 
 ------------
@@ -63,7 +63,7 @@ Presentation:
 
 Discussion & Exercise:
 
-["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140056_1&nav=discussion_board_entry&conf_id=_225263_1&forum_id=_435413_1), approximately 75 words, and comment on one other fellow student's post. **Due: TBA** 
+["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](blackboard_link), approximately 75 words, and comment on one other fellow student's post. **Due: TBA** 
 
 ------------
 
@@ -110,6 +110,7 @@ Videos:
 
 
 Presentation:
+
 <!-- - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
 Technology / Exercise  **Due**  
@@ -131,11 +132,13 @@ Machintosh
 # Unit 5: 	June 3rd  Images (File Management) Part 2
 
 Readings:
+
 <!-- - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
 -  [6b Image creation "File/Image Processing" ](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Review: Kenny (2000)]
 - [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc] -->
 
 Videos:
+
 <!-- - File Naming Short videos:
 	- [Part 1](https://www.youtube.com/watch?v=Hi_A4Ywn4VU) [3:19]
 	- [Part 2](https://www.youtube.com/watch?v=8ogTKWpq6is) [2:37]
@@ -152,6 +155,7 @@ Videos:
 	- [Part 3](https://www.youtube.com/watch?v=7KbZCic_V3g) [10:45]
 	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) [7:27] -->
 Presentation:
+
 <!-- - Presentation and Homework 2 brief:
     - [Part 1](https://youtu.be/ypS52pgnTZc) [7:26]
     - [Part 2](https://youtu.be/Y_YDsakzz-4) [14:40]
@@ -168,19 +172,20 @@ Technology downloads:
 # Unit 6:  	June 6th  Digital Audio and Video 
 
 Readings:
----
- - [Format Considerations in AudioVisual
+
+ <!-- [Format Considerations in AudioVisual
 Preservation Reformatting (2010)](http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf)
 - [Digital Audio Best Practices (2006)](https://sustainableheritagenetwork.org/system/files/atoms/file/Audio_Best_Practices.pdf) (pp. 1-35)
-- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf)
----
+- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf) -->
+
 
 Videos:
-<!--
-- [Foundations of Audio](https://youtu.be/c1vFiRgxBQE) [51:35]
+
+<!-- - [Foundations of Audio](https://youtu.be/c1vFiRgxBQE) [51:35]
 - [Foundations of Video](https://youtu.be/_yhXESSMYOQ) [32:09] -->
 
 Presentation:
+
 <!--
 - [Foundations of Audio](http://www.albany.edu/~mwolfe/ist653/unit6/Foundations%20of%20Digital%20Audio.pptx) [.pptx] 
 - [Foundations fo Video](http://www.albany.edu/~mwolfe/ist653/unit6/Foundations%20of%20Digital%20Video.pptx) [.pptx]
@@ -190,14 +195,15 @@ Presentation:
 ------------
 
 # Unit 7:  June 8th 	Metadata and XML
-<!--
+
 Readings:
 
-- [Chapters 1, &amp; 2 of Miller ](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1&mode=reset)[Blackboard-Course Content "Readings"]
+<!-- - [Chapters 1, &amp; 2 of Miller ](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1&mode=reset)[Blackboard-Course Content "Readings"]
 - [How Does XML Help Libraries?](http://www.infotoday.com/cilmag/sep02/banerjee.htm) (Banerjee)
 - [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1)[Blackboard-Course Content "Readings"] -->
 
 Videos:
+
 <!--
 - [Introduction to Metadata](https://youtu.be/6xFmFrpDMwQ) [40:36]
 - [Introduction to XML](https://youtu.be/-kN-oY3hDyg) [44:58]
@@ -206,11 +212,13 @@ Videos:
        
 
 Presentation:
+
 <!--
 - [Introduction to Metadata](http://www.albany.edu/~mwolfe/ist653/unit7/Introduction%20to%20Metadata.pptx) [.pptx]
 - [Introduction to XML](http://www.albany.edu/~mwolfe/ist538/unit1/XML_unit1.pptx) [.ppt] -->
 
 Exercise:  (**Install XML editor Friday, June**)
+
 <!--
 - [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) <--- Preferred 
 
@@ -224,6 +232,7 @@ Exercise:  (**Install XML editor Friday, June**)
 # Unit 8:  June 10th Choosing a Repository Architecture
 
 Readings:
+
 <!--
 - [Omeka Site Planning Tips](https://omeka.org/classic/docs/GettingStarted/Site_Planning_Tips/)
 - [Omeka Examples and Case Studies](https://omeka.org/classic/docs/GettingStarted/UsingOmeka/)
@@ -231,11 +240,13 @@ Readings:
 -->
 
 Videos:
+
 <!--
 - [Choosing a Digital Repository Part 1](https://youtu.be/EW_R5XwJ3VY) [09:18]
 - [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8) [53:15] 
 -->
 Presentation:
+
 <!--
 - [Choosing a Digital Repository](https://www.albany.edu/~mwolfe/ist653/unit8/Choosing%20a%20Digital%20Repository.pptx)[.ppt]
 -->
@@ -243,22 +254,22 @@ Presentation:
 ------------
 
 # Unit 9:  	June 13th  Linked Data & Controlled Vocabularies 
-<!--
+
 Readings:
 
-- ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-5922331-dt-content-rid-98416793_1/courses/2216-CIST-653-2155/miller_chapter5.pdf) [Blackboard-Course Content]
-- ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) 
--->
+ <!-- - ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-5922331-dt-content-rid-98416793_1/courses/2216-CIST-653-2155/miller_chapter5.pdf) [Blackboard-Course Content]
+- ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) -->
+
 Videos:
-<!--
-- [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
+
+<!-- - [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
 - [Introduction to  Vocabularies &amp; Linked Data](https://youtu.be/M0TvMshLveQ) [39:36] 
 -->
 
 Presentation:
 
- - [Introduction to  Vocabularies &amp; Linked Data](http://www.albany.edu/~mwolfe/ist653/unit9/Vocabularies%20and%20Linked%20Data.pptx) [.ppt]
-
+ <!-- - [Introduction to  Vocabularies &amp; Linked Data](http://www.albany.edu/~mwolfe/ist653/unit9/Vocabularies%20and%20Linked%20Data.pptx) [.ppt]
+-->
 
 ------------
 
@@ -266,16 +277,16 @@ Presentation:
 
 Readings:
 
-- [Using Omeka to Build Digital Collections: The METRO Case Study by ](http://dlib.org/dlib/march10/kucsma/03kucsma.html) Kucsma, Reiss, & Sidman (2010) in D-Lib
+<!-- - [Using Omeka to Build Digital Collections: The METRO Case Study by ](http://dlib.org/dlib/march10/kucsma/03kucsma.html) Kucsma, Reiss, & Sidman (2010) in D-Lib
 - [Review: The Showcase of Omeka Powered sites](https://omeka.org/showcase/) 
 - [Planning Tips:](https://omeka.org/codex/Site_Planning_Tips) "Questions to Ask While Planning"
-- (Optional reading), ["Institutional Repository on a Shoestring" in D-Lib  Wrenn & Mueller (2009)](https://www.dlib.org/dlib/january09/wrenn/01wrenn.html)  
+- (Optional reading), ["Institutional Repository on a Shoestring" in D-Lib  Wrenn & Mueller (2009)](https://www.dlib.org/dlib/january09/wrenn/01wrenn.html)  -->
 
 Videos:
 
- - Omeka Screencasts:
+<!-- - Omeka Screencasts:
   
-	- Watch all 12 [&quot;Getting Started&quot; screencasts videos](https://omeka.org/classic/docs/GettingStarted/Screencasts/)
+	- Watch all 12 [&quot;Getting Started&quot; screencasts videos](https://omeka.org/classic/docs/GettingStarted/Screencasts/) -->
 
 Presentation:
  - None 
@@ -287,13 +298,14 @@ Presentation:
 
 Readings:
 
-- Optional ~ ["Practical Limits to the Scope of Digital Preservation" by Kastellec (2012)](https://ejournals.bc.edu/index.php/ital/article/view/2167/pdf)
+<!-- - Optional ~ ["Practical Limits to the Scope of Digital Preservation" by Kastellec (2012)](https://ejournals.bc.edu/index.php/ital/article/view/2167/pdf)
 - Optional ~ ["Preservation in the Age of Google" by Conway (2010)](http://libproxy.albany.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=lih&AN=47797788&site=eds-live&scope=site)
+-->
 
 Videos:
 
--  [Snow Byte & the Seven Formats: A Digital Preservation Fairy Tale ](https://youtu.be/TfMgOKy9bPw) [7:15]
-- [The Cost of Inaction Calculator Rationale](https://www.youtube.com/watch?v=5gB6uj9uLQ4) [8:41]
+<!-- -  [Snow Byte & the Seven Formats: A Digital Preservation Fairy Tale ](https://youtu.be/TfMgOKy9bPw) [7:15]
+- [The Cost of Inaction Calculator Rationale](https://www.youtube.com/watch?v=5gB6uj9uLQ4) [8:41] -->
 
 
 Presentation:
@@ -320,12 +332,12 @@ Presentation:
 
 # Final Day	June 27th Open Lab Final Project and Review
 
+**Everything Must Be Handed In By Date: 
+Wednesday, June 27**
+
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement due
 - Omeka Final Project 
-
-**Everything Must Be Handed In By Date: 
-Friday, July 1st**
 
 ------------
 
