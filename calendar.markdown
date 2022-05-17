@@ -67,7 +67,7 @@ Discussion & Exercise:
 
 ------------
 
-# Unit 3:  May   Images (Digitization) 
+# Unit 3:  May 27th  Images (Digitization) 
 Readings:
 
 - Besser (2003) [Introduction to Imaging (read: intro to p. 46)](http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf) [.pdf]
@@ -89,7 +89,7 @@ Presentation:
 ------------
 
 
-# Unit 4: June  Images (File Management) Part 1
+# Unit 4: June 1st  Images (File Management) Part 1
 ---
 Readings:
 
@@ -126,9 +126,9 @@ Machintosh
 - [Renamer (for Mac)](https://renamer.com/) 
 - [PhotoScape for Mac and Win](http://x.photoscape.org/)  Preferred
 - [Adobe Bridge (free Mac and Win)](https://www.adobe.com/products/bridge.html) -->
----
+
 ------------
-# Unit 5: 	June  Images (File Management) Part 2
+# Unit 5: 	June 3rd  Images (File Management) Part 2
 
 Readings:
 <!-- - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
@@ -165,7 +165,7 @@ Technology downloads:
 
 ------------
 
-# Unit 6: 	June  Digital Audio and Video 
+# Unit 6:  	June 6th  Digital Audio and Video 
 
 Readings:
 <!--
@@ -188,7 +188,7 @@ Presentation:
 
 ------------
 
-# Unit 7:  June 	Metadata and XML
+# Unit 7:  June 8th 	Metadata and XML
 <!--
 Readings:
 
@@ -220,7 +220,7 @@ Exercise:  (**Install XML editor Friday, June**)
 
 ------------
 
-# Unit 8:  June  Choosing a Repository Architecture
+# Unit 8:  June 10th Choosing a Repository Architecture
 
 Readings:
 <!--
@@ -241,7 +241,7 @@ Presentation:
 
 ------------
 
-# Unit 9:  	June  Linked Data & Controlled Vocabularies 
+# Unit 9:  	June 13th  Linked Data & Controlled Vocabularies 
 <!--
 Readings:
 
@@ -258,14 +258,10 @@ Presentation:
 
  - [Introduction to  Vocabularies &amp; Linked Data](http://www.albany.edu/~mwolfe/ist653/unit9/Vocabularies%20and%20Linked%20Data.pptx) [.ppt]
 
-------------
-
-# No Class: June  Juneteenth Observed
-
 
 ------------
 
-# Unit 10:  June  Project Planning
+# Unit 10:  June 15th  Project Planning
 
 Readings:
 
@@ -286,7 +282,7 @@ Presentation:
 ------------
 
 
-# Unit 11: 	June  Sustainability & Preservation
+# Unit 11: 	June 17th  Sustainability & Preservation
 
 Readings:
 
@@ -302,30 +298,33 @@ Videos:
 Presentation:
 
  - None
+------------
 
+# No Class: June 20th  Juneteenth Observed
 
 ------------
 
-# Unit 12: June  Open Lab Final Project and Review
+# Unit 12: June 22nd  Open Lab Final Project and Review
 
 - work on your Final Project
 - work on Test 2 / Job Announcment
 
 ------------
 
-# Unit 13:	June Open Lab Final Project and Review
+# Unit 13:	June 24th Open Lab Final Project and Review
 
 - work on Test 2 / Job Announcment
 
 ------------
 
-# Final Day	June  Open Lab Final Project and Review
+# Final Day	June 27th Open Lab Final Project and Review
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement due
 - Omeka Final Project 
 
-**Everything Must Be Handed In By Date:**
+**Everything Must Be Handed In By Date: 
+Friday, July 1st**
 
 ------------
 
