@@ -258,7 +258,7 @@ Presentation:
 
 Readings:
 
- <!-- 
+<!-- 
  - ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-5922331-dt-content-rid-98416793_1/courses/2216-CIST-653-2155/miller_chapter5.pdf) [Blackboard-Course Content]
 - ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) -->
 
