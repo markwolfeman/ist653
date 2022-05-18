@@ -28,7 +28,7 @@ Disscussion:
   - [National Science Digital Library](https://nsdl.oercommons.org/)
  - [Mark Twain Project Online](http://www.marktwainproject.org/homepage.html)
  - [Vincent van Gogh: The Letters](http://vangoghletters.org/vg/)
- - [Digital Public Library of American](http://dp.la/)
+ - [Digital Public Library of America](http://dp.la/)
  - [NYC OpenData](https://nycopendata.socrata.com/)
 - [The Salman Rushdie Digital Archive](http://www.nytimes.com/video/multimedia/1247467357139/the-salman-rushdie-digital-archive.html) [5 min video]
 
