@@ -173,7 +173,7 @@ Technology downloads:
 
 Readings:
 
- <!-- -[Format Considerations in AudioVisual
+ <!-- - [Format Considerations in AudioVisual
 Preservation Reformatting (2010)](http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf)
 - [Digital Audio Best Practices (2006)](https://sustainableheritagenetwork.org/system/files/atoms/file/Audio_Best_Practices.pdf) (pp. 1-35)
 - [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf) -->
