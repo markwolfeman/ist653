@@ -13,8 +13,8 @@ Readings:
 Videos:
 
 - [Course Welcome &amp; Meet the Instructor](https://youtu.be/UxLKvDjOHUc) [09:21 min.]
-- [Overview of Course Part 1]() [00:00min.]
-- [Overview of Course Part 2]() [00:00 min.]
+- [Overview of Course Part 1](https://youtu.be/DlzytG8P8Mc) [15:42min.]
+- [Overview of Course Part 2](https://youtu.be/B6qNCgeHMeU) [10:24 min.]
 - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
 
 Presentation:
@@ -173,7 +173,7 @@ Technology downloads:
 
 Readings:
 
- <!-- [Format Considerations in AudioVisual
+ <!-- -[Format Considerations in AudioVisual
 Preservation Reformatting (2010)](http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf)
 - [Digital Audio Best Practices (2006)](https://sustainableheritagenetwork.org/system/files/atoms/file/Audio_Best_Practices.pdf) (pp. 1-35)
 - [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf) -->
@@ -256,7 +256,7 @@ Presentation:
 
 Readings:
 
- <!-- - ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-5922331-dt-content-rid-98416793_1/courses/2216-CIST-653-2155/miller_chapter5.pdf) [Blackboard-Course Content]
+ <!-- -["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-5922331-dt-content-rid-98416793_1/courses/2216-CIST-653-2155/miller_chapter5.pdf) [Blackboard-Course Content]
 - ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) -->
 
 Videos:
