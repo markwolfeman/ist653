@@ -63,7 +63,7 @@ Presentation:
 
 Discussion & Exercise:
 
-["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](blackboard_link), approximately 75 words, and comment on one other fellow student's post. **Due: TBA** 
+<!--["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](blackboard_link), approximately 75 words, and comment on one other fellow student's post. **Due: TBA** -->
 
 ------------
 
