@@ -63,7 +63,7 @@ Presentation:
 
 Discussion & Exercise:
 
-["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](blackboard_link), approximately 75 words, and comment on one other fellow student's post. **Due May 25th** 
+["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_164941_1&nav=discussion_board_entry&conf_id=_270728_1&forum_id=_580588_1), approximately 75 words, and comment on one other fellow student's post. **Due May 25th** 
 
 ------------
 
