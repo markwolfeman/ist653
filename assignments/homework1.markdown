@@ -12,14 +12,14 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (, &amp;  [SlaveVoyages](https://www.slavevoyages.org/)
-- Group 2: (,  &amp; ) [CALI-SPHERE](http://calisphere.cdlib.org/)
-- Group 3: (,   &amp; ) [DPLA](https://dp.la/)
-- Group 4: (,  &amp;) [Jacob's Pillow](https://archives.jacobspillow.org/)
-- Group 5: (,  &amp; ) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
-- Group 6: (,  &amp; ) [Science History Institute](https://digital.sciencehistory.org/)
-- Group 7: (,  &amp; ) [Open Vault at WGBH](https://openvault.wgbh.org/) 
-- Group 8: () [Tufts Digital Library](https://dl.tufts.edu/pages/index) 
+- Group 1: (Kisa, Kimberly &amp;Mary  [Project Gutenberg](https://www.gutenberg.org/)
+- Group 2: (Samantha, Samantha &amp; Abby ) [CALI-SPHERE](http://calisphere.cdlib.org/)
+- Group 3: (Wendy, Farah &amp; Ke) [DPLA](https://dp.la/)
+- Group 4: (Danielle, Melissa &amp; Chloe) [Jacob's Pillow](https://archives.jacobspillow.org/)
+- Group 5: (Andrea, Allyson&amp;Katherine) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
+- Group 6: (Erin, Jerusha &amp; Julie) [Science History Institute](https://digital.sciencehistory.org/)
+- Group 7: (John,Laura &amp;Geraldine ) [Open Vault at WGBH](https://openvault.wgbh.org/) 
+- Group 8: (Matthew, Alison,&amp;Emily) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
 
 # Part 1 Institution
 
@@ -55,4 +55,4 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Functionality to have a &quot;book cart&quot;? Guide to searching techniques?
 
 - This assignment is worth **10 points.**
-- **Due TBA** 
+- **Due Monday May 30** 
