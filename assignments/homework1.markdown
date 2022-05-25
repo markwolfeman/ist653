@@ -10,16 +10,18 @@ permalink:
 
 Each group is assigned a digital library to evaluate. Students will need to address the questions below, and present to the class on the disccusion board. Answer the questions in your own words, in complete sentences, and don't merely copy and paste text from the site documentation. Each group must divide up the questions equally, and present in writing on the Blackboard Discussion Board. Nominate a person from your group to post your assignment to a thread on the discussion forum for &quot;Homework 1&quot;. Please list your name with the section you worked on. You are welcome to use screen shots in the discussion post or in a Word document. Post under your group name (i.e. &quot;Group 2 final submission&quot;). 
 
+- Feel free to conduct homework discussion on your assigned thread, create a new thread, or discuss over email. 
+
 # Assigned digital libraries: 
 
-- Group 1: (Kisa, Kimberly &amp; Mary)  [Project Gutenberg](https://www.gutenberg.org/)
-- Group 2: (Samantha, Samantha &amp; Abby) [CALI-SPHERE](http://calisphere.cdlib.org/)
-- Group 3: (Wendy, Farah &amp; Ke) [DPLA](https://dp.la/)
-- Group 4: (Danielle, Melissa &amp; Chloe) [Jacob's Pillow](https://archives.jacobspillow.org/)
-- Group 5: (Andrea, Allyson &amp;Katherine) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
-- Group 6: (Erin, Jerusha &amp; Julie) [Science History Institute](https://digital.sciencehistory.org/)
-- Group 7: (John, Laura &amp;Geraldine) [SlaveVoyages](https://www.slavevoyages.org/) 
-- Group 8: (Matthew, Alison &amp; Emily) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
+- Group 1: (Kisa Baginski, Kimberly Bellamy &amp; Mary Carrier)  [Project Gutenberg](https://www.gutenberg.org/)
+- Group 2: (Sam Christensen-Tripi, Samantha Cody &amp; Abby Cowan) [CALI-SPHERE](http://calisphere.cdlib.org/)
+- Group 3: (Wendy Cribb, Farah Douglas &amp; Ke Gao) [DPLA](https://dp.la/)
+- Group 4: (Danielle Graham, Melissa Iaria &amp; Chloe Janis) [Jacob's Pillow](https://archives.jacobspillow.org/)
+- Group 5: (Andrea Lurie, Allyson Maccie &amp;Katherine McMillan) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
+- Group 6: (Erin Meye, Jerusha Owusu-Barie &amp; Julie Rosier) [Science History Institute](https://digital.sciencehistory.org/)
+- Group 7: (John Ruquet, Laura Scott &amp;Geraldine Villatoro) [SlaveVoyages](https://www.slavevoyages.org/) 
+- Group 8: (Matthew Voorhees, Alison Wells &amp; Emily Wilkerson) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
 
 # Part 1 Institution
 

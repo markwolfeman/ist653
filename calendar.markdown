@@ -54,7 +54,7 @@ Videos:
 
 - [Foundations of Digital Libraries Part 1](https://youtu.be/nexEnlECLV4) [ 8:17 min.]
 - [Foundations of Digital Libraries Part 2](https://www.youtube.com/watch?v=J9J6w39nK7w) [33:36 min.]
-<!-- - [Homework 1 overview](https://youtu.be/nZnNIw-FzL8) [6:42 min.]--> 
+- [Homework 1 overview](https://youtu.be/nZnNIw-FzL8) [6:42 min.] 
 
 
 Presentation:
@@ -75,17 +75,16 @@ Readings:
 
 Videos:
 
-<!-- - [Introduction to Image Scanning](https://www.youtube.com/watch?v=U0kazym7NB8) [48:04]
+- [Introduction to Image Scanning](https://www.youtube.com/watch?v=U0kazym7NB8) [48:04]
 - [Flatbed Scanner vs Overhead Digitization](http://www.sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization) [2:54]
-- [Library of Congress Introduction to Scanning](https://youtu.be/HqGuI6gkurA) [9:26] -->
-
+- [Library of Congress Introduction to Scanning](https://youtu.be/HqGuI6gkurA) [9:26] 
 Presentation:
 
 - [Introduction to Image Scanning](https://www.albany.edu/~mwolfe/ist653/unit3/Introduction%20to%20Image%20Scanning.pptx) [.ppt]
 
 
 ------------
-# No Class: Memorial Day Observed
+# No Class: May 30th Memorial Day Observed
 ------------
 
 
