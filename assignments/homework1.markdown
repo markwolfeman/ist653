@@ -12,14 +12,14 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (Kisa, Kimberly &amp;Mary)  [Project Gutenberg](https://www.gutenberg.org/)
-- Group 2: (Samantha, Samantha &amp; Abby ) [CALI-SPHERE](http://calisphere.cdlib.org/)
+- Group 1: (Kisa, Kimberly &amp; Mary)  [Project Gutenberg](https://www.gutenberg.org/)
+- Group 2: (Samantha, Samantha &amp; Abby) [CALI-SPHERE](http://calisphere.cdlib.org/)
 - Group 3: (Wendy, Farah &amp; Ke) [DPLA](https://dp.la/)
 - Group 4: (Danielle, Melissa &amp; Chloe) [Jacob's Pillow](https://archives.jacobspillow.org/)
-- Group 5: (Andrea, Allyson&amp;Katherine) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
+- Group 5: (Andrea, Allyson &amp;Katherine) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
 - Group 6: (Erin, Jerusha &amp; Julie) [Science History Institute](https://digital.sciencehistory.org/)
-- Group 7: (John,Laura &amp;Geraldine) [SlaveVoyages](https://www.slavevoyages.org/) 
-- Group 8: (Matthew, Alison,&amp;Emily) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
+- Group 7: (John, Laura &amp;Geraldine) [SlaveVoyages](https://www.slavevoyages.org/) 
+- Group 8: (Matthew, Alison &amp; Emily) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
 
 # Part 1 Institution
 
