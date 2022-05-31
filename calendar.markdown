@@ -105,6 +105,7 @@ Videos:
 	- [(Lecture) Part 1](https://www.youtube.com/watch?v=gbyaB-ntjyA) [18:40]
 	- [(Lecture) Part 2](https://youtu.be/GUCbciGAhD4) [27:03]
 - [How to Show File Extensions in Windows](https://www.youtube.com/watch?v=wxIIskKmUQA) [0:43]
+-[How to Show File Extensions for Mac](https://youtu.be/mYNchWitkyg) [5:03]
 - [Renamer, a Powerful Software for Mass File Renaming](https://www.youtube.com/watch?v=VA55zshYwTs&t=1s)
 - [How to Batch Edit Images with PhotoScape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s) 
 
