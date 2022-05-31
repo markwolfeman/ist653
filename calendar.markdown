@@ -100,41 +100,36 @@ Readings:
 
 Videos:
 
-<!-- - Filenaming, Embedded Metadata, Managing Digital Assets:
+- Filenaming, Embedded Metadata, Managing Digital Assets:
 	- [(Lecture) Part 1](https://www.youtube.com/watch?v=gbyaB-ntjyA) [18:40]
-	- [(Lecture) Part 2](https://www.youtube.com/watch?v=GUCbciGAhD4&feature=youtu.be) [31:57]
+	- [(Lecture) Part 2](https://youtu.be/GUCbciGAhD4) [27:03]
 - [How to Show File Extensions in Windows](https://www.youtube.com/watch?v=wxIIskKmUQA) [0:43]
 - [Renamer, a Powerful Software for Mass File Renaming](https://www.youtube.com/watch?v=VA55zshYwTs&t=1s)
-- [How to Batch Edit Images with PhotoScape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s) -->
+- [How to Batch Edit Images with PhotoScape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s) 
 
 
 Presentation:
 
-<!-- - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
+- [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
-Technology / Exercise  **Due**  
-- Install software and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own.  Please use Renamer and PhotoScape, but you can use Adobe Bridge or FastStone if you wish, but I will not create or link to videos for their use.
+Technology / Exercise  **Due June 2nd**  
+- Install the Renamer and PhotoScape software, and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. Once installed, post comment to the Unit 4 exercise discussion forum. Just a "great success" or if you want to write more or ask questions, please do.
 
-Windows
+Windows & Mac
 
-- [Renamer (PC)](http://www.den4b.com/?x=products&product=renamer) 
-- [PhotoScape for Mac and Win](http://x.photoscape.org/) <-- Preferred
-- [FastStone Image Viewer (PC)](https://www.faststone.org/FSViewerDetail.htm)
+- [Renamer (PC)](http://www.den4b.com/?x=products&product=renamer)
+- [Renamer (for Mac)](https://renamer.com/)  
+- [PhotoScape for Mac and Win](http://x.photoscape.org/) 
 
-Machintosh
-
-- [Renamer (for Mac)](https://renamer.com/) 
-- [PhotoScape for Mac and Win](http://x.photoscape.org/)  Preferred
-- [Adobe Bridge (free Mac and Win)](https://www.adobe.com/products/bridge.html) -->
 
 ------------
 # Unit 5: 	June 3rd  Images (File Management) Part 2
 
 Readings:
 
-<!-- - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
+ - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) 
 -  [6b Image creation "File/Image Processing" ](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Review: Kenny (2000)]
-- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc] -->
+<!--- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc] -->
 
 Videos:
 
@@ -163,7 +158,10 @@ Presentation:
     - [Part 5](https://youtu.be/MZP8ka3Nrrg) [9:04] -->
 
 Technology downloads:
-<!-- - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool -->
+<!-- 
+  - [Adobe Bridge] (https://www.adobe.com/products/bridge.html)
+
+  - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool -->
 
 
 ------------
@@ -172,11 +170,11 @@ Technology downloads:
 
 Readings:
 
-<!-- 
+
 - [Format Considerations in AudioVisual
 Preservation Reformatting (2010)](http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf)
 - [Digital Audio Best Practices (2006)](https://sustainableheritagenetwork.org/system/files/atoms/file/Audio_Best_Practices.pdf) (pp. 1-35)
-- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf) -->
+- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf)
 
 
 Videos:
