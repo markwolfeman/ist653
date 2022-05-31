@@ -160,8 +160,8 @@ Presentation:
     - [Part 5](https://youtu.be/MZP8ka3Nrrg) [9:04] -->
 
 Technology downloads:
-<!-- 
-  - [Adobe Bridge] (https://www.adobe.com/products/bridge.html)
+
+<!-- - [Adobe Bridge] (https://www.adobe.com/products/bridge.html)
 
   - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool -->
 
