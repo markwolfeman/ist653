@@ -78,6 +78,7 @@ Videos:
 - [Introduction to Image Scanning](https://www.youtube.com/watch?v=U0kazym7NB8) [48:04]
 - [Flatbed Scanner vs Overhead Digitization](http://www.sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization) [2:54]
 - [Library of Congress Introduction to Scanning](https://youtu.be/HqGuI6gkurA) [9:26] 
+
 Presentation:
 
 - [Introduction to Image Scanning](https://www.albany.edu/~mwolfe/ist653/unit3/Introduction%20to%20Image%20Scanning.pptx) [.ppt]
