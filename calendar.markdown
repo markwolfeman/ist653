@@ -117,7 +117,7 @@ Presentation:
 Technology / Exercise  **Due June 2nd**  
 - Install the Renamer and PhotoScape software, and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. Once installed, post comment to the Unit 4 exercise discussion forum. Just a "great success" or if you want to write more or ask questions, please do.
 
-Windows & Mac
+Install software:
 
 - [Renamer (PC)](http://www.den4b.com/?x=products&product=renamer)
 - [Renamer (for Mac)](https://renamer.com/)  
