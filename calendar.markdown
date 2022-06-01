@@ -130,7 +130,8 @@ Install software:
 Readings:
 
  - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/spc/university-archives/managing-university-records/file-naming-guidelines) 
--  [6b & 6c Image creation "File/Image Processing" ](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Review: Kenny (2000)]
+-  [6b Image creation "File/Image Processing"](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Kenny (2000)]
+- [6c "Introduction/Keeping Track"](http://preservationtutorial.library.cornell.edu/tutorial/technical/technicalC-01.html) [Kenny (2000)]
 <!--- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc] -->
 
 Videos:
