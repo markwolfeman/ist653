@@ -132,11 +132,11 @@ Readings:
  - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/spc/university-archives/managing-university-records/file-naming-guidelines) 
 -  [6b Image creation "File/Image Processing"](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Kenny (2000)]
 - [6c "Introduction/Keeping Track"](http://preservationtutorial.library.cornell.edu/tutorial/technical/technicalC-01.html) [Kenny (2000)]
-<!--- [Exif Tool Cheat sheet](https://www.albany.edu/~mwolfe/ist653/unit4/homework%202%20tools%20walklthrough.docx) [.doc] -->
+
 
 Videos:
 
-<!-- - File Naming Short videos:
+- File Naming videos:
 	- [Part 1](https://www.youtube.com/watch?v=Hi_A4Ywn4VU) [3:19]
 	- [Part 2](https://www.youtube.com/watch?v=8ogTKWpq6is) [2:37]
 	- [Part 3](https://www.youtube.com/watch?v=959hYLK40gE) [3:28]
@@ -146,25 +146,13 @@ Videos:
 - [Resize multiple images with PhotoScape](https://youtu.be/aOj9PMCxDi4) [7:13]
 
 
-- AVPreserve Exiftool Tutorials:
-	- [Part 1](https://www.youtube.com/watch?v=CWcMrAfhlKI) [4:45]
-	- [Part 2](https://www.youtube.com/watch?v=xlFVDefj3hg) [6:06]
-	- [Part 3](https://www.youtube.com/watch?v=7KbZCic_V3g) [10:45]
-	- [Part 4](https://www.youtube.com/watch?v=PIzWgL9bUq0) [7:27] -->
 Presentation:
 
-<!-- - Presentation and Homework 2 brief:
-    - [Part 1](https://youtu.be/ypS52pgnTZc) [7:26]
-    - [Part 2](https://youtu.be/Y_YDsakzz-4) [14:40]
-    - [Part 3](https://youtu.be/xMxXsehb0JY) [15:25]
-    - [Part 4](https://youtu.be/sTygDTEoqdk) [8:42]
-    - [Part 5](https://youtu.be/MZP8ka3Nrrg) [9:04] -->
+
 
 Technology downloads:
 
-<!-- - [Adobe Bridge] (https://www.adobe.com/products/bridge.html)
-
-  - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) The Part 1 Homework 2 brief I detail how to download and install ExifTool -->
+- [Adobe Bridge] (https://www.adobe.com/products/bridge.html)
 
 
 ------------

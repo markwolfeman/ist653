@@ -6,11 +6,13 @@ permalink:
 
 <h1> Homework 2</h1>
 
-The explainer video is under Unit 5 as "Presentation and Homework 2 brief"
+[Homework 2 overview]()
  
-You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel, and Adobe Bridge to update and manage a small collection of images. These images were scanned by different people for different purposes. The file names must be normalized. Embedded metadata must be updated. Images must be resized and watermarked in preparation for deposit into a digital library.  
+You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel, and Adobe Bridge to update and manage a small collection of images. These images were shot or scanned by different people for different purposes. The file names must be normalized. The embedded metadata must be added or updated, and exported to a spreadsheet. The images must be resized and watermarked in preparation for deposit into a digital library.  
 
-[Get your assigned photos and college here.](https://markwolfeman.github.io/ist653/assignments/college_photo_list.html)
+- [Get your assigned photos and college here.](https://markwolfeman.github.io/ist653/assignments/college_photo_list.html)
+
+- [Install Adobe Bridge](https://www.adobe.com/products/bridge.html)
 
 # Part 1 (5 points) Getting Your File Names Ready
 
@@ -25,11 +27,11 @@ You've been given a collection of digitized images, but before they go into the 
 	- format your file name so it goes from general to particular, left to right, for a final file name that looks like this example "bun_bunyan_college_2001_000001.jpg"
 
 
-- **Update Embedded Metadata using Exiftool and MS Excel:**
+- **Update Embedded Metadata using Adobe Bridge and MS Excel:**
 
-	- using Exiftool, update all of the city and copyright tags with your college's hometown and name respectively. See IPTC's city tag name [[here]](https://exiftool.org/TagNames/IPTC.html) and EXIF's copyright tag name [[here]](https://exiftool.org/TagNames/EXIF.html).
-	- export a .csv/Excel file, the following tags: filesize, filetype, copyright, city, and createdate
-	- in Excel, truncate your CreateDate column to year only, using a formula something like this: <span style="font-family:Courier">=LEFT(A1,LEN(A1)-3)</span>
+	- using Adobe Bridge, update "creator" "city" and "copyright status", college name (name of college), city (where it's located), and the copyright status of your choosing (copyright, public domain or unknown). 
+	- Using the [User customizable export-import plugin](https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html) export a .csv/Excel file, the following tags: filesize, filetype, city, and createdate
+	- Homework 2 video instruction shows how to export to .txt file
 	- create a <span style="font-family:Courier">Sum</span> for your total file size.
 the .csv file should look something like this, but with updated file names: [.csv](https://markwolfeman.github.io/ist653/assignments/completed_csvfile.jpg)
 
@@ -47,4 +49,4 @@ the .csv file should look something like this, but with updated file names: [.cs
 
 - Assignment is worth 10 points. 
 
-- **Email me one .zip file** that includes: completed .csv file, folder of reduced and watermarked files, and a copy of your DOS comands in a .txt file. You can retype them or copy them from the DOS terminal. Work in groups or by yourself, if you like. Please post all questions, comments, and help in the Homework 2 discussion forum. 
+- **Email me one .zip file** that includes: completed .csv or .txt, folder of reduced and watermarked files. Work in groups or by yourself, if you like. Please post all questions, comments, and help in the Homework 2 discussion forum. 

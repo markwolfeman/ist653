@@ -21,7 +21,7 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Group 5: (Andrea Lurie, Allyson Maccie &amp;Katherine McMillan) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
 - Group 6: (Erin Meye, Jerusha Owusu-Barie &amp; Julie Rosier) [Science History Institute](https://digital.sciencehistory.org/)
 - Group 7: (John Ruquet, Laura Scott &amp;Geraldine Villatoro) [SlaveVoyages](https://www.slavevoyages.org/) 
-- Group 8: (Matthew Voorhees, Alison Wells &amp; Emily Wilkerson) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
+- Group 8: (Matthew Voorhees, Allyson Wells &amp; Emily Wilkerson) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
 
 # Part 1 Institution
 
