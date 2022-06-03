@@ -55,4 +55,4 @@ You've been given a collection of digitized images, but before they go into the 
 
 - Assignment is worth 10 points. 
 
-- **Email me one .zip file** that includes: completed .csv or .txt, folder of reduced and watermarked files. Work in groups or by yourself, if you like. Please post all questions, comments, and help in the Homework 2 discussion forum. 
+- **Email me one .zip file** that includes: completed .csv or .txt, folder of reduced/resized and watermarked image files. Work in groups or by yourself, if you like. Please post all questions, comments, and help in the Homework 2 discussion forum. 
