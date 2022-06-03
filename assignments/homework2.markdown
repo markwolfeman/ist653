@@ -6,10 +6,12 @@ permalink:
 
 <h1> Homework 2</h1>
 
-[Homework 2 Overview](https://youtu.be/cEJkqgh2yvk)
-[Homework 2 Download photos](https://youtu.be/z4JI3Xs2qXk)
-[Homework 2 Adobe Bridge install](https://youtu.be/PmwzLhzRbA0)
-[Homework 2 Walkthrough](https://youtu.be/wivyD2w6nMc)
+Videos:
+
+- [Homework 2 Overview](https://youtu.be/cEJkqgh2yvk)
+- [Homework 2 Download photos](https://youtu.be/z4JI3Xs2qXk)
+- [Homework 2 Adobe Bridge install](https://youtu.be/PmwzLhzRbA0)
+- [Homework 2 Walkthrough](https://youtu.be/wivyD2w6nMc)
  
 You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel, and Adobe Bridge to update and manage a small collection of images. These images were shot or scanned by different people for different purposes. The file names must be normalized. The embedded metadata must be added or updated, and exported to a spreadsheet. The images must be resized and watermarked in preparation for deposit into a digital library.  
 
