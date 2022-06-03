@@ -6,7 +6,6 @@ permalink:
 
 <h1>College Photo Assignment</h1>
 
-Right-click and save file to project folder
 
   - Kisa Baginski [Ball State University](https://drive.google.com/drive/folders/1mvMRzK3QcF40fYtnHYAgHlNmJClRqE16?usp=sharing)
   - Kimberly Bellamy [Bard College](https://drive.google.com/drive/folders/1mvMRzK3QcF40fYtnHYAgHlNmJClRqE16?usp=sharing)

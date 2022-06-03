@@ -13,6 +13,7 @@ You've been given a collection of digitized images, but before they go into the 
 - [Get your assigned photos and college here.](https://markwolfeman.github.io/ist653/assignments/college_photo_list.html)
 
 - [Install Adobe Bridge](https://www.adobe.com/products/bridge.html)
+- Install [User customizable export-import plugin](https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html)
 
 # Part 1 (5 points) Getting Your File Names Ready
 
@@ -29,11 +30,12 @@ You've been given a collection of digitized images, but before they go into the 
 
 - **Update Embedded Metadata using Adobe Bridge and MS Excel:**
 
-	- using Adobe Bridge, update "creator" "city" and "copyright status", college name (name of college), city (where it's located), and the copyright status of your choosing (copyright, public domain or unknown). 
-	- Using the [User customizable export-import plugin](https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html) export a .csv/Excel file, the following tags: filesize, filetype, city, and createdate
-	- Homework 2 video instruction shows how to export to .txt file
-	- create a <span style="font-family:Courier">Sum</span> for your total file size.
-the .csv file should look something like this, but with updated file names: [.csv](https://markwolfeman.github.io/ist653/assignments/completed_csvfile.jpg)
+	- using Adobe Bridge, update "creator" "city" and "copyright status", college name (name of college), city (where it's located), URL for the college (web address) and the copyright status of your choosing (copyright, public domain or unknown).
+	- Per Homework 2 video, install: [User customizable export-import.](https://metadatadeluxe.github.io/) This plugin will allow you to export embedded metadata from your images.
+	- Click on the Metadata Deluxe on the Adobe Bridge menu 
+	- Follow tutorial in Homework 2 video above on how to export to .txt file
+	- Export a .txt/Excel file, the following tags: File Name (required), Creator-Web URL(s), Creator City, and Date Created
+	- The .txt/Excel file should look something like this, but with updated file names: [.csv](https://markwolfeman.github.io/ist653/assignments/completed_csvfile.jpg)
 
 
 # Part 2 (5 points) Getting your Images Ready
