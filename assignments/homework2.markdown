@@ -11,7 +11,6 @@ permalink:
 You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel, and Adobe Bridge to update and manage a small collection of images. These images were shot or scanned by different people for different purposes. The file names must be normalized. The embedded metadata must be added or updated, and exported to a spreadsheet. The images must be resized and watermarked in preparation for deposit into a digital library.  
 
 - [Get your assigned photos and college here.](https://markwolfeman.github.io/ist653/assignments/college_photo_list.html)
-
 - [Install Adobe Bridge](https://www.adobe.com/products/bridge.html)
 - Install [User customizable export-import plugin](https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html)
 
@@ -30,7 +29,11 @@ You've been given a collection of digitized images, but before they go into the 
 
 - **Update Embedded Metadata using Adobe Bridge and MS Excel:**
 
-	- using Adobe Bridge, update "creator" "city" and "copyright status", college name (name of college), city (where it's located), URL for the college (web address) and the copyright status of your choosing (copyright, public domain or unknown).
+	- Using Adobe Bridge, update:
+		- <span style="font-family:Courier">File Name (required)</span>- <span style="font-family:Courier">Creator-Web URL(s)</span> 
+		- <span style="font-family:Courier">Creator City</span>
+		- <span style="font-family:Courier">Date Created</span>
+
 	- Per Homework 2 video, install: [User customizable export-import.](https://metadatadeluxe.github.io/) This plugin will allow you to export embedded metadata from your images.
 	- Click on the Metadata Deluxe on the Adobe Bridge menu 
 	- Follow tutorial in Homework 2 video above on how to export to .txt file
