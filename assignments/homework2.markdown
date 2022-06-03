@@ -30,14 +30,15 @@ You've been given a collection of digitized images, but before they go into the 
 - **Update Embedded Metadata using Adobe Bridge and MS Excel:**
 
 	- Using Adobe Bridge, update:
-		- <span style="font-family:Courier">File Name (required)</span>- <span style="font-family:Courier">Creator-Web URL(s)</span> 
+		- <span style="font-family:Courier">File Name (required)</span>
+		- <span style="font-family:Courier">Creator-Web URL(s)</span> 
 		- <span style="font-family:Courier">Creator City</span>
 		- <span style="font-family:Courier">Date Created</span>
 
 	- Per Homework 2 video, install: [User customizable export-import.](https://metadatadeluxe.github.io/) This plugin will allow you to export embedded metadata from your images.
 	- Click on the Metadata Deluxe on the Adobe Bridge menu 
 	- Follow tutorial in Homework 2 video above on how to export to .txt file
-	- Export a .txt/Excel file, the following tags: File Name (required), Creator-Web URL(s), Creator City, and Date Created
+	- Export a .txt/Excel file, the following tags: <span style="font-family:Courier">File Name (required)</span> <span style="font-family:Courier">Creator-Web URL(s)</span> <span style="font-family:Courier">Creator City</span> <span style="font-family:Courier">Date Created</span>
 	- The .txt/Excel file should look something like this, but with updated file names: [.csv](https://markwolfeman.github.io/ist653/assignments/completed_csvfile.jpg)
 
 
