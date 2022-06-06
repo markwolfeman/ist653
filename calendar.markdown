@@ -176,8 +176,8 @@ Videos:
 Presentation:
 
 
-- [Foundations of Audio](http://www.albany.edu/~mwolfe/ist653/unit6/Foundations%20of%20Digital%20Audio.pptx) [.pptx] 
-- [Foundations fo Video](http://www.albany.edu/~mwolfe/ist653/unit6/Foundations%20of%20Digital%20Video.pptx) [.pptx]
+- [Foundations of Audio](https://drive.google.com/file/d/18cOyZ0kPMMR0-QM6KSxNV_4yx_GwkkuC/view?usp=sharing) [.pdf] 
+- [Foundations fo Video](https://drive.google.com/file/d/1_KRuwiabchB6EJQba6vZr7nAZtcSsSBB/view?usp=sharing) [.pdf]
 - [Sample vendor proposal](http://www.albany.edu/~mwolfe/ist653/unit6/example_vendor_proposal.pdf) [.pdf]
 
 
