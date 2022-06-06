@@ -187,25 +187,25 @@ Presentation:
 
 Readings:
 
-<!-- 
 - [Chapters 1, &amp; 2 of Miller ](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1&mode=reset)[Blackboard-Course Content "Readings"]
 - [How Does XML Help Libraries?](http://www.infotoday.com/cilmag/sep02/banerjee.htm) (Banerjee)
-- [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1)[Blackboard-Course Content "Readings"] -->
+- [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1)[Blackboard-Course Content "Readings"]
 
 Videos:
 
-<!--
+
 - [Introduction to Metadata](https://youtu.be/6xFmFrpDMwQ) [40:36]
 - [Introduction to XML](https://youtu.be/-kN-oY3hDyg) [44:58]
 - [XML Coders Boot Camp](https://www.youtube.com/watch?v=b27DeLZvkTo&amp;feature=youtu.be) 	[12:49]
-[Homework 3 Overview](https://youtu.be/S930vpERxRY) [25:43] -->
+<1-- 
+- [Homework 3 Overview](https://youtu.be/S930vpERxRY) [25:43] -->
        
 
 Presentation:
 
-<!--
+
 - [Introduction to Metadata](http://www.albany.edu/~mwolfe/ist653/unit7/Introduction%20to%20Metadata.pptx) [.pptx]
-- [Introduction to XML](http://www.albany.edu/~mwolfe/ist538/unit1/XML_unit1.pptx) [.ppt] -->
+- [Introduction to XML](http://www.albany.edu/~mwolfe/ist538/unit1/XML_unit1.pptx) [.ppt] 
 
 Exercise:  (**Install XML editor Friday, June**)
 
