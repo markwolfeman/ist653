@@ -44,7 +44,7 @@ You've been given a collection of digitized images, but before they go into the 
 	- Click on the Metadata Deluxe on the Adobe Bridge menu 
 	- Follow tutorial in Homework 2 video above on how to export to .txt file
 	- Export a .txt/Excel file, the following tags: <span style="font-family:Courier">File Name (required)</span>, <span style="font-family:Courier">Creator-Web URL(s)</span>, <span style="font-family:Courier">Creator City</span>, <span style="font-family:Courier">Date Created</span>
-	- The .txt/Excel file should look something like [this, but with updated file names](https://markwolfeman.github.io/ist653/assignments/completed_csvfile.jpg)
+	- The .txt/Excel file should look something like this, but with updated file names [text file](https://markwolfeman.github.io/ist653/assignments/completed_text_file.JPG) and [text file in Excel or alternative spreadsheet software](https://markwolfeman.github.io/ist653/assignments/completed_text_file_in_excel.JPG)
 
 
 # Part 2 (5 points) Getting your Images Ready
