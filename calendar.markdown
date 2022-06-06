@@ -197,17 +197,17 @@ Videos:
 - [Introduction to Metadata](https://youtu.be/6xFmFrpDMwQ) [40:36]
 - [Introduction to XML](https://youtu.be/-kN-oY3hDyg) [44:58]
 - [XML Coders Boot Camp](https://www.youtube.com/watch?v=b27DeLZvkTo&amp;feature=youtu.be) 	[12:49]
-<1-- 
+<!-- 
 - [Homework 3 Overview](https://youtu.be/S930vpERxRY) [25:43] -->
        
 
 Presentation:
 
 
-- [Introduction to Metadata](http://www.albany.edu/~mwolfe/ist653/unit7/Introduction%20to%20Metadata.pptx) [.pptx]
-- [Introduction to XML](http://www.albany.edu/~mwolfe/ist538/unit1/XML_unit1.pptx) [.ppt] 
+- [Introduction to Metadata](https://drive.google.com/file/d/12slAjLkXxzA2VzZFCgo7xhW6mdaPluQl/view?usp=sharing) [.pdf]
+- [Introduction to XML](https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing) [.pdf] 
 
-Exercise:  (**Install XML editor Friday, June**)
+Exercise:  (**Install XML editor Due date TBA**)
 
 <!--
 - [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) <--- Preferred 
