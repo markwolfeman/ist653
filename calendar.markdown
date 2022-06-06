@@ -197,9 +197,8 @@ Videos:
 - [Introduction to Metadata](https://youtu.be/6xFmFrpDMwQ) [40:36]
 - [Introduction to XML](https://youtu.be/-kN-oY3hDyg) [44:58]
 - [XML Coders Boot Camp](https://www.youtube.com/watch?v=b27DeLZvkTo&amp;feature=youtu.be) 	[12:49]
-<!-- 
-- [Homework 3 Overview](https://youtu.be/S930vpERxRY) [25:43] -->
-       
+
+     
 
 Presentation:
 
