@@ -187,9 +187,9 @@ Presentation:
 
 Readings:
 
-- [Chapters 1, &amp; 2 of Miller ](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1&mode=reset)[Blackboard-Course Content "Readings"]
+- [Chapters 1, &amp; 2 of Miller ](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_7181030_1&course_id=_164941_1&content_id=_7181030_1)[Blackboard-Course Content "Readings"]
 - [How Does XML Help Libraries?](http://www.infotoday.com/cilmag/sep02/banerjee.htm) (Banerjee)
-- [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5887586_1&course_id=_152788_1)[Blackboard-Course Content "Readings"]
+- [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_7181030_1&course_id=_164941_1&content_id=_7181030_1)[Blackboard-Course Content "Readings"]
 
 Videos:
 
