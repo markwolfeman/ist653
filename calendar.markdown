@@ -206,15 +206,13 @@ Presentation:
 - [Introduction to Metadata](https://drive.google.com/file/d/12slAjLkXxzA2VzZFCgo7xhW6mdaPluQl/view?usp=sharing) [.pdf]
 - [Introduction to XML](https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing) [.pdf] 
 
-Exercise:  (**Install XML editor Due date TBA**)
+Exercise:  (**Install XML editor Due 6/10**)
 
-<!--
-- [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) <--- Preferred 
 
-- [Notepad++ (PC only)](https://notepad-plus-plus.org/)
-- [jEdit (Mac only)](http://www.jedit.org/) or [XMLSpear](http://www.donkeydevelopment.com/#downloads)
+- [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html)  [Post on the discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_164941_1&nav=discussion_board_entry&conf_id=_270728_1&forum_id=_581532_1) once successfully installed.
+
 - [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/)
-- [dublin core generator form by Nicolás Ockier](https://ockier.es/dublin-core/en-dublin-core.php) -->
+- [Dublin Core Generator form by Nicolás Ockier](https://ockier.es/dublin-core/en-dublin-core.php)
 
 ------------
 
