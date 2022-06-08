@@ -211,8 +211,8 @@ Exercise:  (**Install XML editor Due 6/10**)
 
 - [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html)  
 - [Post on the discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_164941_1&nav=discussion_board_entry&conf_id=_270728_1&forum_id=_581532_1) once successfully installed.
-
-- [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/)
+Click on these links, and review them briefly. They are basically the same
+- [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/) 
 - [Dublin Core Generator form by Nicolás Ockier](https://ockier.es/dublin-core/en-dublin-core.php)
 
 ------------
