@@ -53,7 +53,7 @@ You've been given a collection of digitized images, but before they go into the 
 	- create watermark by choosing icon from assigned college make watermark transparent and defined, save as .jpg
 		- [Video tutorial](https://www.youtube.com/watch?v=ei0UoIIU_Yo&t=196s) using PhotoScape 
 	- reduce images in size using Resize Images section on the last tab, files should be about 100k per file
-		- [Video tutorial](https://youtu.be/aOj9PMCxDi4) resize images using PhotoScape 
+		- [Video tutorial](https://www.youtube.com/watch?v=PSxEFQGZl94) resize images using PhotoScape 
 <br/>
 
 - **Due: Tuesday June 7th** 
