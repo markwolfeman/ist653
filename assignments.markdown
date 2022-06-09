@@ -8,7 +8,7 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/homework2.html) Managing Image Files **Due: June 7th**
 
-![homework](/assets/hw.jpg) [Homework 3]() Metadata and XML **Due:**
+![homework](/assets/hw.jpg) [Homework 3](https://markwolfeman.github.io/ist653/assignments/homework3.html) Metadata and XML **Due: June 14th**
 
 ![homework](/assets/hw.jpg) [Homework 4]() Create an Omeka Digital Library **Due:**
 
