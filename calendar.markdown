@@ -223,22 +223,21 @@ Click on these links, and review them briefly. They are basically the same
 
 Readings:
 
-<!--
 - [Omeka Site Planning Tips](https://omeka.org/classic/docs/GettingStarted/Site_Planning_Tips/)
 - [Omeka Examples and Case Studies](https://omeka.org/classic/docs/GettingStarted/UsingOmeka/)
-- [Omeka and Its Peers, Scheinfeldt (2010)](https://foundhistory.org/2010/09/omeka-and-its-peers/) -->
+- [Omeka and Its Peers, Scheinfeldt (2010)](https://foundhistory.org/2010/09/omeka-and-its-peers/) 
 
 Videos:
 
-<!--
+
 - [Choosing a Digital Repository Part 1](https://youtu.be/EW_R5XwJ3VY) [09:18]
 - [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8) [53:15] 
--->
+
 Presentation:
 
-<!--
-- [Choosing a Digital Repository](https://www.albany.edu/~mwolfe/ist653/unit8/Choosing%20a%20Digital%20Repository.pptx)[.ppt]
--->
+
+- [Choosing a Digital Repository](https://drive.google.com/file/d/160xDfmIw3d6CB45pxfKNSNC1HbULpb-3/view?usp=sharing)[.pdf]
+
 
 ------------
 
@@ -246,20 +245,20 @@ Presentation:
 
 Readings:
 
-<!-- 
- - ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://blackboard.albany.edu/bbcswebdav/pid-5922331-dt-content-rid-98416793_1/courses/2216-CIST-653-2155/miller_chapter5.pdf) [Blackboard-Course Content]
-- ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) -->
+
+ - ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://drive.google.com/file/d/1r9u82Qfpp-CsoWy2tGPUDVx27zTqJeqR/view?usp=sharing) [.pdf]
+- ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) 
 
 Videos:
 
-<!-- - [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
+- [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
 - [Introduction to  Vocabularies &amp; Linked Data](https://youtu.be/M0TvMshLveQ) [39:36] 
--->
+
 
 Presentation:
 
- <!-- - [Introduction to  Vocabularies &amp; Linked Data](http://www.albany.edu/~mwolfe/ist653/unit9/Vocabularies%20and%20Linked%20Data.pptx) [.ppt]
--->
+- [Introduction to  Vocabularies &amp; Linked Data](https://drive.google.com/file/d/1Rva3F8lkNRDjNohvHPvTQZed32xL0J_F/view?usp=sharing) [.pdf]
+
 
 ------------
 
