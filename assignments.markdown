@@ -10,6 +10,8 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Homework 3](https://markwolfeman.github.io/ist653/assignments/homework3.html) Metadata and XML **Due: June 14th**
 
+![homework](/assets/hw.jpg) [Test 1](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_7109362_1&course_id=_164941_1&mode=reset) Units 1-6 **Due: June 18th**
+
 ![homework](/assets/hw.jpg) [Homework 4]() Create an Omeka Digital Library **Due:**
 
 ![homework](/assets/hw.jpg) [Homework 5]() Select and prepare content for Omeka collection **Due:**
