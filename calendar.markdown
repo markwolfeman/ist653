@@ -266,16 +266,16 @@ Presentation:
 
 Readings:
 
-<!-- - [Using Omeka to Build Digital Collections: The METRO Case Study by ](http://dlib.org/dlib/march10/kucsma/03kucsma.html) Kucsma, Reiss, & Sidman (2010) in D-Lib
+- [Using Omeka to Build Digital Collections: The METRO Case Study by ](http://dlib.org/dlib/march10/kucsma/03kucsma.html) Kucsma, Reiss, & Sidman (2010) in D-Lib
 - [Review: The Showcase of Omeka Powered sites](https://omeka.org/showcase/) 
 - [Planning Tips:](https://omeka.org/codex/Site_Planning_Tips) "Questions to Ask While Planning"
-- (Optional reading), ["Institutional Repository on a Shoestring" in D-Lib  Wrenn & Mueller (2009)](https://www.dlib.org/dlib/january09/wrenn/01wrenn.html)  -->
+- (Optional reading), ["Institutional Repository on a Shoestring" in D-Lib  Wrenn & Mueller (2009)](https://www.dlib.org/dlib/january09/wrenn/01wrenn.html)  
 
 Videos:
 
-<!-- - Omeka Screencasts:
+- Omeka Screencasts:
   
-	- Watch all 12 [&quot;Getting Started&quot; screencasts videos](https://omeka.org/classic/docs/GettingStarted/Screencasts/) -->
+	- Watch all 12 [&quot;Getting Started&quot; screencasts videos](https://omeka.org/classic/docs/GettingStarted/Screencasts/) 
 
 Presentation:
  - None 
@@ -287,18 +287,19 @@ Presentation:
 
 Readings:
 
-<!-- - Optional ~ ["Practical Limits to the Scope of Digital Preservation" by Kastellec (2012)](https://ejournals.bc.edu/index.php/ital/article/view/2167/pdf)
+- Optional ~ ["Practical Limits to the Scope of Digital Preservation" by Kastellec (2012)](https://ejournals.bc.edu/index.php/ital/article/view/2167/pdf)
 - Optional ~ ["Preservation in the Age of Google" by Conway (2010)](http://libproxy.albany.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=lih&AN=47797788&site=eds-live&scope=site)
--->
+
 
 Videos:
 
-<!-- -  [Snow Byte & the Seven Formats: A Digital Preservation Fairy Tale ](https://youtu.be/TfMgOKy9bPw) [7:15]
-- [The Cost of Inaction Calculator Rationale](https://www.youtube.com/watch?v=5gB6uj9uLQ4) [8:41] -->
+-  [Snow Byte & the Seven Formats: A Digital Preservation Fairy Tale ](https://youtu.be/TfMgOKy9bPw) [7:15]
+- [The Cost of Inaction Calculator Rationale](https://www.youtube.com/watch?v=5gB6uj9uLQ4) [8:41]
 
 
 Presentation:
 
+- None
 
 
 ------------
