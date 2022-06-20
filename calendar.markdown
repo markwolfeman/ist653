@@ -323,7 +323,7 @@ Presentation:
 # Final Day	June 27th Open Lab
 
 **Everything Must Be Handed In By Date: 
-Wednesday, June 27**
+Wednesday, June 29**
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement due

@@ -32,7 +32,7 @@ permalink:
   - Lastly, Select Users on the navigation bar, and add me as an &quot;Admin&quot; user. 
 
 
-- **Due TBA** 
+- **Due TBA Friday, June 25th** 
 - This assignment is worth 10 points. 
 - Email me the link to your Omeka site. 
 - You can work in groups and help each other on the discussion board, but you must progress with your *own* Omeka site.
