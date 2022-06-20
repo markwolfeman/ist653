@@ -308,20 +308,19 @@ Presentation:
 
 ------------
 
-# Unit 12: June 22nd  Open Lab Final Project and Review
+# Unit 12: June 22nd  Open Lab 
 
-- work on your Final Project
+- work on Homework 5
+
+------------
+
+# Unit 13:	June 24th Open Lab 
+
 - work on Test 2 / Job Announcment
 
 ------------
 
-# Unit 13:	June 24th Open Lab Final Project and Review
-
-- work on Test 2 / Job Announcment
-
-------------
-
-# Final Day	June 27th Open Lab Final Project and Review
+# Final Day	June 27th Open Lab
 
 **Everything Must Be Handed In By Date: 
 Wednesday, June 27**

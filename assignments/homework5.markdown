@@ -34,7 +34,7 @@ permalink:
 
 - **Due TBA** 
 - This assignment is worth 10 points. 
-- Email me the link to your Omeka site, plus id and password. I should also receive a seperate email from Omeka once you add me as a user. 
+- Email me the link to your Omeka site. 
 - You can work in groups and help each other on the discussion board, but you must progress with your *own* Omeka site.
 
 
