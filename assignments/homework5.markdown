@@ -28,9 +28,8 @@ permalink:
   - Add Item, upload image
   - For each image, assign metadata for Title, Subject, Description, Creator, Date, Rights, Format, Type, and Identifier. 
   - Ensure that all of your images are public, if you see &quot;(Private)&quot;, they need changing.
-  - Under "Collection" on the right hand side, choose in drop down, a collection for the item to go in.
-  - Lastly, Select Users on the navigation bar, and add me as an &quot;Admin&quot; user. 
-
+  - Under "Collection" on the right hand side, choose in the drop down, a collection for the item to go in.
+  
 
 - **Due TBA Friday, June 25th** 
 - This assignment is worth 10 points. 
