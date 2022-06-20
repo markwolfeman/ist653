@@ -16,14 +16,14 @@ permalink:
 	- Using ReNamer normalize your filenames using best practices we've already covered.
 
 **[Part 2]**
-- Create a collection for your images
+- Create a collection for your images.
   - Add Collection
   - Create metadata for the collection by completing the fields, Title, Subject, and Description
   -Ensure "public" is checked 
 
 **[Part 3]**
 
-- Upload the 10 images and create metadata 
+- Upload the 10 images and create metadata for them. 
 - Each item will be need to be added, then metadata assigned to it.
   - Add Item, upload image
   - For each image, assign metadata for Title, Subject, Description, Creator, Date, Rights, Format, Type, and Identifier. 
