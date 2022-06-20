@@ -31,7 +31,7 @@ permalink:
   - Under "Collection" on the right hand side, choose in the drop down, a collection for the item to go in.
   
 
-- **Due TBA Friday, June 25th** 
+- **Due Friday, June 25th** 
 - This assignment is worth 10 points. 
 - Email me the link to your Omeka site. 
 - You can work in groups and help each other on the discussion board, but you must progress with your *own* Omeka site.
