@@ -14,7 +14,7 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Homework 4](https://markwolfeman.github.io/ist653/assignments/homework4.html) Create an Omeka Digital Library **Due: June 21st**
 
-![homework](/assets/hw.jpg) [Homework 5](https://markwolfeman.github.io/ist653/assignments/homework5.html) Select and prepare content for Omeka collection **Due: June 25th**
+![homework](/assets/hw.jpg) [Homework 5](https://markwolfeman.github.io/ist653/assignments/homework5.html) Select and prepare content for Omeka collection **Due: June 24th**
 
 ![homework](/assets/hw.jpg) [Final Project]() Build a Small Repository and Digital Exhibit **Due:**
 
