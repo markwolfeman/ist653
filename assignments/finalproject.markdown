@@ -38,12 +38,12 @@ Using Omeka, you will demonstrate your ability to build a small repository of im
  
  **<font color="Blue">***2 points of extra credit***</font>**  Add images of head shots to your staffing pages. The pictures can be fictitious or annoymous in some manner, not unless you are OK with the public viewing them.
  
- - Past Student Projects: [Hemingway Home](http://hemingwayatkeywest.omeka.net/), [Souvenir Buildings](http://souvenirbuildings.omeka.net), [Exotic Fish of the World](http://exoticfish.omeka.net/), [Electrical Outlets of Distinction](https://outlets.omeka.net/), [Hike Iceland](https://hikeiceland.omeka.net/)
+ - Past Student Projects: [Hemingway's Home](http://hemingwayatkeywest.omeka.net/), [Souvenir Buildings](http://souvenirbuildings.omeka.net), [Exotic Fish of the World](http://exoticfish.omeka.net/), [Electrical Outlets of Distinction](https://outlets.omeka.net/), [Hike Iceland](https://hikeiceland.omeka.net/)
 
   
 - This assignment is worth 30 points. 
-- **Due Wednesday, June 30th**
+- **Due Wednesday, June 29th**
 - Once completed, email me the link to your Omeka website. 
 
-- This is a group assignment, so feel free to help, suggest and comment on each other's work and questions in the discussion board.  
+- This is a group assignment, so feel free to help, suggest and comment on each other's work and questions on the discussion board.  
 
