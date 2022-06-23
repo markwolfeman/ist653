@@ -29,7 +29,7 @@ permalink:
   - For each image, assign metadata for Title, Subject, Description, Creator, Date, Rights, Format, Type, and Identifier. 
   - Ensure that all of your images are public, if you see &quot;(Private)&quot;, they need changing.
   - Under "Collection" on the right hand side, choose in the drop down, a collection for the item to go in.
-  - Contrary to the video, do not make me an admin user
+  - Contrary to the video, do not make me an admin user.
   
 
 - **Due Friday, June 24th** 
