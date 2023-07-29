@@ -54,8 +54,8 @@ We've spent the course exploring the domain of digitial libraries. In your "take
 - Is professional development supported and/or expected?
 <p/>
 - Test 2 is worth 15 points. 
-- **Due Wednesday, June 30th**
-- Email me the completed Word document
+- **Due Wednesday, June 29th**
+- Email me the completed Word or PDF document
 
 
 

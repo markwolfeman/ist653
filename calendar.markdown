@@ -240,9 +240,15 @@ Presentation:
 
 
 ------------
-# Unit 9:   October 30th  
+# Unit 9:   October 30th  Metadata & Open Refine
 
 Readings:
+
+Videos:
+
+Presentation:
+
+
 ------------
 
 # Unit 10:  	Novemeber 6th  Linked Data & Controlled Vocabularies 

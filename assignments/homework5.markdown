@@ -29,9 +29,10 @@ permalink:
   - For each image, assign metadata for Title, Subject, Description, Creator, Date, Rights, Format, Type, and Identifier. 
   - Ensure that all of your images are public, if you see &quot;(Private)&quot;, they need changing.
   - Under "Collection" on the right hand side, choose in the drop down, a collection for the item to go in.
+  - Contrary to the video, do not make me an admin user.
   
 
-- **Due Friday, June 25th** 
+- **Due Friday, June 24th** 
 - This assignment is worth 10 points. 
 - Email me the link to your Omeka site. 
 - You can work in groups and help each other on the discussion board, but you must progress with your *own* Omeka site.
