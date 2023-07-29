@@ -14,15 +14,13 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Homework 4](https://markwolfeman.github.io/ist653/assignments/homework4.html) Create an Omeka Digital Library **Due:**
 
-<<<<<<< HEAD
 ![homework](/assets/hw.jpg) [Homework 5](https://markwolfeman.github.io/ist653/assignments/homework5.html) Select and prepare content for Omeka collection **Due:**
-=======
-![homework](/assets/hw.jpg) [Homework 5](https://markwolfeman.github.io/ist653/assignments/homework5.html) Select and prepare content for Omeka collection **Due: June 24th**
->>>>>>> b1d7eeb2f139d63325090a6cda0fb9c63c16c44f
 
-![homework](/assets/hw.jpg) [Final Project](https://markwolfeman.github.io/ist653/assignments/finalproject.html) Build a Small Repository and Digital Exhibit **Due: Wednesday, June 29th**
+![homework](/assets/hw.jpg) [Homework 5](https://markwolfeman.github.io/ist653/assignments/homework5.html) Select and prepare content for Omeka collection **Due:**
 
-![homework](/assets/hw.jpg) [Test 2](https://markwolfeman.github.io/ist653/assignments/test2.html) Create a Job Announcement **Due: Wednesday June 29th**
+![homework](/assets/hw.jpg) [Final Project](https://markwolfeman.github.io/ist653/assignments/finalproject.html) Build a Small Repository and Digital Exhibit **Due:**
+
+![homework](/assets/hw.jpg) [Test 2](https://markwolfeman.github.io/ist653/assignments/test2.html) Create a Job Announcement **Due:**
 
 
 

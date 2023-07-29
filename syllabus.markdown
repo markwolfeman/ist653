@@ -5,7 +5,7 @@ permalink: /syllabus/
 ---
 # Course Information
 IST 653 / 3 Credits / Fall 2023
-<br/>August 21 - December, 2023
+<br/>August 21 - December 6, 2023
 <br/>Fully Online (100%)
 
 # Instructor Information
@@ -41,7 +41,7 @@ Upon completion of this course, students will:
 
 # Units 
 
-The first unit of class will begin **Monday, May 23rd.** Each subsequent unit will be started on the date following the unit number. Each unit of course materials will be released at least three days in advance of the date on the schedule. The due date and time for each homework will be stated when released. 
+The first unit of class will begin **Monday, August 21st.** Each subsequent unit will be started on the date following the unit number. Each unit of course materials will be released at least three days in advance of the date on the schedule. The due date and time for each homework will be stated when released. 
 
 # Computer
 
