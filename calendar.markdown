@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-# Unit 1: 	May 23 Course Introduction
+# Unit 1: 	August 21st Course Introduction
 
 Readings:
 
@@ -12,9 +12,9 @@ Readings:
 
 Videos:
 
-- [Course Welcome &amp; Meet the Instructor](https://youtu.be/UxLKvDjOHUc) [09:21 min.]
-- [Overview of Course Part 1](https://youtu.be/DlzytG8P8Mc) [15:42min.]
-- [Overview of Course Part 2](https://youtu.be/B6qNCgeHMeU) [10:24 min.]
+- [Course Welcome &amp; Meet the Instructor]() [00:00 min.]
+- [Overview of Course Part 1]() [15:42min.]
+- [Overview of Course Part 2]() [10:24 min.]
 - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
 
 Presentation:
@@ -34,13 +34,13 @@ Disscussion:
 
 Exercises:
 
-- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due: Monday May 23rd**
+- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due:**
 - Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive, albeit dated, it covers the fundamentals nicely. 
 
 
 ------------
 
-# Unit 2:  May 25  What is a Digital Library 
+# Unit 2:  August 28th What is a Digital Library 
 
 Readings:
 
@@ -63,11 +63,13 @@ Presentation:
 
 Discussion & Exercise:
 
-["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_164941_1&nav=discussion_board_entry&conf_id=_270728_1&forum_id=_580588_1), approximately 75 words, and comment on one other fellow student's post. **Due May 25th** 
+["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_164941_1&nav=discussion_board_entry&conf_id=_270728_1&forum_id=_580588_1), approximately 75 words, and comment on one other fellow student's post. **Due:** 
 
 ------------
+# No Class: September 4th Labor Day 
+------------
 
-# Unit 3:  May 27th  Images (Digitization) 
+# Unit 3:  September 11th  Images (Digitization) 
 Readings:
 
 - Besser (2003) [Introduction to Imaging (read: intro to p. 46)](http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf) [.pdf]
@@ -84,12 +86,8 @@ Presentation:
 - [Introduction to Image Scanning](https://www.albany.edu/~mwolfe/ist653/unit3/Introduction%20to%20Image%20Scanning.pptx) [.ppt]
 
 
-------------
-# No Class: May 30th Memorial Day Observed
-------------
 
-
-# Unit 4: June 1st  Images (File Management) Part 1
+# Unit 4: September 18th  Images (File Management) Part 1
 ---
 Readings:
 
@@ -114,7 +112,7 @@ Presentation:
 
 - [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
 
-Technology / Exercise  **Due June 2nd**  
+Technology / Exercise  **Due:**  
 - Install the Renamer and PhotoScape software, and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. Once installed, post comment to the Unit 4 exercise discussion forum. Just a "great success" or if you want to write more or ask questions, please do.
 
 Install software:
@@ -125,7 +123,7 @@ Install software:
 
 
 ------------
-# Unit 5: 	June 3rd  Images (File Management) Part 2
+# Unit 5: 	September 25th  Images (File Management) Part 2
 
 Readings:
 
@@ -157,7 +155,7 @@ Technology downloads:
 
 ------------
 
-# Unit 6:  	June 6th  Digital Audio and Video 
+# Unit 6:  	October 2nd  Digital Audio and Video 
 
 Readings:
 
@@ -182,8 +180,10 @@ Presentation:
 
 
 ------------
+# No Class:  Classes Suspended Fall Break.
+------------
 
-# Unit 7:  June 8th 	Metadata and XML
+# Unit 7:  October 16th 	Metadata and XML
 
 Readings:
 
@@ -206,7 +206,7 @@ Presentation:
 - [Introduction to Metadata](https://drive.google.com/file/d/12slAjLkXxzA2VzZFCgo7xhW6mdaPluQl/view?usp=sharing) [.pdf]
 - [Introduction to XML](https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing) [.pdf] 
 
-Exercise:  (**Install XML editor Due 6/10**)
+Exercise:  (**Install XML editor Due:**)
 
 
 - [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html)  
@@ -219,7 +219,7 @@ Click on these links, and review them briefly. They are basically the same
 
 ------------
 
-# Unit 8:  June 10th Choosing a Repository Architecture
+# Unit 8:  October 23rd Choosing a Repository Architecture
 
 Readings:
 
@@ -240,8 +240,12 @@ Presentation:
 
 
 ------------
+# Unit 9:   October 30th  
 
-# Unit 9:  	June 13th  Linked Data & Controlled Vocabularies 
+Readings:
+------------
+
+# Unit 10:  	Novemeber 6th  Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -262,7 +266,7 @@ Presentation:
 
 ------------
 
-# Unit 10:  June 15th  Project Planning
+# Unit 11:  November 13th Project Planning
 
 Readings:
 
@@ -283,7 +287,7 @@ Presentation:
 ------------
 
 
-# Unit 11: 	June 17th  Sustainability & Preservation
+# Unit 12: 	November 13th  Sustainability & Preservation
 
 Readings:
 
@@ -304,26 +308,20 @@ Presentation:
 
 ------------
 
-# No Class: June 20th  Juneteenth Observed
+# No Class: November 20th  Thanksgiving Break
 
 ------------
 
-# Unit 12: June 22nd  Open Lab 
+# Unit 12: November 27th  Open Lab 
 
 - work on Homework 5
 
 ------------
 
-# Unit 13:	June 24th Open Lab 
-
-- work on Test 2 / Job Announcment
-
-------------
-
-# Final Day	June 27th Open Lab
+# Final Day	December 4th Open Lab
 
 **Everything Must Be Handed In By Date: 
-Wednesday, June 29**
+Wednesday, December 6th**
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement due
