@@ -16,8 +16,6 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Homework 5](https://markwolfeman.github.io/ist653/assignments/homework5) Select and prepare content for Omeka collection **Due:**
 
-![homework](/assets/hw.jpg) [Homework 5](https://markwolfeman.github.io/ist653/assignments/homework5) Select and prepare content for Omeka collection **Due:**
-
 ![homework](/assets/hw.jpg) [Final Project](https://markwolfeman.github.io/ist653/assignments/finalproject) Build a Small Repository and Digital Exhibit **Due:**
 
 ![homework](/assets/hw.jpg) [Test 2](https://markwolfeman.github.io/ist653/assignments/test2) Create a Job Announcement **Due:**
