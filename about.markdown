@@ -8,7 +8,7 @@ permalink: about
 
 ![Instructor](/assets/instructor_new.jpg)
 
-IST 653 / 3 Credits / Fall 2023 (6W1)
+IST 653 / 3 Credits / Fall 2023
 
 **Ausgust 21 - December 6, 2023**
 
