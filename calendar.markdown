@@ -18,6 +18,8 @@ Videos:
 - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
 - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">example</a>
+- <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">example</a>
+- <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">example</a>
 
 Presentation:
 
