@@ -13,10 +13,9 @@ Readings:
 Videos:
 
 - <a href="https://www.youtube.com/watch?v=GaE30fNrEPQ" target="_blank">Course Welcome &amp; Meet the Instructor</a>[12:36 min.]
-- [Overview of Course Part 1]() [15:42min.]
-- [Overview of Course Part 2]() [10:24 min.]
+- <a href="https://youtu.be/NLsDkxZTno0" target="_blank">Overview of Course Part 1</a> [17:13 min.]
+- <a href="https://youtu.be/YAb05GfEVqA" target="_blank">Overview of Course Part 2</a>[20:46 min.]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a>[46:19 min.]
-- <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">example</a>
 
 
 Presentation:

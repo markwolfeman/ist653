@@ -65,7 +65,7 @@ We will be using several programs during the course, all of which will be availa
 
 # Homeworks & Final Project
 
-Your homeworks will consist of various hands-on assignments as well as written reports. The final project and ALL homeworks will completed as a team-based assigments, but you will hand in individually usally via email.
+Your homeworks will consist of various hands-on assignments as well as written reports. The final project and ALL homeworks will completed as team-based assigments, but you will hand in individually usally via email.
 
 We use the Discussion tool in Brightspace to facilitate student collaboration and as a venue for asking questions. The group assignments and final project will use the Discussion tool to facilitate assignments. As with any community, the more you put into it, the more you will get in return. 
 

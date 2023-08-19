@@ -10,6 +10,8 @@ permalink:
 
 - What is your favorite American movie and/or "foreign"/Non-American movie?
 
+- In the Discussion portion of Unit 1, briefly list one reaction or surprise you had while looking at the various Digital Libraries.
+
 - If you were hired as the new CEO of Amazon, what might you change about your business? Like their cloud to doorstep practices? New ideas? Better technology for the underserved?  
 
 - What academic program are you? What track? and briefly tells us about your academic or career interests.
