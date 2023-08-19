@@ -12,14 +12,12 @@ Readings:
 
 Videos:
 
-- [Course Welcome &amp; Meet the Instructor](https://youtu.be/GaE30fNrEPQ) [12:36 min.]
+- <a href="https://www.youtube.com/watch?v=GaE30fNrEPQ" target="_blank">Course Welcome &amp; Meet the Instructor</a>[12:36 min.]
 - [Overview of Course Part 1]() [15:42min.]
 - [Overview of Course Part 2]() [10:24 min.]
-- [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
-- [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
+- <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a>[46:19 min.]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">example</a>
-- <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">example</a>
-- <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">example</a>
+
 
 Presentation:
 
@@ -29,7 +27,7 @@ Disscussion:
  - [The Story of the Beautiful](http://peacockroom.wayne.edu)
  - [Trinity College, Dublin Ireland](https://digitalcollections.tcd.ie/)
   - [UAlbany Digtial Collections](https://archives.albany.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q=&search_field=all_fields)
-  - [National Science Digital Library](https://nsdl.oercommons.org/)
+ - [National Science Digital Library](https://nsdl.oercommons.org/)
  - [Mark Twain Project Online](http://www.marktwainproject.org/homepage.html)
  - [Vincent van Gogh: The Letters](http://vangoghletters.org/vg/)
  - [Digital Public Library of America](http://dp.la/)
@@ -38,8 +36,8 @@ Disscussion:
 
 Exercises:
 
-- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/) **Due:**
-- Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive, albeit dated, it covers the fundamentals nicely. 
+- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/) **Due: 8/23**
+- Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive, albeit dated, it covers the fundamentals nicely.
 
 
 ------------
@@ -193,7 +191,7 @@ Readings:
 
 - [Chapters 1, &amp; 2 of Miller ]()[Blackboard-Course Content "Readings"]
 - [How Does XML Help Libraries?](http://www.infotoday.com/cilmag/sep02/banerjee.htm) (Banerjee)
-- [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_7181030_1&course_id=_164941_1&content_id=_7181030_1)[Blackboard-Course Content "Readings"]
+- [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)]()[Brightspace "Readings"]
 
 Videos:
 
@@ -214,7 +212,7 @@ Exercise:  (**Install XML editor Due:**)
 
 
 - [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html)  
-- [Post on the discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_164941_1&nav=discussion_board_entry&conf_id=_270728_1&forum_id=_581532_1) once successfully installed.
+- [Post on the discussion board]() once successfully installed.
 
 Click on these links, and review them briefly. They are basically the same
 
