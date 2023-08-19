@@ -12,7 +12,7 @@ Readings:
 
 Videos:
 
-- [Course Welcome &amp; Meet the Instructor]() [00:00 min.]
+- [Course Welcome &amp; Meet the Instructor](https://youtu.be/GaE30fNrEPQ) [12:36 min.]
 - [Overview of Course Part 1]() [15:42min.]
 - [Overview of Course Part 2]() [10:24 min.]
 - [Pre-History to Digital Libraries](https://www.youtube.com/watch?v=WlWawSnkUxI) [46:19 min.]
@@ -38,7 +38,7 @@ Disscussion:
 
 Exercises:
 
-- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates.html) **Due:**
+- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/) **Due:**
 - Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive, albeit dated, it covers the fundamentals nicely. 
 
 
@@ -67,7 +67,7 @@ Presentation:
 
 Discussion & Exercise:
 
-["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink.html) questions. Answer one question on the [discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_164941_1&nav=discussion_board_entry&conf_id=_270728_1&forum_id=_580588_1), approximately 75 words, and comment on one other fellow student's post. **Due:** 
+["As We May Think"](https://markwolfeman.github.io/ist653/assignments/) questions. Answer one question on the [discussion board](), approximately 75 words, and comment on one other fellow student's post. **Due:** 
 
 ------------
 # No Class: September 4th Labor Day 
@@ -191,7 +191,7 @@ Presentation:
 
 Readings:
 
-- [Chapters 1, &amp; 2 of Miller ](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_7181030_1&course_id=_164941_1&content_id=_7181030_1)[Blackboard-Course Content "Readings"]
+- [Chapters 1, &amp; 2 of Miller ]()[Blackboard-Course Content "Readings"]
 - [How Does XML Help Libraries?](http://www.infotoday.com/cilmag/sep02/banerjee.htm) (Banerjee)
 - [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)](https://blackboard.albany.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_7181030_1&course_id=_164941_1&content_id=_7181030_1)[Blackboard-Course Content "Readings"]
 
