@@ -17,21 +17,21 @@ Videos:
 - <a href="https://youtu.be/YAb05GfEVqA" target="_blank">Overview of Course Part 2</a>[20:46 min.]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a>[46:19 min.]
 
-
+- <a href="" target="_blank"></a>
 Presentation:
+- <a href="https://www.albany.edu/~mwolfe/ist653/prehistory_to_digital_libraries.pptx" target="_blank">Pre-History to Digital Libraries</a>[.pptx]
 
- - [Pre-History to Digital Libraries](https://www.albany.edu/~mwolfe/ist653/prehistory_to_digital_libraries.pptx)[.pptx]
 
 Disscussion:
- - [The Story of the Beautiful](http://peacockroom.wayne.edu)
- - [Trinity College, Dublin Ireland](https://digitalcollections.tcd.ie/)
-  - [UAlbany Digtial Collections](https://archives.albany.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q=&search_field=all_fields)
- - [National Science Digital Library](https://nsdl.oercommons.org/)
- - [Mark Twain Project Online](http://www.marktwainproject.org/homepage.html)
- - [Vincent van Gogh: The Letters](http://vangoghletters.org/vg/)
- - [Digital Public Library of America](http://dp.la/)
- - [NYC OpenData](https://nycopendata.socrata.com/)
-- [The Salman Rushdie Digital Archive](http://www.nytimes.com/video/multimedia/1247467357139/the-salman-rushdie-digital-archive.html) [5 min video]
+ - <a href="http://peacockroom.wayne.edu" target="_blank">The Story of the Beautiful</a>
+- <a href="https://digitalcollections.tcd.ie/" target="_blank">Trinity College, Dublin Ireland</a>
+- <a href="https://archives.albany.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q=&search_field=all_fields" target="_blank">UAlbany Digtial Collections</a>
+ - <a href="https://nsdl.oercommons.org/" target="_blank">National Science Digital Library</a>
+- <a href="http://www.marktwainproject.org/homepage.html" target="_blank">Mark Twain Project Online</a>
+- <a href="http://vangoghletters.org/vg/" target="_blank">Vincent van Gogh: The Letters</a>
+- <a href="http://dp.la/" target="_blank">Digital Public Library of America</a>
+- <a href="https://nycopendata.socrata.com/" target="_blank">NYC OpenData</a>
+- <a href="http://www.nytimes.com/video/multimedia/1247467357139/the-salman-rushdie-digital-archive.html" target="_blank">The Salman Rushdie Digital Archive</a>
 
 Exercises:
 
