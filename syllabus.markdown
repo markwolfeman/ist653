@@ -81,11 +81,12 @@ Submit all assignments as directed, it may be in email or on Brightspace. Homewo
 
 # Disability Support
 
-Reasonable accommodations will be provided for students with documented physical, sensory, systemic, cognitive, learning and psychiatric disabilities. If you believe you have a disability requiring accommodation in this class, please notify the Director of the Disability Resource Center (Campus Center 137, 442-5490). That office will provide the course instructor with verification of your disability, and will recommend appropriate accommodations. Website for [Disability Access and Inclusion Student Services (DAISS)](https://www.albany.edu/disability/)
+Reasonable accommodations will be provided for students with documented physical, sensory, systemic, cognitive, learning and psychiatric disabilities. If you believe you have a disability requiring accommodation in this class, please notify the Director of the Disability Resource Center (Campus Center 137, 442-5490). That office will provide the course instructor with verification of your disability, and will recommend appropriate accommodations. The class follows the University's policy on
+<a href="https://www.albany.edu/disability/" target="_blank">Disability Access and Inclusion Student Services (DAISS).</a>
 
 # Academic Integrity
 
-The class follows the University's policy on [Academic Integrity](http://www.albany.edu/studentconduct/standards_of_academic_integrity.php) Academic Integrity.
+The class follows the University's policy on <a href="http://www.albany.edu/studentconduct/standards_of_academic_integrity.php" target="_blank">Academic Integrity.</a>
 
 # Grading Scale
 ![](/assets/grade_scale.jpg)
