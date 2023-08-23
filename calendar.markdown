@@ -31,7 +31,7 @@ Disscussion:
 - <a href="http://vangoghletters.org/vg/" target="_blank">Vincent van Gogh: The Letters</a>
 - <a href="http://dp.la/" target="_blank">Digital Public Library of America</a>
 - <a href="https://nycopendata.socrata.com/" target="_blank">NYC OpenData</a>
-- <a href="http://www.nytimes.com/video/multimedia/1247467357139/the-salman-rushdie-digital-archive.html" target="_blank">The Salman Rushdie Digital Archive</a>
+- <a href="https://www.youtube.com/watch?v=oiqHv_SofNo" target="_blank">The Salman Rushdie Digital Archive</a>
 
 Exercises:
 
