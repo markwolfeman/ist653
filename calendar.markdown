@@ -43,27 +43,28 @@ Exercises:
 # Unit 2:  August 28th What is a Digital Library 
 
 Readings:
+- <a href="https://www.clir.org/1998/07/clir-issues-number-4/" target="_blank">What Are Digital Libraries?</a>[Waters 1998]
+- <a href="https://en.wikipedia.org/wiki/Digital_library" target="_blank">Digital Library</a>[Wikipedia]
+- <a href="http://www.lesk.com/mlesk/follett/follett.html" target="_blank">Why Digital Libraries?</a> [Lesk 2004] 
+- <a href="https://www.technologyreview.com/2012/04/25/116142/the-library-of-utopia/" target="_blank">The Library of Utopia</a>[Carr 2004]
+- <a href="http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20%28Life%20Magazine%209-10-1945%29.pdf" target="_blank">As We May Think</a>[Bush 1945]
 
-- [What Are Digital Libraries?](https://www.clir.org/1998/07/clir-issues-number-4/) [Waters 1998]
-- [Digital Library](https://en.wikipedia.org/wiki/Digital_library) [Wikipedia]
-- [Why Digital Libraries?](http://www.lesk.com/mlesk/follett/follett.html) [Lesk 2004] 
-- [The Library of Utopia](https://www.technologyreview.com/2012/04/25/116142/the-library-of-utopia/) [Carr 2004]
-- [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) or [PDF](http://web.mit.edu/STS.035/www/PDFs/think.pdf) [Bush 1945]
 
 Videos:
+- <a href="https://youtu.be/nexEnlECLV4" target="_blank">Foundations of Digital Libraries Part 1</a>[ 8:17 min.]
+- <a href="Foundations of Digital Libraries Part 2" target="_blank">https://www.youtube.com/watch?v=J9J6w39nK7w</a> [33:36 min.]
 
-- [Foundations of Digital Libraries Part 1](https://youtu.be/nexEnlECLV4) [ 8:17 min.]
-- [Foundations of Digital Libraries Part 2](https://www.youtube.com/watch?v=J9J6w39nK7w) [33:36 min.]
-- [Homework 1 overview](https://youtu.be/nZnNIw-FzL8) [6:42 min.] 
+- [Homework 1 overview]() [: min.] TBA
 
 
 Presentation:
+<a href="" target="_blank"></a>
+<a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a>
 
-- [Foundations of Digital Libraries](https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx)
 
 Discussion & Exercise:
 
-["As We May Think"](https://markwolfeman.github.io/ist653/assignments/) questions. Answer one question on the [discussion board](), approximately 75 words, and comment on one other fellow student's post. **Due:** 
+["As We May Think"](https://markwolfeman.github.io/ist653/assignments/) questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due: TBA** 
 
 ------------
 # No Class: September 4th Labor Day 
