@@ -25,7 +25,7 @@ Presentation:
 Disscussion:
  - <a href="http://peacockroom.wayne.edu" target="_blank">The Story of the Beautiful</a>
 - <a href="https://digitalcollections.tcd.ie/" target="_blank">Trinity College, Dublin Ireland</a>
-- <a href="https://archives.albany.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q=&search_field=all_fields" target="_blank">UAlbany Digtial Collections</a>
+- <a href="https://archives.albany.edu/web/selections/" target="_blank">UAlbany Digtial Collections</a>
  - <a href="https://nsdl.oercommons.org/" target="_blank">National Science Digital Library</a>
 - <a href="http://www.marktwainproject.org/homepage.html" target="_blank">Mark Twain Project Online</a>
 - <a href="http://vangoghletters.org/vg/" target="_blank">Vincent van Gogh: The Letters</a>
