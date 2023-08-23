@@ -17,7 +17,6 @@ Videos:
 - <a href="https://youtu.be/YAb05GfEVqA" target="_blank">Overview of Course Part 2</a>[20:46 min.]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a>[46:19 min.]
 
-- <a href="" target="_blank"></a>
 Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/prehistory_to_digital_libraries.pptx" target="_blank">Pre-History to Digital Libraries</a>[.pptx]
 
