@@ -43,16 +43,16 @@ Exercises:
 # Unit 2:  August 28th What is a Digital Library 
 
 Readings:
-- <a href="https://www.clir.org/1998/07/clir-issues-number-4/" target="_blank">What Are Digital Libraries?</a>[Waters 1998]
-- <a href="https://en.wikipedia.org/wiki/Digital_library" target="_blank">Digital Library</a>[Wikipedia]
+- <a href="https://www.clir.org/1998/07/clir-issues-number-4/" target="_blank">What Are Digital Libraries?</a> [Waters 1998]
+- <a href="https://en.wikipedia.org/wiki/Digital_library" target="_blank">Digital Library</a> [Wikipedia]
 - <a href="http://www.lesk.com/mlesk/follett/follett.html" target="_blank">Why Digital Libraries?</a> [Lesk 2004] 
-- <a href="https://www.technologyreview.com/2012/04/25/116142/the-library-of-utopia/" target="_blank">The Library of Utopia</a>[Carr 2004]
-- <a href="http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20%28Life%20Magazine%209-10-1945%29.pdf" target="_blank">As We May Think</a>[Bush 1945]
+- <a href="https://www.technologyreview.com/2012/04/25/116142/the-library-of-utopia/" target="_blank">The Library of Utopia</a> [Carr 2004]
+- <a href="http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20%28Life%20Magazine%209-10-1945%29.pdf" target="_blank">As We May Think PDF</a> or <a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/" target="_blank">HMTL</a> [Bush 1945]
 
 
 Videos:
 - <a href="https://youtu.be/nexEnlECLV4" target="_blank">Foundations of Digital Libraries Part 1</a>[ 8:17 min.]
-- <a href="Foundations of Digital Libraries Part 2" target="_blank">https://www.youtube.com/watch?v=J9J6w39nK7w</a> [33:36 min.]
+- <a href="https://www.youtube.com/watch?v=J9J6w39nK7w" target="_blank">Foundations of Digital Libraries Part 2</a> [33:36 min.]
 
 - [Homework 1 overview]() [: min.] TBA
 
