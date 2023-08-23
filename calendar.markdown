@@ -58,13 +58,12 @@ Videos:
 
 
 Presentation:
-<a href="" target="_blank"></a>
-<a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a>
+- <a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a> [ppt]
 
 
 Discussion & Exercise:
 
-["As We May Think"](https://markwolfeman.github.io/ist653/assignments/) questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due: TBA** 
+- ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/) questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due: TBA** 
 
 ------------
 # No Class: September 4th Labor Day 
