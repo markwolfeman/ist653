@@ -6,7 +6,7 @@ permalink:
 
 <h1> Homework 1</h1>
 
-- [Homework 1 overview](https://youtu.be/nZnNIw-FzL8) [6:42 min.] 
+- [Homework 1 overview](video_link) [0:00 min.] 
 
 Each group is assigned a digital library to evaluate. Students will need to address the questions below, and present to the class on the disccusion board. Answer the questions in your own words, in complete sentences, and don't merely copy and paste text from the site documentation. Each group must divide up the questions equally, and present in writing on the Blackboard Discussion Board. Nominate a person from your group to post your assignment to a thread on the discussion forum for &quot;Homework 1&quot;. Please list your name with the section you worked on. You are welcome to use screen shots in the discussion post or in a Word document. Post under your group name (i.e. &quot;Group 2 final submission&quot;) or as an attachment "Homework 1 submission.doc". 
 
@@ -14,14 +14,14 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (Kisa Baginski, Kimberly Bellamy &amp; Mary Carrier)  [Project Gutenberg](https://www.gutenberg.org/)
-- Group 2: (Sam Christensen-Tripi, Samantha Cody &amp; Abby Cowan) [CALI-SPHERE](http://calisphere.cdlib.org/)
-- Group 3: (Wendy Cribb, Farah Douglas &amp; Ke Gao) [DPLA](https://dp.la/)
-- Group 4: (Danielle Graham, Melissa Iaria &amp; Chloe Janis) [Jacob's Pillow](https://archives.jacobspillow.org/)
-- Group 5: (Andrea Lurie, Allyson Maccie &amp;Katherine McMillan) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
-- Group 6: (Erin Meye, Jerusha Owusu-Barie &amp; Julie Rosier) [Science History Institute](https://digital.sciencehistory.org/)
-- Group 7: (John Ruquet, Laura Scott &amp;Geraldine Villatoro) [SlaveVoyages](https://www.slavevoyages.org/) 
-- Group 8: (Matthew Voorhees, Allyson Wells &amp; Emily Wilkerson) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
+- Group 1: (Batchker, Beauregard &amp;Bhagat)  [Project Gutenberg](https://www.gutenberg.org/)
+- Group 2: (Brisbin, Bronder-Major, &amp; Charlebois ) [CALI-SPHERE](http://calisphere.cdlib.org/)
+- Group 3: (Dobson, Daly &amp;Ebbecke ) [DPLA](https://dp.la/)
+- Group 4: (Fernandez, Holladay  &amp;Keefe ) [Jacob's Pillow](https://archives.jacobspillow.org/)
+- Group 5: (Klein, Lavigna &amp;Ling) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
+- Group 6: (Massand, Pascarella &amp;Payne ) [Science History Institute](https://digital.sciencehistory.org/)
+- Group 7: (Price, Reese &amp; Rodriguez) [SlaveVoyages](https://www.slavevoyages.org/)- Group 8: (Rothman, Simonds &amp; Stowell) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
+- Group 9: (Thompson, Watson &amp;Wells ) [The Story of the Beautiful](http://www.perseus.tufts.edu/)
 
 # Part 1 Institution
 
@@ -57,4 +57,4 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Functionality to have a &quot;book cart&quot;? Guide to searching techniques?
 
 - This assignment is worth **10 points.**
-- **Due Monday May 30th** 
+- **Due** 
