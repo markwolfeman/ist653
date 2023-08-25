@@ -14,15 +14,15 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (Batchker, Beauregard &amp; Bhagat)  [Project Gutenberg](https://www.gutenberg.org/)
-- Group 2: (Brisbin, Bronder-Major, &amp; Charlebois ) [CALI-SPHERE](http://calisphere.cdlib.org/)
-- Group 3: (Dobson, Daly &amp; Ebbecke ) [DPLA](https://dp.la/)
-- Group 4: (Fernandez, Holladay  &amp; Keefe ) [Jacob's Pillow](https://archives.jacobspillow.org/)
-- Group 5: (Klein, Lavigna &amp; Ling) [Marcel Breuer Digital Archive](https://breuer.syr.edu/)
-- Group 6: (Massand, Pascarella &amp; Payne ) [Science History Institute](https://digital.sciencehistory.org/)
-- Group 7: (Price, Reese &amp; Rodriguez) [SlaveVoyages](https://www.slavevoyages.org/)
-- Group 8: (Rothman, Simonds &amp; Stowell) [Perseus Digital Library](http://www.perseus.tufts.edu/) 
-- Group 9: (Thompson, Watson &amp; Wells ) [The Story of the Beautiful](http://www.perseus.tufts.edu/)
+- Group 1: (Batchker, Beauregard &amp; Bhagat) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
+- Group 2: (Brisbin, Bronder-Major, &amp; Charlebois) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
+- Group 3: (Dobson, Daly &amp; Ebbecke )<a href="https://dp.la/" target="_blank">DPLA</a> 
+- Group 4: (Fernandez, Holladay  &amp; Keefe )<a href="https://archives.jacobspillow.org/" target="_blank">Jacob's Pillow</a> 
+- Group 5: (Klein, Lavigna &amp; Ling) <a href="https://breuer.syr.edu/" target="_blank">Marcel Breuer Digital Archive</a> 
+- Group 6: (Massand, Pascarella &amp; Payne) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
+- Group 7: (Price, Reese &amp; Rodriguez)<a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
+- Group 8: (Rothman, Simonds &amp; Stowell) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
+- Group 9: (Thompson, Watson &amp; Wells )<a href="http://www.perseus.tufts.edu/" target="_blank">The Story of the Beautiful</a> 
 
 # Part 1 Institution
 
