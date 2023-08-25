@@ -59,4 +59,5 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - In an About page etc., can learn other features that are technical related?
 
 This assignment is worth **10 points.**
+
 **Due Thursday, August 31th** 
