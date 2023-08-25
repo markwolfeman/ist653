@@ -4,7 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 
-![homework](/assets/hw.jpg) [Homework 1](https://markwolfeman.github.io/ist653/assignments/homework1) Digital Library Report **Due: Friday September 1st**
+![homework](/assets/hw.jpg) [Homework 1](https://markwolfeman.github.io/ist653/assignments/homework1) Digital Library Report **Due: Friday September 4th**
 
 ![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/) Managing Image Files **Due:**
 

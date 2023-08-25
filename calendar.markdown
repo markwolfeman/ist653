@@ -58,7 +58,7 @@ Videos:
 Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a> [ppt]
 
-- [Homework 1 released](https://markwolfeman.github.io/ist653/assignments/homework1) **Due:  Friday, September 1st**
+- [Homework 1 released](https://markwolfeman.github.io/ist653/assignments/homework1) **Due:  Monday, September 4th**
 
 
 Discussion & Exercise:
