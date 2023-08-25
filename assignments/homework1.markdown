@@ -8,7 +8,7 @@ permalink:
 
 - [Homework 1 overview](video_link) [0:00 min.] 
 
-Each group is assigned a digital library to evaluate. Students will need to address the questions below, and present to the class on the disccusion board. Answer the questions in your own words, in complete sentences, and don't merely copy and paste text from the site documentation. Each group must divide up the questions equally, and present in writing on the Blackboard Discussion Board. Nominate a person from your group to post your assignment to a thread on the discussion forum for &quot;Homework 1&quot;. Please list your name with the section you worked on. You are welcome to use screen shots in the discussion post or in a Word document. Post under your group name (i.e. &quot;Group 2 final submission&quot;) or as an attachment "Homework 1 submission.doc". 
+Each group is assigned a digital library to evaluate. Students will need to address the questions below, and present to the class on the disccusion board. Answer the questions in your own words, in complete sentences, and don't merely copy and paste text from the site documentation. Each group must divide up the questions equally, and present in writing in a forum in Brightspace Discussions. Nominate a person from your group to post your assignment to a thread on the discussion forum for &quot;Homework 1&quot;. Please list your name with the section you worked on. You are welcome to use screen shots in the discussion post. Post under your group name (i.e. &quot;Group 2 final submission&quot;). 
 
 - Feel free to conduct homework discussion on your assigned thread, create a new thread, or discuss over email. 
 
@@ -33,6 +33,7 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Where does it fit in the organizational chart of the institution?
 - How is it funded? (Internally/institutional, grant, consortia)
 - Is it one all-encompassing digital library or many?
+- How many staff members? What are their roles/job titles?
 
 
 # Part 2 Digital Materials and Scope
@@ -51,11 +52,11 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 - Is the system a open source product? In-house designed? or Proprietary?
 - Is it housed locally? or a hosted service?
-- How many staff members? What are their roles/job titles?
 - Can you download objects?
-- Can you browse? Keyword search? Faceted search?
+- Can you browse? keyword search? faceted search?
 - Can you create an account? If so, is there a cost?
-- Functionality to have a &quot;book cart&quot;? Guide to searching techniques?
+- Guide to searching techniques?
+- In an About page etc., can learn other features that are technical related?
 
 - This assignment is worth **10 points.**
-- **Due Wednesday, August 30th** 
+- **Due Thursday, August 31th** 
