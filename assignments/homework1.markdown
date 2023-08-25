@@ -6,9 +6,9 @@ permalink:
 
 <h1> Homework 1</h1>
 
-- [Homework 1 overview](video_link) [0:00 min.] 
+- [Homework 1 overview](https://youtu.be/MKi1HaGps38) [3:56 min.] 
 
-Each group is assigned a digital library to evaluate. Students will need to address the questions below, and present to the class on the disccusion board. Answer the questions in your own words, in complete sentences, and don't merely copy and paste text from the site documentation. Each group must divide up the questions equally, and present in writing in a forum in Brightspace Discussions. Nominate a person from your group to post your assignment to a thread on the discussion forum for &quot;Homework 1&quot;. Please list your name with the section you worked on. You are welcome to use screen shots in the discussion post. Post under your group name (i.e. &quot;Group 2 final submission&quot;). 
+Each group is assigned a digital library to evaluate. Students will need to address the questions below, and present to the class on the disccusion board. Answer the questions in your own words, in complete sentences, and don't merely copy and paste text from the site documentation. Each group must divide up the questions equally, and present in writing in a forum in Brightspace Discussions. Nominate a person from your group to post your assignment to a thread on the discussion forum for &quot;Homework 1&quot;. Please list your name with the section you worked on. You are welcome to use screen shots in the discussion post. Post under your group name (i.e. &quot;Group 2 final submission&quot;). If you have a question, post it to the HW 1 forum. Please feel free to include screenshots or anything a/v related that enhances your report.
 
 - Feel free to conduct homework discussion on your assigned thread, create a new thread, or discuss over email. 
 
