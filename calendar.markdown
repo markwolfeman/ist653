@@ -54,16 +54,16 @@ Videos:
 - <a href="https://youtu.be/nexEnlECLV4" target="_blank">Foundations of Digital Libraries Part 1</a>[ 8:17 min.]
 - <a href="https://www.youtube.com/watch?v=J9J6w39nK7w" target="_blank">Foundations of Digital Libraries Part 2</a> [33:36 min.]
 
-- [Homework 1 overview]() [: min.] TBA
-
 
 Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a> [ppt]
 
+[Homework 1 released] (https://markwolfeman.github.io/ist653/assignments/homework1) **Due:  Wednesday, August 30th**
+
 
 Discussion & Exercise:
 
-- ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/) questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due: TBA** 
+- ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink) questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due: Wednesday August 30th** 
 
 ------------
 # No Class: September 4th Labor Day 
