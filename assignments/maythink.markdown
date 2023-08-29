@@ -15,6 +15,6 @@ In the Brightspace Discussions tool, answer one of the questions below based on 
 - <a href="http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20%28Life%20Magazine%209-10-1945%29.pdf" target="_blank">As We May Think PDF</a> or <a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/" target="_blank">HMTL</a> [Bush 1945]
 
 
-**Exercise Due Wednesday August 30th**
+**Exercise Due Monday September 4th**
 
 <br/>![Bush](../assets/think.png)

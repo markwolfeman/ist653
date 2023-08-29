@@ -63,7 +63,7 @@ Presentation:
 
 Discussion & Exercise:
 
-- ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink) questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due: Wednesday August 30th** 
+- ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink) questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due: Monday Septmeber 4th** 
 
 ------------
 # No Class: September 4th Labor Day 
