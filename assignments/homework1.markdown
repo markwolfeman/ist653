@@ -22,7 +22,7 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Group 6: (Massand, Pascarella &amp; Payne) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
 - Group 7: (Price, Reese &amp; Rodriguez)<a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
 - Group 8: (Rothman, Simonds &amp; Stowell) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
-- Group 9: (Thompson, Watson &amp; Wells )<a href="http://www.perseus.tufts.edu/" target="_blank">The Story of the Beautiful</a> 
+- Group 9: (Thompson, Watson &amp; Wells )<a href="http://peacockroom.wayne.edu/" target="_blank">The Story of the Beautiful</a> 
 
 # Part 1 Institution
 
