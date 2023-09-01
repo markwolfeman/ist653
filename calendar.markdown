@@ -73,7 +73,11 @@ Discussion & Exercise:
 Readings:
 
 - <a href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf" target="_blank">Introduction to Imaging (read: intro to p. 46)</a> Besser (2003) [.pdf]
-- <a href="http://www.digitizationguidelines.gov/" target="_blank">FADGI or Federal Agencies Digital Guidelines Initiative</a> (About, Review Process, and skim the Glossary)
+- <a href="http://www.digitizationguidelines.gov/" target="_blank">FADGI or Federal Agencies Digital Guidelines Initiative</a>  Just read and review:
+	- About
+	- Review Process 
+	- Skim the Glossary
+
 
 Videos:
 - <a href="https://www.youtube.com/watch?v=U0kazym7NB8" target="_blank">Introduction to Image Scanning</a> [48:04]
