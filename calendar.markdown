@@ -72,23 +72,23 @@ Discussion & Exercise:
 # Unit 3:  September 11th  Images (Digitization) 
 Readings:
 
-- Besser (2003) [Introduction to Imaging (read: intro to p. 46)](http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf) [.pdf]
-- [FADGI or Federal Agencies Digital Guidelines Initiative (About, Review Process, and skim the Glossary)](http://www.digitizationguidelines.gov/) 
+- <a href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf" target="_blank">Introduction to Imaging (read: intro to p. 46)</a>Besser (2003) [.pdf]
+- <a href="http://www.digitizationguidelines.gov/" target="_blank">FADGI or Federal Agencies Digital Guidelines Initiative (About, Review Process, and skim the Glossary)</a>
 
 Videos:
-
-- [Introduction to Image Scanning](https://www.youtube.com/watch?v=U0kazym7NB8) [48:04]
-- [Flatbed Scanner vs Overhead Digitization](http://www.sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization) [2:54]
-- [Library of Congress Introduction to Scanning](https://youtu.be/HqGuI6gkurA) [9:26] 
+- <a href="https://www.youtube.com/watch?v=U0kazym7NB8" target="_blank">Introduction to Image Scanning</a>[48:04]
+- <a href="http://www.sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization" target="_blank">Flatbed Scanner vs Overhead Digitization</a>[2:54]
+- <a href="https://youtu.be/HqGuI6gkurA" target="_blank">Library of Congress Introduction to Scanning</a>[9:26] 
+- <a href="" target="_blank"></a>
 
 Presentation:
 
-- [Introduction to Image Scanning](https://www.albany.edu/~mwolfe/ist653/unit3/Introduction%20to%20Image%20Scanning.pptx) [.ppt]
+- <a href="https://www.albany.edu/~mwolfe/ist653/unit3/Introduction%20to%20Image%20Scanning.pptx" target="_blank">Introduction to Image Scanning</a>[.ppt]
 
-
+------------
 
 # Unit 4: September 18th  Images (File Management) Part 1
----
+
 Readings:
 
 - [Image file formats. A Few Scanning Tips.](http://www.scantips.com/basics09.html) Fulton, W. (2013)
