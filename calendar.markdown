@@ -72,13 +72,13 @@ Discussion & Exercise:
 # Unit 3:  September 11th  Images (Digitization) 
 Readings:
 
-- <a href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf" target="_blank">Introduction to Imaging (read: intro to p. 46)</a>Besser (2003) [.pdf]
-- <a href="http://www.digitizationguidelines.gov/" target="_blank">FADGI or Federal Agencies Digital Guidelines Initiative (About, Review Process, and skim the Glossary)</a>
+- <a href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf" target="_blank">Introduction to Imaging (read: intro to p. 46)</a> Besser (2003) [.pdf]
+- <a href="http://www.digitizationguidelines.gov/" target="_blank">FADGI or Federal Agencies Digital Guidelines Initiative</a> (About, Review Process, and skim the Glossary)
 
 Videos:
-- <a href="https://www.youtube.com/watch?v=U0kazym7NB8" target="_blank">Introduction to Image Scanning</a>[48:04]
-- <a href="http://www.sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization" target="_blank">Flatbed Scanner vs Overhead Digitization</a>[2:54]
-- <a href="https://youtu.be/HqGuI6gkurA" target="_blank">Library of Congress Introduction to Scanning</a>[9:26] 
+- <a href="https://www.youtube.com/watch?v=U0kazym7NB8" target="_blank">Introduction to Image Scanning</a> [48:04]
+- <a href="http://www.sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization" target="_blank">Flatbed Scanner vs Overhead Digitization</a> [2:54]
+- <a href="https://youtu.be/HqGuI6gkurA" target="_blank">Library of Congress Introduction to Scanning</a> [9:26] 
 - <a href="" target="_blank"></a>
 
 Presentation:
