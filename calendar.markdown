@@ -94,21 +94,21 @@ Presentation:
 
 Readings:
 
-- [Image file formats. A Few Scanning Tips.](http://www.scantips.com/basics09.html) Fulton, W. (2013)
-- [Chapter 2 &quot;Selection&quot;, 3 &quot;Conversion&quot;, & 4&quot;Quality Control](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) in *Moving Theory into Practice: Digital Imaging for Libraries and Archives,* Kenney. [2000]
-- Skim Renamer user manual [PC](http://www.den4b.com/wiki/ReNamer) or
-  [Mac](https://renamer.com/help/English.lproj/getting_started.html) 
-- [12 Myths about Embedded Photo Metadata](https://www.controlledvocabulary.com/blog/top-metadata-myths.html) 
+- <a href="http://www.scantips.com/basics09.html" target="_blank">Image file formats. A Few Scanning Tips.</a> Fulton, W. (2013)
+- <a href="http://preservationtutorial.library.cornell.edu/tutorial/contents.html" target="_blank">Chapter 2 &quot;Selection&quot;, 3 &quot;Conversion&quot;, & 4&quot;Quality Control</a> in *Moving Theory into Practice: Digital Imaging for Libraries and Archives,* Kenney. [2000]
+- <a href="http://www.den4b.com/wiki/ReNamer" target="_blank">Skim Renamer user manual [PC]</a> or <a href="https://renamer.com/help/English.lproj/getting_started.html" target="_blank">Mac</a>
+- <a href="https://www.controlledvocabulary.com/blog/top-metadata-myths.html" target="_blank">12 Myths about Embedded Photo Metadata</a>
+
 
 Videos:
 
 - Filenaming, Embedded Metadata, Managing Digital Assets:
-	- [(Lecture) Part 1](https://www.youtube.com/watch?v=gbyaB-ntjyA) [18:40]
-	- [(Lecture) Part 2](https://youtu.be/GUCbciGAhD4) [27:03]
-- [How to Show File Extensions in Windows](https://www.youtube.com/watch?v=wxIIskKmUQA) [0:43]
-- [How to Show File Extensions for Mac](https://youtu.be/mYNchWitkyg) [5:03]
-- [Renamer, a Powerful Software for Mass File Renaming](https://www.youtube.com/watch?v=VA55zshYwTs&t=1s)
-- [How to Batch Edit Images with PhotoScape](https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s) 
+	- <a href="https://www.youtube.com/watch?v=gbyaB-ntjyA" target="_blank">(Lecture) Part 1</a>[18:40]
+	- <a href="https://youtu.be/GUCbciGAhD4" target="_blank">(Lecture) Part 2</a>[27:03]
+- <a href="https://www.youtube.com/watch?v=wxIIskKmUQA" target="_blank">How to Show File Extensions in Windows</a> [0:43]
+- <a href="https://youtu.be/mYNchWitkyg" target="_blank">How to Show File Extensions for Mac</a>[5:03]
+ - <a href="https://www.youtube.com/watch?v=VA55zshYwTs&t=1s" target="_blank">Renamer, a Powerful Software for Mass File Renaming</a>
+ - <a href="https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s" target="_blank">How to Batch Edit Images with PhotoScape</a>
 
 
 Presentation:
