@@ -112,17 +112,18 @@ Videos:
 
 
 Presentation:
+- <a href="" target="_blank"></a>
+- <a href="https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx" target="_blank">Filenaming & Embedded Metadata "Managing Digital Assets</a> [.ppt]
+ 
 
-- [Filenaming & Embedded Metadata "Managing Digital Assets"](https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx) [.ppt]
-
-Technology / Exercise  **Due:**  
-- Install the Renamer and PhotoScape software, and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. Once installed, post comment to the Unit 4 exercise discussion forum. Just a "great success" or if you want to write more or ask questions, please do.
+Technology / Exercise  **Due: Monday 18th**  
+- Install the Renamer and PhotoScape software and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. Once installed, post a comment to the Unit 4 exercise discussion forum. Just a "great success" is fine or if you want to write more or ask questions, please do. Of course, if you have issues, please post them as well.
 
 Install software:
+- <a href="http://www.den4b.com/?x=products&product=renamer" target="_blank">Renamer (PC)</a>
+- <a href="https://renamer.com/" target="_blank">Renamer (for Mac)</a>
+- <a href="http://x.photoscape.org/" target="_blank">PhotoScape for Mac and Win</a> 
 
-- [Renamer (PC)](http://www.den4b.com/?x=products&product=renamer)
-- [Renamer (for Mac)](https://renamer.com/)  
-- [PhotoScape for Mac and Win](http://x.photoscape.org/) 
 
 
 ------------
