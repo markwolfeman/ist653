@@ -112,7 +112,7 @@ Videos:
 
 
 Presentation:
-- <a href="" target="_blank"></a>
+
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx" target="_blank">Filenaming & Embedded Metadata "Managing Digital Assets</a> [.ppt]
  
 
