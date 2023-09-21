@@ -56,8 +56,8 @@ You've been given a collection of digitized images, but before they go into the 
 		- [Video tutorial](https://www.youtube.com/watch?v=PSxEFQGZl94) resize images using PhotoScape 
 <br/>
 
-- **Due: Tuesday June 7th** 
+- **Due: Friday, September 29th** 
 
 - Assignment is worth 10 points. 
 
-- **Email me one .zip file** that includes: completed .csv or .txt, folder of reduced/resized and watermarked image files. Work in groups or by yourself, if you like. Please post all questions, comments, and help in the Homework 2 discussion forum. 
+- **Email me one .zip file** that includes: completed .csv or .txt, folder of reduced/resized and watermarked image files. Work in groups or by yourself if you prefer. Please post all questions, comments, and help in the Homework 2 discussion forum. 

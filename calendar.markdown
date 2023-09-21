@@ -132,30 +132,31 @@ Install software:
 
 Readings:
 
- - [Stanford Libraries' Best practices for file naming](https://library.stanford.edu/spc/university-archives/managing-university-records/file-naming-guidelines) 
--  [6b Image creation "File/Image Processing"](http://preservationtutorial.library.cornell.edu/tutorial/contents.html) [Kenny (2000)]
-- [6c "Introduction/Keeping Track"](http://preservationtutorial.library.cornell.edu/tutorial/technical/technicalC-01.html) [Kenny (2000)]
+- <a href="https://library.stanford.edu/spc/university-archives/managing-university-records/file-naming-guidelines" target="_blank">Stanford Libraries' Best practices for file naming</a> 
+- <a href="http://preservationtutorial.library.cornell.edu/tutorial/contents.html" target="_blank">6b Image creation "File/Image Processing"</a> [Kenny (2000)]
+- <a href="http://preservationtutorial.library.cornell.edu/tutorial/technical/technicalC-01.html" target="_blank">6c "Introduction/Keeping Track"</a> [Kenny (2000)]
 
 
 Videos:
+- <a href="" target="_blank"></a> 
 
 - File Naming videos:
-	- [Part 1](https://www.youtube.com/watch?v=Hi_A4Ywn4VU) [3:19]
-	- [Part 2](https://www.youtube.com/watch?v=8ogTKWpq6is) [2:37]
-	- [Part 3](https://www.youtube.com/watch?v=959hYLK40gE) [3:28]
-	- [Part 4](https://www.youtube.com/watch?v=VWaIe2u8zRU) [1:44]
+	- <a href="https://www.youtube.com/watch?v=Hi_A4Ywn4VU" target="_blank">Part 1</a> [3:19]
+	- <a href="https://www.youtube.com/watch?v=8ogTKWpq6is" target="_blank">Part 2</a> [2:37]
+	- <a href="https://www.youtube.com/watch?v=959hYLK40gE" target="_blank">Part 3</a> [3:28]
+	- <a href="https://www.youtube.com/watch?v=VWaIe2u8zRU" target="_blank">Part 4</a> [1:44]
 
-- [Create watermarks with PhotoScape](https://youtu.be/ei0UoIIU_Yo) [2:45]
-- [Resize multiple images with PhotoScape](https://youtu.be/aOj9PMCxDi4) [7:13]
+- <a href="https://youtu.be/ei0UoIIU_Yo" target="_blank">Create watermarks with PhotoScape</a> [2:45]
+- <a href="https://youtu.be/aOj9PMCxDi4" target="_blank">Resize multiple images with PhotoScape</a> [7:13]
 
 
 Presentation:
 
-
+- No presentation
 
 Technology downloads:
 
-- [Adobe Bridge] (https://www.adobe.com/products/bridge.html)
+- <a href="https://www.adobe.com/products/bridge.html" target="_blank">Adobe Bridge</a> 
 
 
 ------------
@@ -298,7 +299,7 @@ Presentation:
 ------------
 
 
-# Unit 12: 	November 13th  Sustainability & Preservation
+# Unit 12: 	November 20th  Sustainability & Preservation
 
 Readings:
 
@@ -319,11 +320,8 @@ Presentation:
 
 ------------
 
-# No Class: November 20th  Thanksgiving Break
 
-------------
-
-# Unit 12: November 27th  Open Lab 
+# Unit 13: November 27th Open Lab 
 
 - work on Homework 5
 
@@ -335,7 +333,7 @@ Presentation:
 Wednesday, December 6th**
 
 - Please hand in all assignments. 
-- Test 2 / Create Job Announcement due
+- Test 2 / Create Job Announcement
 - Omeka Final Project 
 
 ------------
