@@ -6,7 +6,7 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Homework 1](https://markwolfeman.github.io/ist653/assignments/homework1) Digital Library Report **Due: Monday September 4th**
 
-![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/) Managing Image Files **Due:**
+![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/homework2) Managing Image Files **Due: Friday, September 29th**
 
 ![homework](/assets/hw.jpg) [Homework 3](https://markwolfeman.github.io/ist653/assignments/) Metadata and XML **Due:**
 

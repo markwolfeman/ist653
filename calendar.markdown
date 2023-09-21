@@ -58,7 +58,7 @@ Videos:
 Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a> [ppt]
 
-- [Homework 1 released](https://markwolfeman.github.io/ist653/assignments/homework1) **Due:  Monday, September 4th**
+- <a href="https://markwolfeman.github.io/ist653/assignments/homework1" target="_blank">Homework 1 released</a> **Due:  Monday, September 4th**
 
 
 Discussion & Exercise:
@@ -132,7 +132,7 @@ Install software:
 
 Readings:
 
-- <a href="https://library.stanford.edu/spc/university-archives/managing-university-records/file-naming-guidelines" target="_blank">Stanford Libraries' Best practices for file naming</a> 
+- <a href="https://guides.library.stanford.edu/data-best-practices" target="_blank">Stanford Libraries' Best practices for file naming</a> 
 - <a href="http://preservationtutorial.library.cornell.edu/tutorial/contents.html" target="_blank">6b Image creation "File/Image Processing"</a> [Kenny (2000)]
 - <a href="http://preservationtutorial.library.cornell.edu/tutorial/technical/technicalC-01.html" target="_blank">6c "Introduction/Keeping Track"</a> [Kenny (2000)]
 
@@ -158,6 +158,7 @@ Technology downloads:
 
 - <a href="https://www.adobe.com/products/bridge.html" target="_blank">Adobe Bridge</a> 
 
+- <a href="https://markwolfeman.github.io/ist653/assignments/homework2" target="_blank">Homework 2 released</a>  **Due:  Friday, September 29th**
 
 ------------
 
