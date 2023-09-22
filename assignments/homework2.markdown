@@ -13,7 +13,7 @@ Videos:
 - <a href="https://youtu.be/PmwzLhzRbA0" target="_blank">Homework 2 Adobe Bridge install</a>
 - <a href="https://youtu.be/wivyD2w6nMc" target="_blank">Homework 2 Walkthrough</a>
 
-You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel, and Adobe Bridge to update and manage a small collection of images. These images were shot or scanned by different people for different purposes. The file names must be normalized. The embedded metadata must be added or updated, and exported to a spreadsheet. The images must be resized and watermarked in preparation for deposit into a digital library.  
+You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel, and Adobe Bridge (free) to update and manage a small collection of images. These images were shot or scanned by different people for different purposes. The file names must be normalized. The embedded metadata must be added or updated, and exported to a spreadsheet. The images must be resized and watermarked in preparation for deposit into a digital library.  
 - <a href="https://markwolfeman.github.io/ist653/assignments/college_photo_list.html" target="_blank">Get your assigned photos and college here.</a>
 - <a href="https://www.adobe.com/products/bridge.html" target="_blank">Install Adobe Bridge</a>
 <a href="https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html" target="_blank">User customizable export-import plugin</a>
