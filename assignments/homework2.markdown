@@ -52,10 +52,10 @@ You've been given a collection of digitized images, but before they go into the 
 # Part 2 (5 points) Getting your Images Ready
 
 - **Using PhotoScape**
-	- create watermark by choosing icon from assigned college make watermark transparent and defined, save as .jpg
+	- Create watermark by choosing icon from assigned college make watermark transparent and defined, save as .jpg
 		- <a href="https://youtu.be/ei0UoIIU_Yo?si=N1S4I-UNHj_-IjpG" target="_blank">Video tutorial</a> using PhotoScape 
-	- reduce images in size using Resize Images section on the last tab, files should be about 100k per file
-		- <a href="https://www.youtube.com/watch?v=PSxEFQGZl94" target="_blank">Video tutorial</a>resize images using PhotoScape 
+	- Reduce images in size using Resize Images section on the last tab, files should be about 100k per file
+		- <a href="https://www.youtube.com/watch?v=PSxEFQGZl94" target="_blank">Video tutorial </a>resize images using PhotoScape 
 <br/>
 
 - **Due: Friday, September 29th** 
