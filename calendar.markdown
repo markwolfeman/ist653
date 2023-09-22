@@ -158,7 +158,7 @@ Technology downloads:
 
 - <a href="https://www.adobe.com/products/bridge.html" target="_blank">Adobe Bridge</a> 
 
-- <a href="https://markwolfeman.github.io/ist653/assignments/homework2" target="_blank">Homework 2 released</a>  **Due:  Friday, September 29th**
+- <a href="https://markwolfeman.github.io/ist653/assignments/homework2" target="_blank">Homework 2 released</a>  **Due:  Wednesday, October 4th**
 
 ------------
 

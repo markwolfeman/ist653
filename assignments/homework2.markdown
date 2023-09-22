@@ -58,7 +58,7 @@ You've been given a collection of digitized images, but before they go into the 
 		- <a href="https://www.youtube.com/watch?v=PSxEFQGZl94" target="_blank">Video tutorial </a>resize images using PhotoScape 
 <br/>
 
-- **Due: Friday, September 29th** 
+- **Due: Wednesday, October 4th** 
 
 - Assignment is worth 10 points. 
 
