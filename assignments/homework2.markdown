@@ -47,6 +47,7 @@ You've been given a collection of digitized images, but before they go into the 
 	- Follow tutorial in Homework 2 video above on how to export to .txt file
 	- Export a .txt/Excel file, the following tags: <span style="font-family:Courier">File Name (required)</span>, <span style="font-family:Courier">Creator-Web URL(s)</span>, <span style="font-family:Courier">Creator City</span>, <span style="font-family:Courier">Date Created</span>
 	- The .txt/Excel file should look something like this, but with updated file names <a href="https://markwolfeman.github.io/ist653/assignments/completed_text_file.JPG" target="_blank">text file</a> and <a href="https://markwolfeman.github.io/ist653/assignments/completed_text_file_in_excel.JPG" target="_blank">text file in Excel or alternative spreadsheet software such as </a> <a href="https://www.openoffice.org/" target="_blank">Open Office</a>. 
+	- Here's a <a href="https://youtu.be/gO7nX4osNwY" target="_blank">short video (7:18)</a> on how to clean up your data if needed, an example of deleting timestamp in a Date field.  
 
 
 # Part 2 (5 points) Getting your Images Ready
