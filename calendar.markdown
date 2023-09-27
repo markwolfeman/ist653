@@ -165,24 +165,19 @@ Technology downloads:
 
 Readings:
 
-
-- [Format Considerations in AudioVisual
-Preservation Reformatting (2010)](http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf)
-- [Digital Audio Best Practices (2006)](https://sustainableheritagenetwork.org/system/files/atoms/file/Audio_Best_Practices.pdf) (pp. 1-35)
-- [Born Digital Video Preservation: A Final Report (2011)](https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf)
-
+- <a href="http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf" target="_blank">Format Considerations in AudioVisual Preservation Reformatting (2010)</a> 
+- <a href="https://sustainableheritagenetwork.org/system/files/atoms/file/Audio_Best_Practices.pdf" target="_blank">Digital Audio Best Practices (2006)</a> (pp. 1-35)
+- <a href="https://siarchives.si.edu/sites/default/files/pdfs/bornDigitalVideoPreservation2011.pdf" target="_blank">Born Digital Video Preservation: A Final Report (2011)</a> 
 
 Videos:
-
-- [Foundations of Audio](https://youtu.be/c1vFiRgxBQE) [51:35]
-- [Foundations of Video](https://youtu.be/_yhXESSMYOQ) [32:09] 
+- <a href="https://youtu.be/c1vFiRgxBQE" target="_blank">Foundations of Audio</a> [51:35]
+- <a href="https://youtu.be/_yhXESSMYOQ" target="_blank">Foundations of Video</a> [32:09]
 
 Presentation:
-
-
-- [Foundations of Audio](https://drive.google.com/file/d/18cOyZ0kPMMR0-QM6KSxNV_4yx_GwkkuC/view?usp=sharing) [.pdf] 
-- [Foundations fo Video](https://drive.google.com/file/d/1_KRuwiabchB6EJQba6vZr7nAZtcSsSBB/view?usp=sharing) [.pdf]
-- [Sample vendor proposal](http://www.albany.edu/~mwolfe/ist653/unit6/example_vendor_proposal.pdf) [.pdf]
+ 
+- <a href="https://drive.google.com/file/d/18cOyZ0kPMMR0-QM6KSxNV_4yx_GwkkuC/view?usp=sharing" target="_blank">Foundations of Audio</a> [.pdf]
+- <a href="https://drive.google.com/file/d/1_KRuwiabchB6EJQba6vZr7nAZtcSsSBB/view?usp=sharing" target="_blank">Foundations fo Video</a> [.pdf]
+- <a href="http://www.albany.edu/~mwolfe/ist653/unit6/example_vendor_proposal.pdf" target="_blank">Sample vendor proposal</a> [.pdf]
 
 
 ------------
