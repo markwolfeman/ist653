@@ -14,11 +14,11 @@ Videos:
 
 - <a href="https://www.youtube.com/watch?v=GaE30fNrEPQ" target="_blank">Course Welcome &amp; Meet the Instructor</a>[12:36 min.]
 - <a href="https://youtu.be/NLsDkxZTno0" target="_blank">Overview of Course Part 1</a> [17:13 min.]
-- <a href="https://youtu.be/YAb05GfEVqA" target="_blank">Overview of Course Part 2</a>[20:46 min.]
-- <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a>[46:19 min.]
+- <a href="https://youtu.be/YAb05GfEVqA" target="_blank">Overview of Course Part 2</a> [20:46 min.]
+- <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a> [46:19 min.]
 
 Presentation:
-- <a href="https://www.albany.edu/~mwolfe/ist653/prehistory_to_digital_libraries.pptx" target="_blank">Pre-History to Digital Libraries</a>[.pptx]
+- <a href="https://www.albany.edu/~mwolfe/ist653/prehistory_to_digital_libraries.pptx" target="_blank">Pre-History to Digital Libraries</a> [.pptx]
 
 
 Disscussion:
@@ -51,7 +51,7 @@ Readings:
 
 
 Videos:
-- <a href="https://youtu.be/nexEnlECLV4" target="_blank">Foundations of Digital Libraries Part 1</a>[ 8:17 min.]
+- <a href="https://youtu.be/nexEnlECLV4" target="_blank">Foundations of Digital Libraries Part 1</a> [8:17 min.]
 - <a href="https://www.youtube.com/watch?v=J9J6w39nK7w" target="_blank">Foundations of Digital Libraries Part 2</a> [33:36 min.]
 
 
@@ -103,10 +103,10 @@ Readings:
 Videos:
 
 - Filenaming, Embedded Metadata, Managing Digital Assets:
-	- <a href="https://www.youtube.com/watch?v=gbyaB-ntjyA" target="_blank">(Lecture) Part 1</a>[18:40]
-	- <a href="https://youtu.be/GUCbciGAhD4" target="_blank">(Lecture) Part 2</a>[27:03]
+	- <a href="https://www.youtube.com/watch?v=gbyaB-ntjyA" target="_blank">(Lecture) Part 1</a> [18:40]
+	- <a href="https://youtu.be/GUCbciGAhD4" target="_blank">(Lecture) Part 2</a> [27:03]
 - <a href="https://www.youtube.com/watch?v=wxIIskKmUQA" target="_blank">How to Show File Extensions in Windows</a> [0:43]
-- <a href="https://youtu.be/mYNchWitkyg" target="_blank">How to Show File Extensions for Mac</a>[5:03]
+- <a href="https://youtu.be/mYNchWitkyg" target="_blank">How to Show File Extensions for Mac</a> [5:03]
  - <a href="https://www.youtube.com/watch?v=VA55zshYwTs&t=1s" target="_blank">Renamer, a Powerful Software for Mass File Renaming</a>
  - <a href="https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s" target="_blank">How to Batch Edit Images with PhotoScape</a>
 
@@ -138,7 +138,6 @@ Readings:
 
 
 Videos:
-- <a href="" target="_blank"></a> 
 
 - File Naming videos:
 	- <a href="https://www.youtube.com/watch?v=Hi_A4Ywn4VU" target="_blank">Part 1</a> [3:19]
