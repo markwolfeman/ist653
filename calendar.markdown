@@ -181,7 +181,7 @@ Presentation:
 
 
 ------------
-# No Class:  Classes Suspended Fall Break.
+# No Class:  Classes Suspended Fall Break
 ------------
 
 # Unit 7:  October 16th 	Metadata and XML
@@ -194,7 +194,6 @@ Readings:
 
 Videos:
 
-
 - [Introduction to Metadata](https://youtu.be/6xFmFrpDMwQ) [40:36]
 - [Introduction to XML](https://youtu.be/-kN-oY3hDyg) [44:58]
 - [XML Coders Boot Camp](https://www.youtube.com/watch?v=b27DeLZvkTo&amp;feature=youtu.be) 	[12:49]
@@ -202,7 +201,6 @@ Videos:
      
 
 Presentation:
-
 
 - [Introduction to Metadata](https://drive.google.com/file/d/12slAjLkXxzA2VzZFCgo7xhW6mdaPluQl/view?usp=sharing) [.pdf]
 - [Introduction to XML](https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing) [.pdf] 
@@ -220,7 +218,16 @@ Click on these links, and review them briefly. They are basically the same
 
 ------------
 
-# Unit 8:  October 23rd Choosing a Repository Architecture
+# Unit 8:   October 23rd  Metadata & Open Refine
+
+Readings:
+
+Videos:
+
+Presentation:
+
+------------
+# Unit 9:  October 30th Choosing a Repository Architecture
 
 Readings:
 
@@ -239,20 +246,9 @@ Presentation:
 
 - [Choosing a Digital Repository](https://drive.google.com/file/d/160xDfmIw3d6CB45pxfKNSNC1HbULpb-3/view?usp=sharing)[.pdf]
 
-
-------------
-# Unit 9:   October 30th  Metadata & Open Refine
-
-Readings:
-
-Videos:
-
-Presentation:
-
-
 ------------
 
-# Unit 10:  	Novemeber 6th  Linked Data & Controlled Vocabularies 
+# Unit 10:  	November 6th  Linked Data & Controlled Vocabularies 
 
 Readings:
 
