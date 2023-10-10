@@ -181,31 +181,29 @@ Presentation:
 
 
 ------------
-# No Class:  Classes Suspended Fall Break
+# No Class:  October 9th Classes Suspended Fall Break
 ------------
 
 # Unit 7:  October 16th 	Metadata and XML
 
 Readings:
-
-- [Chapters 1, &amp; 2 of Miller ]()[Blackboard-Course Content "Readings"]
+- <a href="https://drive.google.com/drive/folders/1ZjVql4F_YwP9CIbj3oQEAkw6TtsRn3VE?usp=drive_link" target="_blank">Chapters 1, &amp; 2 of Miller</a> 
+- <a href="https://drive.google.com/drive/folders/1ZjVql4F_YwP9CIbj3oQEAkw6TtsRn3VE?usp=drive_link" target="_blank">Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)</a> 
 - [How Does XML Help Libraries?](http://www.infotoday.com/cilmag/sep02/banerjee.htm) (Banerjee)
-- [Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)]()[Brightspace "Readings"]
 
 Videos:
-
-- [Introduction to Metadata](https://youtu.be/6xFmFrpDMwQ) [40:36]
-- [Introduction to XML](https://youtu.be/-kN-oY3hDyg) [44:58]
-- [XML Coders Boot Camp](https://www.youtube.com/watch?v=b27DeLZvkTo&amp;feature=youtu.be) 	[12:49]
+- <a href="" target="_blank"></a>
+- <a href="https://youtu.be/6xFmFrpDMwQ" target="_blank">Introduction to Metadata</a>[40:36]
+- <a href="https://youtu.be/-kN-oY3hDyg" target="_blank">Introduction to XML</a>[44:58]
+- <a href="https://www.youtube.com/watch?v=b27DeLZvkTo&amp;feature=youtu.be" target="_blank">XML Coders Boot Camp</a>
 
      
-
 Presentation:
+- <a href="https://drive.google.com/file/d/12slAjLkXxzA2VzZFCgo7xhW6mdaPluQl/view?usp=sharing" target="_blank">Introduction to Metadata</a> [.pdf]
+- <a href="https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing" target="_blank">Introduction to XML</a> [.pdf]
 
-- [Introduction to Metadata](https://drive.google.com/file/d/12slAjLkXxzA2VzZFCgo7xhW6mdaPluQl/view?usp=sharing) [.pdf]
-- [Introduction to XML](https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing) [.pdf] 
 
-Exercise:  (**Install XML editor Due:**)
+Exercise:  (**Install XML editor Due: TBA**)
 
 
 - [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html)  
