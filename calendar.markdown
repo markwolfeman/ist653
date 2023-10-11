@@ -204,7 +204,7 @@ Presentation:
 - <a href="https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing" target="_blank">Introduction to XML</a> [.pdf]
 
 
-Exercise:  (**Install XML editor Due: Sunday, October 22nd**)
+Exercise:  (**Install XML editor Due: Monday, October 23rd**)
 - <a href="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html" target="_blank">Oxygen XML Editor (30 day trial) Mac and PC</a> 
 
 
