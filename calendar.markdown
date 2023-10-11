@@ -189,10 +189,11 @@ Presentation:
 Readings:
 - <a href="https://drive.google.com/drive/folders/1ZjVql4F_YwP9CIbj3oQEAkw6TtsRn3VE?usp=drive_link" target="_blank">Chapters 1, &amp; 2 of Miller</a> 
 - <a href="https://drive.google.com/drive/folders/1ZjVql4F_YwP9CIbj3oQEAkw6TtsRn3VE?usp=drive_link" target="_blank">Miller 6 &amp; 7 (pp. 163-170, skim remainder of chapter)</a> 
-- [How Does XML Help Libraries?](http://www.infotoday.com/cilmag/sep02/banerjee.htm) (Banerjee)
+- <a href="http://www.infotoday.com/cilmag/sep02/banerjee.htm" target="_blank">How Does XML Help Libraries?</a> (Banerjee)
+
 
 Videos:
-- <a href="" target="_blank"></a>
+
 - <a href="https://youtu.be/6xFmFrpDMwQ" target="_blank">Introduction to Metadata</a>[40:36]
 - <a href="https://youtu.be/-kN-oY3hDyg" target="_blank">Introduction to XML</a>[44:58]
 - <a href="https://www.youtube.com/watch?v=b27DeLZvkTo&amp;feature=youtu.be" target="_blank">XML Coders Boot Camp</a>
