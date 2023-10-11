@@ -203,16 +203,16 @@ Presentation:
 - <a href="https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing" target="_blank">Introduction to XML</a> [.pdf]
 
 
-Exercise:  (**Install XML editor Due: TBA**)
+Exercise:  (**Install XML editor Due: Sunday, October 22nd**)
+- <a href="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html" target="_blank">Oxygen XML Editor (30 day trial) Mac and PC</a> 
 
 
-- [Oxygen XML Editor (30 day trial) Mac and PC](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html)  
-- [Post on the discussion board]() once successfully installed.
+- [Post on the Unit 7 discussion board]once successfully installed.
 
 Click on these links, and review them briefly. They are basically the same
+- <a href="https://nsteffel.github.io/dublin_core_generator/" target="_blank">Dublin Core Generator</a> 
+- <a href="https://ockier.es/dublin-core/en-dublin-core.php" target="_blank">Dublin Core Generator form by Nicolás Ockier</a>
 
-- [Dublin Core Generator](https://nsteffel.github.io/dublin_core_generator/) 
-- [Dublin Core Generator form by Nicolás Ockier](https://ockier.es/dublin-core/en-dublin-core.php)
 
 ------------
 
