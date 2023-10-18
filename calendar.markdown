@@ -216,34 +216,32 @@ Click on these links, and review them briefly. They are basically the same
 
 
 ------------
-
-# Unit 8:   October 23rd  Metadata & Open Refine
+# Unit 8:  October 23rd Choosing a Repository Architecture
 
 Readings:
+- <a href="" target="_blank"></a> 
+- <a href="https://omeka.org/classic/docs/GettingStarted/Site_Planning_Tips/" target="_blank">Omeka Site Planning Tips</a> 
+- <a href="https://omeka.org/classic/docs/GettingStarted/UsingOmeka/" target="_blank">Omeka Examples and Case Studies</a> 
+- <a href="https://foundhistory.org/2010/09/omeka-and-its-peers/" target="_blank">Omeka and Its Peers, Scheinfeldt (2010)</a> 
+
 
 Videos:
+- <a href="https://youtu.be/EW_R5XwJ3VY" target="_blank">Choosing a Digital Repository Part 1</a> [09:18]
+- <a href="https://youtu.be/fxkdhRBt8R8" target="_blank">Choosing a Digital Repository Part 2</a> [53:15] 
+
 
 Presentation:
+- <a href="https://drive.google.com/file/d/160xDfmIw3d6CB45pxfKNSNC1HbULpb-3/view?usp=sharing" target="_blank">Choosing a Digital Repository</a> [.pdf]
 
 ------------
-# Unit 9:  October 30th Choosing a Repository Architecture
+
+# Unit 9:   October 30th  Metadata & Open Refine
 
 Readings:
 
-- [Omeka Site Planning Tips](https://omeka.org/classic/docs/GettingStarted/Site_Planning_Tips/)
-- [Omeka Examples and Case Studies](https://omeka.org/classic/docs/GettingStarted/UsingOmeka/)
-- [Omeka and Its Peers, Scheinfeldt (2010)](https://foundhistory.org/2010/09/omeka-and-its-peers/) 
-
 Videos:
 
-
-- [Choosing a Digital Repository Part 1](https://youtu.be/EW_R5XwJ3VY) [09:18]
-- [Choosing a Digital Repository Part 2](https://youtu.be/fxkdhRBt8R8) [53:15] 
-
 Presentation:
-
-
-- [Choosing a Digital Repository](https://drive.google.com/file/d/160xDfmIw3d6CB45pxfKNSNC1HbULpb-3/view?usp=sharing)[.pdf]
 
 ------------
 
