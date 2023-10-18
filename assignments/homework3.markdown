@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homework 3
+title: 
 permalink:
 ---
  
