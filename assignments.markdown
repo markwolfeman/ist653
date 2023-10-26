@@ -10,7 +10,7 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [Test 1]() Units 1-6 **Due: Sunday, October 22nd**
 
-![homework](/assets/hw.jpg) [Homework 3](https://markwolfeman.github.io/ist653/assignments/) Metadata and XML **Due: Monday, October 30th**
+![homework](/assets/hw.jpg) [Homework 3](https://markwolfeman.github.io/ist653/assignments/) Metadata and XML **Due: Wednesday, November 1st**
 
 ![homework](/assets/hw.jpg) [Homework 4](https://markwolfeman.github.io/ist653/assignments/) Create an Omeka Digital Library **Due:**
 
