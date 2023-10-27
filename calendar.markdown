@@ -237,10 +237,26 @@ Presentation:
 # Unit 9:   October 30th  Metadata & Open Refine
 
 Readings:
+- <a href="http://labs.timtom.ch/library-openrefine/" target="_blank">OpenRefine Lessons for Librarians</a> (NOT required, just for future reference)
+
 
 Videos:
+- <a href="https://youtu.be/N5Uc32xN1IM" target="_blank">How to install OpenRefine (Mac)</a> 
+- <a href="https://youtu.be/PbE2ySeyXf8" target="_blank">How to install OpenRefine (Windows)</a>  
+- <a href="" target="_blank">Exercise overview</a>  
+
+
+
 
 Presentation:
+
+Exercise:   Install OpenRefine and edit metadata
+
+- Install OpenRefine on your computer <a href="https://openrefine.org/" target="_blank">https://openrefine.org/</a>, watch the installation video above. 
+- After watching exercise overview video, download dataset to computer and import  <a href="(/assets/indian_food.csv" target="_blank">Indian Food 101 .csv file</a> into OpenRefine
+- Follow instructions in exercise overview video
+- Post screenshot to discussion board of your newly updated Indian Food 101 dataset. 
+- Due on **Monday, November 6th**
 
 ------------
 
