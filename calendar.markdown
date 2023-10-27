@@ -244,9 +244,9 @@ Readings:
 
 
 Videos:
-- <a href="https://youtu.be/N5Uc32xN1IM" target="_blank">How to install OpenRefine (Mac)</a> 
-- <a href="https://youtu.be/PbE2ySeyXf8" target="_blank">How to install OpenRefine (Windows)</a>  
-- <a href="https://youtu.be/a2QUsF2X68o" target="_blank">OpenRefine Introduction and Exercise overview</a>  
+- <a href="https://youtu.be/N5Uc32xN1IM" target="_blank">How to install OpenRefine (Mac)</a> [3:00]
+- <a href="https://youtu.be/PbE2ySeyXf8" target="_blank">How to install OpenRefine (Windows)</a> [3:33] 
+- <a href="https://youtu.be/a2QUsF2X68o" target="_blank">OpenRefine Introduction and Exercise overview</a>[15:52]  
 
 
 Presentation:
