@@ -243,12 +243,13 @@ Readings:
 Videos:
 - <a href="https://youtu.be/N5Uc32xN1IM" target="_blank">How to install OpenRefine (Mac)</a> 
 - <a href="https://youtu.be/PbE2ySeyXf8" target="_blank">How to install OpenRefine (Windows)</a>  
-- <a href="" target="_blank">Exercise overview</a>  
-
-
+- <a href="https://youtu.be/a2QUsF2X68o" target="_blank">OpenRefine Introduction and Exercise overview</a>  
 
 
 Presentation:
+
+- <a href="https://docs.google.com/presentation/d/1zTJY9WgjQAkdf3s4h3S06SzfYn6OJD2ys5LGAkJxGuM/edit?usp=sharing" target="_blank">OpenRefine Introduction and Exercise overview
+</a>  
 
 Exercise:   Install OpenRefine and edit metadata
 
