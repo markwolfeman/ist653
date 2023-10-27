@@ -239,6 +239,9 @@ Presentation:
 Readings:
 - <a href="http://labs.timtom.ch/library-openrefine/" target="_blank">OpenRefine Lessons for Librarians</a> (NOT required, just for future reference)
 
+- <a href="https://www.kaggle.com/datasets/nehaprabhavalkar/indian-food-101" target="_blank">Indian Food 101 dataset on Kaggle.com</a> 
+
+
 
 Videos:
 - <a href="https://youtu.be/N5Uc32xN1IM" target="_blank">How to install OpenRefine (Mac)</a> 
