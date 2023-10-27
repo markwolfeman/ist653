@@ -257,7 +257,7 @@ Presentation:
 Exercise:   Install OpenRefine and edit metadata
 
 - Install OpenRefine on your computer <a href="https://openrefine.org/" target="_blank">https://openrefine.org/</a>, watch the installation video above. 
-- After watching exercise overview video, download dataset to computer and import  <a href="(/assets/indian_food.csv" target="_blank">Indian Food 101 .csv file</a> into OpenRefine
+- After watching exercise overview video, download dataset to computer and import  <a href="(assets/indian_food.csv" target="_blank">Indian Food 101 .csv file</a> into OpenRefine
 - Follow instructions in exercise overview video
 - Post screenshot to discussion board of your newly updated Indian Food 101 dataset. 
 - Due on **Monday, November 6th**
