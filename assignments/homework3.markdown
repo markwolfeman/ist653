@@ -37,7 +37,7 @@ The objective of this homework is to mark up your assigned images from Homework 
 	- Talk about their structure or lack of;
 	- Ease or difficulty of implementation;
 	- Explain technically some of the features of each, benefits/cost or drawbacks;
-	- Why do you think the developers of Omeka have chosen<a href="http://omeka.org/forums/topic/omeka-and-mods-element-set" target="_blank">Dublin Core over MODS?</a>
+	- Why do you think the developers of Omeka have chosen <a href="http://omeka.org/forums/topic/omeka-and-mods-element-set" target="_blank">Dublin Core over MODS?</a>
 
 
 - It's worth 10 points and due **Wednesday, November 1st** 
