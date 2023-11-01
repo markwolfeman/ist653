@@ -268,19 +268,20 @@ Exercise:   Install OpenRefine and edit metadata
 
 Readings:
 
-
- - ["Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)](https://drive.google.com/file/d/1r9u82Qfpp-CsoWy2tGPUDVx27zTqJeqR/view?usp=sharing) [.pdf]
-- ["Introduction to RDF for Librarians" (Tillman)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) 
+- <a href="https://drive.google.com/file/d/1r9u82Qfpp-CsoWy2tGPUDVx27zTqJeqR/view?usp=sharing" target="_blank">"Controlled Vocabularies for Improved Resource Discovery (Chapter 5 in Miller)</a> [.pdf]
+- <a href="http://ruthtillman.com/introduction-rdf-librarians-metadata/" target="_blank">"Introduction to RDF for Librarians" (Tillman)</a> 
 
 Videos:
 
-- [What is Linked Data](https://www.youtube.com/watch?v=4x_xzT5eF5Q) [12:09]
-- [Introduction to  Vocabularies &amp; Linked Data](https://youtu.be/M0TvMshLveQ) [39:36] 
+- <a href="https://www.youtube.com/watch?v=4x_xzT5eF5Q" target="_blank">What is Linked Data</a> [12:09]
+- <a href="https://youtu.be/M0TvMshLveQ" target="_blank">Introduction to  Vocabularies &amp; Linked Data</a> [39:36] 
+
 
 
 Presentation:
 
-- [Introduction to  Vocabularies &amp; Linked Data](https://drive.google.com/file/d/1Rva3F8lkNRDjNohvHPvTQZed32xL0J_F/view?usp=sharing) [.pdf]
+- <a href="https://drive.google.com/file/d/1Rva3F8lkNRDjNohvHPvTQZed32xL0J_F/view?usp=sharing" target="_blank">Introduction to  Vocabularies &amp; Linked Data</a> [.pdf]
+
 
 
 ------------
