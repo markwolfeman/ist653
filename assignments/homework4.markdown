@@ -5,7 +5,7 @@ permalink:
 ---
 
 <h1> Homework 4:  Create an Omeka Digital Library</h1>
-- <a href="" target="_blank"></a> 
+
 - <a href="https://youtu.be/2Hm4ZNT1ji4" target="_blank">Homework 4 Overview</a> [3:45]
 
 
