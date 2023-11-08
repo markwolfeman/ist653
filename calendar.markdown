@@ -289,17 +289,15 @@ Presentation:
 # Unit 11:  November 13th Project Planning
 
 Readings:
-
-- [Using Omeka to Build Digital Collections: The METRO Case Study by ](http://dlib.org/dlib/march10/kucsma/03kucsma.html) Kucsma, Reiss, & Sidman (2010) in D-Lib
-- [Review: The Showcase of Omeka Powered sites](https://omeka.org/showcase/) 
-- [Planning Tips:](https://omeka.org/codex/Site_Planning_Tips) "Questions to Ask While Planning"
-- (Optional reading), ["Institutional Repository on a Shoestring" in D-Lib  Wrenn & Mueller (2009)](https://www.dlib.org/dlib/january09/wrenn/01wrenn.html)  
+- <a href="http://dlib.org/dlib/march10/kucsma/03kucsma.html" target="_blank">Using Omeka to Build Digital Collections: The METRO Case Study by</a>Kucsma, Reiss, & Sidman (2010) in D-Lib
+- <a href="https://omeka.org/showcase/" target="_blank">Review: The Showcase of Omeka Powered sites</a>
+- <a href="https://omeka.org/codex/Site_Planning_Tips" target="_blank">Planning Tips:</a> "Questions to Ask While Planning"
+- (Optional reading), <a href="https://www.dlib.org/dlib/january09/wrenn/01wrenn.html" target="_blank">"Institutional Repository on a Shoestring" in D-Lib  Wrenn & Mueller (2009)</a>
 
 Videos:
 
 - Omeka Screencasts:
-  
-	- Watch all 12 [&quot;Getting Started&quot; screencasts videos](https://omeka.org/classic/docs/GettingStarted/Screencasts/) 
+  - Watch all 12 <a href="https://omeka.org/classic/docs/GettingStarted/Screencasts/" target="_blank">&quot;Getting Started&quot; screencasts videos</a>
 
 Presentation:
  - None 
