@@ -33,8 +33,10 @@ permalink:
   
 ---------------
 
+- Past Student Projects
   Some ideas for your final project, which will grow out of homework 5. Look at the topcis, don't try to necessarily copying the digital repository until we get to the final project. Just complete the above task. 
-  - Past Student Projects: [Hemingway's Home](http://hemingwayatkeywest.omeka.net/), [Souvenir Buildings](http://souvenirbuildings.omeka.net), [Exotic Fish of the World](http://exoticfish.omeka.net/), [Electrical Outlets of Distinction](https://outlets.omeka.net/), [Hike Iceland](https://hikeiceland.omeka.net/)
+ [Hemingway's Home](http://hemingwayatkeywest.omeka.net/), [Souvenir Buildings](http://souvenirbuildings.omeka.net), [Exotic Fish of the World](http://exoticfish.omeka.net/), [Electrical Outlets of Distinction](https://outlets.omeka.net/), [Hike Iceland](https://hikeiceland.omeka.net/)
+
 ----------------
 
 - **Due Sunday, November 19th** 
