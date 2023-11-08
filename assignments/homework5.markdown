@@ -35,7 +35,7 @@ permalink:
 
 **Past Student Projects**
 
-  Some ideas for your final project, which will grow out of homework 5. Look at the topcis, don't try to necessarily copying the digital repository until we get to the final project. Just complete the above task. 
+  Some ideas for your final project, which will grow out of homework 5. Look at the topics and designs, but please don't work past the above required tasks.
  [Hemingway's Home](http://hemingwayatkeywest.omeka.net/), [Souvenir Buildings](http://souvenirbuildings.omeka.net), [Exotic Fish of the World](http://exoticfish.omeka.net/), [Electrical Outlets of Distinction](https://outlets.omeka.net/), [Hike Iceland](https://hikeiceland.omeka.net/)
 
 ----------------
