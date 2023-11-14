@@ -329,7 +329,7 @@ Presentation:
 
 # Unit 13: November 27th Open Lab 
 
-- work on Homework 5
+- Work on Final Project and Test 2
 
 ------------
 
