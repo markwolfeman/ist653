@@ -36,7 +36,12 @@ permalink:
 **Past Student Projects**
 
   Some ideas for your final project, which will grow out of homework 5. Look at the topics and designs, but please don't work past the above required tasks.
- [Hemingway's Home](http://hemingwayatkeywest.omeka.net/), [Souvenir Buildings](http://souvenirbuildings.omeka.net), [Exotic Fish of the World](http://exoticfish.omeka.net/), [Electrical Outlets of Distinction](https://outlets.omeka.net/), [Hike Iceland](https://hikeiceland.omeka.net/)
+- <a href="http://hemingwayatkeywest.omeka.net/" target="_blank">Hemingway's Home</a>
+- <a href="http://souvenirbuildings.omeka.net" target="_blank">Souvenir Buildings</a>
+- <a href="http://exoticfish.omeka.net/" target="_blank">Exotic Fish of the World</a>
+- <a href="https://outlets.omeka.net/" target="_blank">Electrical Outlets of Distinction</a>
+- <a href="https://hikeiceland.omeka.net/" target="_blank">Hike Iceland</a>, 
+
 
 ----------------
 
