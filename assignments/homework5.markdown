@@ -40,7 +40,7 @@ permalink:
 - <a href="http://souvenirbuildings.omeka.net" target="_blank">Souvenir Buildings</a>
 - <a href="http://exoticfish.omeka.net/" target="_blank">Exotic Fish of the World</a>
 - <a href="https://outlets.omeka.net/" target="_blank">Electrical Outlets of Distinction</a>
-- <a href="https://hikeiceland.omeka.net/" target="_blank">Hike Iceland</a>, 
+- <a href="https://hikeiceland.omeka.net/" target="_blank">Hike Iceland</a> 
 
 
 ----------------
