@@ -4,7 +4,8 @@ title:
 permalink:
 ---
 
-[Video Overview for Final Project](https://youtu.be/RkGeFUEuW2I) [7:51]
+
+- <a href="https://youtu.be/RkGeFUEuW2I" target="_blank">Video Overview for Final Project</a> [7:51]
 
 <h1> Final Project</h1>
 
@@ -38,11 +39,18 @@ Using Omeka, you will demonstrate your ability to build a small repository of im
  
  **<font color="Blue">***2 points of extra credit***</font>**  Add images of head shots to your staffing pages. The pictures can be fictitious or annoymous in some manner, not unless you are OK with the public viewing them.
  
- - Past Student Projects: [Hemingway's Home](http://hemingwayatkeywest.omeka.net/), [Souvenir Buildings](http://souvenirbuildings.omeka.net), [Exotic Fish of the World](http://exoticfish.omeka.net/), [Electrical Outlets of Distinction](https://outlets.omeka.net/), [Hike Iceland](https://hikeiceland.omeka.net/)
+ - Past Student Projects
+ 
+- <a href="http://hemingwayatkeywest.omeka.net/" target="_blank">Hemingway's Home</a>
+- <a href="http://exoticfish.omeka.net/" target="_blank">Exotic Fish of the World</a>
+- <a href="http://souvenirbuildings.omeka.net" target="_blank">Souvenir Buildings</a>
+- <a href="https://outlets.omeka.net/" target="_blank">Electrical Outlets of Distinction</a>
+- <a href="https://hikeiceland.omeka.net/" target="_blank">Hike Iceland</a>
+
 
   
 - This assignment is worth 30 points. 
-- **Due Wednesday, June 29th**
+- **Due Wednesday, December 6th**
 - Once completed, email me the link to your Omeka website. 
 
 - This is a group assignment, so feel free to help, suggest and comment on each other's work and questions on the discussion board.  
