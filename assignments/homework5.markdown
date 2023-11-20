@@ -5,7 +5,7 @@ permalink:
 ---
 
 <h1> Homework 5</h1> **Select and prepare content for Omeka collection**
-- <a href="" target="_blank"></a>
+
 - <a href="https://youtu.be/5k2kmNSv7q8" target="_blank">Homework 5 Overview Part 1</a> [8:58]
 - <a href="https://youtu.be/HeC8kxfFvK8" target="_blank">Homework 5 Overview Part 2</a> [2:29]
 
