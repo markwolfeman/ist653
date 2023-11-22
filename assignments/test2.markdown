@@ -5,7 +5,7 @@ permalink:
 ---
 
 <h1> Test 2 (Create a Job Announcement)</h1>
-- <a href="" target="_blank"></a>
+
 - <a href="https://youtu.be/jtqxZaZrjlE" target="_blank">Test 2 video overview</a> [5:53]  
 
 We've spent the course exploring the domain of digitial libraries. In your "take-home" exam, you will explore and document how the discipline of digital libraries is expressed in a job desciption and position announcement.
@@ -18,7 +18,7 @@ We've spent the course exploring the domain of digitial libraries. In your "take
 
 - Develop a convincing job announcment by rounding it out with typical wording featured in a digital librarian type job. Use your imagination where needed as long as it's based in a believable scenario. In addition, you will be prompted for specific things to include in your job announcement and others are for for your consideration.
 
-- Write in complete sentences, but bullets are fine if used appropriately. Use professional looking formating so it is ready to go to a website or printer. 
+- Write in complete sentences, but bullets are fine if used appropriately. Use professional looking formatting so it is ready to go to a website or printer. 
 
 **The ad copy should be approximately 350 to 400 words.**
 
@@ -29,6 +29,7 @@ We've spent the course exploring the domain of digitial libraries. In your "take
 - Postion title/name? (you decide)
 - Brief history of the library?
 - Part of a network of libraries? 
+- Paid leave? Funding for professional development?
 - Other information that would make this an inviting place to work?
 
 **Part 2 (5 points) Position Duties &amp; Responsibilities**

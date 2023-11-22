@@ -5,9 +5,9 @@ permalink:
 ---
 
 
-- <a href="https://youtu.be/RkGeFUEuW2I" target="_blank">Video Overview for Final Project</a> [7:51]
-
 <h1> Final Project</h1>
+
+- <a href="https://youtu.be/RkGeFUEuW2I" target="_blank">Video Overview for Final Project</a> [7:51]
 
 
 
