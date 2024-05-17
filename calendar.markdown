@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-# Unit 1: 	August 21st Course Introduction
+# Unit 1: 	May 20th Course Introduction
 
 Readings:
 
@@ -34,13 +34,12 @@ Disscussion:
 
 Exercises:
 
-- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates) **Due: 8/23**
+- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates) **Due:**
 - Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive, albeit dated, it covers the fundamentals nicely.
-
 
 ------------
 
-# Unit 2:  August 28th What is a Digital Library 
+# Unit 2:  May 24th What is a Digital Library 
 
 Readings:
 - <a href="https://www.clir.org/1998/07/clir-issues-number-4/" target="_blank">What Are Digital Libraries?</a> [Waters 1998]
@@ -58,18 +57,18 @@ Videos:
 Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a> [ppt]
 
-- <a href="https://markwolfeman.github.io/ist653/assignments/homework1" target="_blank">Homework 1 released</a> **Due:  Monday, September 4th**
+- <a href="https://markwolfeman.github.io/ist653/assignments/homework1" target="_blank">Homework 1 released</a> **Due:**
 
 
 Discussion & Exercise:
 
-- ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink) questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due: Monday Septmeber 4th** 
+- ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink) questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due:** 
 
 ------------
-# No Class: September 4th Labor Day 
+# No Class:  May 27th Memorial Day
 ------------
 
-# Unit 3:  September 11th  Images (Digitization) 
+# Unit 3:  May 29th  Images (Digitization) 
 Readings:
 
 - <a href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf" target="_blank">Introduction to Imaging (read: intro to p. 46)</a> Besser (2003) [.pdf]
@@ -88,9 +87,10 @@ Presentation:
 
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit3/Introduction%20to%20Image%20Scanning.pptx" target="_blank">Introduction to Image Scanning</a>[.ppt]
 
+
 ------------
 
-# Unit 4: September 18th  Images (File Management) Part 1
+# Unit 4: May 31st  Images (File Management) Part 1
 
 Readings:
 
@@ -116,7 +116,7 @@ Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx" target="_blank">Filenaming & Embedded Metadata "Managing Digital Assets</a> [.ppt]
  
 
-Technology / Exercise  **Due: Friday 22nd**  
+Technology / Exercise  **Due:**  
 - Install the Renamer and PhotoScape software and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. Once installed, post a comment to the Unit 4 exercise discussion forum. Just a "great success" is fine or if you want to write more or ask questions, please do. Of course, if you have issues, please post them as well.
 
 Install software:
@@ -127,7 +127,7 @@ Install software:
 
 
 ------------
-# Unit 5: 	September 25th  Images (File Management) Part 2
+# Unit 5: 	June 3rd  Images (File Management) Part 2
 
 Readings:
 
@@ -156,11 +156,11 @@ Technology downloads:
 
 - <a href="https://www.adobe.com/products/bridge.html" target="_blank">Adobe Bridge</a> 
 
-- <a href="https://markwolfeman.github.io/ist653/assignments/homework2" target="_blank">Homework 2 released</a>  **Due:  Wednesday, October 4th**
+- <a href="https://markwolfeman.github.io/ist653/assignments/homework2" target="_blank">Homework 2 released</a>  **Due:**
 
 ------------
 
-# Unit 6:  	October 2nd  Digital Audio and Video 
+# Unit 6:  	June  7th  Digital Audio and Video 
 
 Readings:
 
@@ -180,10 +180,8 @@ Presentation:
 
 
 ------------
-# No Class:  October 9th Classes Suspended Fall Break
-------------
 
-# Unit 7:  October 16th 	Metadata and XML
+# Unit 7:  June 10th 	Metadata and XML
 
 Readings:
 - <a href="https://drive.google.com/drive/folders/1ZjVql4F_YwP9CIbj3oQEAkw6TtsRn3VE?usp=drive_link" target="_blank">Chapters 1, &amp; 2 of Miller</a> 
@@ -203,7 +201,7 @@ Presentation:
 - <a href="https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing" target="_blank">Introduction to XML</a> [.pdf]
 
 
-Exercise:  (**Install XML editor Due: Monday, October 23rd**)
+Exercise:  (**Install XML editor Due:**)
 - <a href="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html" target="_blank">Oxygen XML Editor (30 day trial) Mac and PC</a> 
 
 
@@ -215,7 +213,7 @@ Click on these links, and review them briefly. They are basically the same
 
 
 ------------
-# Unit 8:  October 23rd Choosing a Repository Architecture
+# Unit 8:  June 12th Choosing a Repository Architecture
 
 Readings:
 
@@ -234,14 +232,12 @@ Presentation:
 
 ------------
 
-# Unit 9:   October 30th  Metadata & Open Refine
+# Unit 9:   June 12th  Metadata & Open Refine
 
 Readings:
 - <a href="http://labs.timtom.ch/library-openrefine/" target="_blank">OpenRefine Lessons for Librarians</a> (NOT required, just for future reference)
 
 - <a href="https://www.kaggle.com/datasets/nehaprabhavalkar/indian-food-101" target="_blank">Indian Food 101 dataset on Kaggle.com</a> 
-
-
 
 Videos:
 - <a href="https://youtu.be/N5Uc32xN1IM" target="_blank">How to install OpenRefine (Mac)</a> [3:00]
@@ -260,11 +256,11 @@ Exercise:   Install OpenRefine and edit metadata
 - After watching exercise overview video, download dataset to computer and import  <a href="https://drive.google.com/file/d/1dVjoNjMZuyhPgUqHScfCm4zEuNsd2S4Q/view?usp=drive_link" target="_blank">Indian Food 101 .csv file</a> click download in uppper right hand corner
 - Follow instructions in exercise overview video
 - Post screenshot to discussion board of your newly updated Indian Food 101 dataset. 
-- Due on **Monday, November 6th**
+- **Due:**
 
 ------------
 
-# Unit 10:  	November 6th  Linked Data & Controlled Vocabularies 
+# Unit 10:  	June 14th  Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -277,16 +273,14 @@ Videos:
 - <a href="https://youtu.be/M0TvMshLveQ" target="_blank">Introduction to  Vocabularies &amp; Linked Data</a> [39:36] 
 
 
-
 Presentation:
 
 - <a href="https://drive.google.com/file/d/1Rva3F8lkNRDjNohvHPvTQZed32xL0J_F/view?usp=sharing" target="_blank">Introduction to  Vocabularies &amp; Linked Data</a> [.pdf]
 
 
-
 ------------
 
-# Unit 11:  November 13th Project Planning
+# Unit 11:  June 17th Project Planning
 
 Readings:
 - <a href="http://dlib.org/dlib/march10/kucsma/03kucsma.html" target="_blank">Using Omeka to Build Digital Collections: The METRO Case Study by</a>Kucsma, Reiss, & Sidman (2010) in D-Lib
@@ -303,15 +297,16 @@ Presentation:
  - None 
 
 ------------
+# No Class:  June 19th Juneteenth
+------------
 
 
-# Unit 12: 	November 20th  Sustainability & Preservation
+# Unit 12: 	June 21st  Sustainability & Preservation
 
 Readings:
 
  - Optional ~ <a href="https://ejournals.bc.edu/index.php/ital/article/view/2167/pdf" target="_blank">"Practical Limits to the Scope of Digital Preservation" by Kastellec (2012)</a>
 - Optional ~ <a href="http://libproxy.albany.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=lih&AN=47797788&site=eds-live&scope=site" target="_blank">"Preservation in the Age of Google" by Conway (2010)</a>
-
 
 
 Videos:
@@ -328,16 +323,15 @@ Presentation:
 ------------
 
 
-# Unit 13: November 27th Open Lab 
+# Unit 13:  June 24th Open Lab 
 
 - Work on Final Project and Test 2
 
 ------------
 
-# Final Day	December 4th Open Lab
+# Final Day June 29th	 Open Lab
 
-**Everything Must Be Handed In By Date: 
-Wednesday, December 6th**
+**Everything Must Be Handed In By Date: Friday, June 29th**
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement

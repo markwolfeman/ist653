@@ -4,8 +4,8 @@ title: Syllabus
 permalink: /syllabus/
 ---
 # Course Information
-IST 653 / 3 Credits / Fall 2023
-<br/>August 21 - December 6, 2023
+IST 653 / 3 Credits / Fall 2024
+<br/>May 20 - July 3, 2024
 <br/>Fully Online (100%)
 
 # Instructor Information
