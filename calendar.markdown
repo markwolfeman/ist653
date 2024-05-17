@@ -12,9 +12,9 @@ Readings:
 
 Videos:
 
-- <a href="https://www.youtube.com/watch?v=GaE30fNrEPQ" target="_blank">Course Welcome &amp; Meet the Instructor</a>[12:36 min.]
-- <a href="https://youtu.be/NLsDkxZTno0" target="_blank">Overview of Course Part 1</a> [17:13 min.]
-- <a href="https://youtu.be/YAb05GfEVqA" target="_blank">Overview of Course Part 2</a> [20:46 min.]
+- <a href="https://youtu.be/eK1SrjJ6OEM" target="_blank">Course Welcome &amp; Meet the Instructor</a>[9:21 min.]
+- <a href="" target="_blank">Overview of Course Part 1</a> [: min.]
+- <a href="" target="_blank">Overview of Course Part 2</a> [:min.]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a> [46:19 min.]
 
 Presentation:
@@ -57,7 +57,7 @@ Videos:
 Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a> [ppt]
 
-- <a href="https://markwolfeman.github.io/ist653/assignments/homework1" target="_blank">Homework 1 released</a> **Due:**
+- <a href="https://markwolfeman.github.io/ist653/assignments/homework" target="_blank">Homework 1 released</a> **Due:**
 
 
 Discussion & Exercise:
@@ -156,7 +156,7 @@ Technology downloads:
 
 - <a href="https://www.adobe.com/products/bridge.html" target="_blank">Adobe Bridge</a> 
 
-- <a href="https://markwolfeman.github.io/ist653/assignments/homework2" target="_blank">Homework 2 released</a>  **Due:**
+- <a href="https://markwolfeman.github.io/ist653/assignments/homework" target="_blank">Homework 2 released</a>  **Due:**
 
 ------------
 
@@ -319,9 +319,7 @@ Presentation:
 
 - None
 
-
 ------------
-
 
 # Unit 13:  June 24th Open Lab 
 

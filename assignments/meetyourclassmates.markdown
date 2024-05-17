@@ -19,4 +19,4 @@ permalink:
 - Have you taken an online class? If so, how many?
 
 
-**Due: Wednesday August 23rd**
+**Due: Wednesday, May 22nd**
