@@ -53,7 +53,7 @@ Except for the two tests, all assignments will be group oriented projects. You m
 
 # Readings
 
-Readings are due on the Unit day they are listed on the syllabus. For example, it is assumed you will complete Unit 2's Carr (2012) reading by the start or during the early part of Unit 2. Because the class has no "meeting time," you should not use that flexibility to push everything to the very end of the unit. The presentations, exercises, and assignments are created with the assumption that you've already completed the readings. The sooner you begin the week's materials, the more relavant your questions and participation on Brightspace will be. 
+Readings are due on the Unit day they are listed on the syllabus. For example, it is assumed you will complete Unit 2's Carr (2012) reading by the start or during the early part of Unit 2. Because the class has no "meeting time," you should not use that flexibility to push everything to the very end of the unit. The presentations, exercises, and assignments are created with the assumption that you've already completed the readings. The sooner you begin the unit's materials, the more relavant your questions and participation on Brightspace will be. 
 
 # Discussions & Exercises
 
