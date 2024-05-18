@@ -327,9 +327,9 @@ Presentation:
 
 ------------
 
-# Final Day June 29th	 Open Lab
+# Final Day June 28th	 Open Lab
 
-**Everything Must Be Handed In By Date: Friday, June 29th**
+**Everything Must Be Handed In By Date: Friday, June 28th**
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement
