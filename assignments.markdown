@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assignments
-permalink: /assignments/
+title: Homeworks
+permalink: /homeworks/
 ---
 
 ![homework](/assets/hw.jpg) [Homework 1]() Digital Library Report **Due:**

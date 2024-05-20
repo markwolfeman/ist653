@@ -56,7 +56,6 @@ Videos:
 
 Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a> [ppt]
-
 - <a href="https://markwolfeman.github.io/ist653/assignments/homework" target="_blank">Homework 1 released</a> **Due:**
 
 
