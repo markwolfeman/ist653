@@ -14,15 +14,14 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (Batchker, Beauregard &amp; Bhagat) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
-- Group 2: (Brisbin, Bronder-Major, &amp; Charlebois) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
-- Group 3: (Dobson, Daly &amp; Ebbecke )<a href="https://dp.la/" target="_blank">DPLA</a> 
-- Group 4: (Fernandez, Holladay  &amp; Keefe )<a href="https://archives.jacobspillow.org/" target="_blank">Jacob's Pillow</a> 
-- Group 5: (Klein, Lavigna &amp; Ling) <a href="https://breuer.syr.edu/" target="_blank">Marcel Breuer Digital Archive</a> 
-- Group 6: (Massand, Pascarella &amp; Payne) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
-- Group 7: (Price, Reese &amp; Rodriguez)<a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
-- Group 8: (Rothman, Simonds &amp; Stowell) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
-- Group 9: (Thompson, Watson &amp; Wells )<a href="http://peacockroom.wayne.edu/" target="_blank">The Story of the Beautiful</a> 
+- Group 1: (Basher, Bonaro  &amp;Case) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
+- Group 2: (Cesareo, Cremo &amp;Gale) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
+- Group 3: (Graham, Gunther &amp;Helein)<a href="https://dp.la/" target="_blank">DPLA</a> 
+- Group 4: (Jules,Livingston   &amp;Lyons)<a href="https://breuer.syr.edu/" target="_blank">Marcel Breuer Digital Archive</a> 
+- Group 5: (Ng, Rivera &amp;Rogers) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
+- Group 6: (Ryan, Smalls &amp; Spaulding )<a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
+- Group 7: (Stout &amp; Vela-Hayes) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
+
 
 # Part 1 Institution
 
@@ -40,23 +39,24 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 - What kinds of materials are housed (audio, text, video, images etc.)?
 - Can you estimate how many objects are contained in the repository?
-- Are the materials archival, scientific, data?
-- Is it one digital library or perhaps multiple ones? 
-- Can you identify the metadata standard? If so, describe?
+- Are the materials archival, scientific, data? Describe the type of content.
+- On a spectrum of "highly curated" to a "clearing house of everything", where does this library reside? Briefly explain why.
+- Is it one digital library or perhaps multiple ones?
+- Based on your own experience, best describe the community of users for this library, general audience? scholars? K-12?
 - Do you have to download in order to access the object, or it accessibly natively in its environment?
-- Describe briefly any digitization standards, equipment, or standards. 
-- Are they &quot;harvesting&quot; metadata/digital materials from other collections?
+
 
 
 # Part 3 Technical Infrastructure, Search and User Interface
 
 - Is the system a open source product? In-house designed? or Proprietary?
-- Is it housed locally? or a hosted service?
-- Can you download objects?
+- Are they &quot;harvesting&quot; metadata/digital materials from other collections?
 - Can you browse? keyword search? faceted search?
-- Can you create an account? If so, is there a cost?
-- Guide to searching techniques?
-- In an About page etc., can learn other features that are technical related?
+- Describe briefly any digitization standards, equipment, or standards.
+- Can you identify the metadata standard? If so, describe.
+- Is there a guide to searching techniques?
+- Briefly, do you feel the website has a good user interface, look and feel?
+- In an About page for example, can learn other features that are technical related?
 
 This assignment is worth **10 points.**
 
