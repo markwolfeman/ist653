@@ -14,12 +14,12 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (Basher, Bonaro  &amp;Case) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
-- Group 2: (Cesareo, Cremo &amp;Gale) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
-- Group 3: (Graham, Gunther &amp;Helein)<a href="https://dp.la/" target="_blank">DPLA</a> 
-- Group 4: (Jules,Livingston   &amp;Lyons)<a href="https://breuer.syr.edu/" target="_blank">Marcel Breuer Digital Archive</a> 
-- Group 5: (Ng, Rivera &amp;Rogers) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
-- Group 6: (Ryan, Smalls &amp; Spaulding )<a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
+- Group 1: (Basher, Bonaro  &amp; Case) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
+- Group 2: (Cesareo, Cremo &amp; Gale) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
+- Group 3: (Graham, Gunther &amp; Helein) <a href="https://dp.la/" target="_blank">DPLA</a> 
+- Group 4: (Jules,Livingston   &amp; Lyons) <a href="https://breuer.syr.edu/" target="_blank">Marcel Breuer Digital Archive</a> 
+- Group 5: (Ng, Rivera &amp; Rogers) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
+- Group 6: (Ryan, Smalls &amp; Spaulding ) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
 - Group 7: (Stout &amp; Vela-Hayes) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
 
 
@@ -60,4 +60,4 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 This assignment is worth **10 points.**
 
-**Due** 
+**Due Tuesday May, 28th** by 9am
