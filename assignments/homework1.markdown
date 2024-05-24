@@ -14,13 +14,13 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (Basher, Bonaro  &amp; Case) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
-- Group 2: (Cesareo, Cremo &amp; Gale) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
-- Group 3: (Graham, Gunther &amp; Helein) <a href="https://dp.la/" target="_blank">DPLA</a> 
-- Group 4: (Jules,Livingston   &amp; Lyons) <a href="https://breuer.syr.edu/" target="_blank">Marcel Breuer Digital Archive</a> 
-- Group 5: (Ng, Rivera &amp; Rogers) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
-- Group 6: (Ryan, Smalls &amp; Spaulding ) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
-- Group 7: (Stout &amp; Vela-Hayes) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
+- Group 1: (Owen Basher, Alyssa Bonaro  &amp; Joanna Case) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
+- Group 2: (Mario Cesareo, Hannah Cremo &amp; Ezra Gale) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
+- Group 3: (Danielle Graham, Rachel Gunther &amp; Conan Helein) <a href="https://dp.la/" target="_blank">DPLA</a> 
+- Group 4: (Jessica Jules, Matt Livingston &amp; Fiona Lyons) <a href="https://breuer.syr.edu/" target="_blank">Marcel Breuer Digital Archive</a> 
+- Group 5: (Cynthia Ng, Maylin Rivera &amp; Krista Rogers) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
+- Group 6: (Thomas Ryan, Zaria Smalls &amp; Shelby Spaulding ) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
+- Group 7: (Halle Stout &amp; Teresa Vela-Hayes) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
 
 
 # Part 1 Institution
