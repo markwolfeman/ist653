@@ -43,16 +43,16 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - On a spectrum of "highly curated" to a "clearing house of everything", where does this library reside? Briefly explain why.
 - Is it one digital library or perhaps multiple ones?
 - Based on your own experience, best describe the community of users for this library, general audience? scholars? K-12?
-- Do you have to download in order to access the object, or it accessibly natively in its environment?
+- Can you describe the viewer functionality for the digital objects?  Is it merely a thumbnail of the image or something you can zoom in, resize the object, maybe a "playlist"  If it's a magazine, is there an ability to "thumb" through the pages or have a page turner?
 
 
 
 # Part 3 Technical Infrastructure, Search and User Interface
 
 - Is the system a open source product? In-house designed? or Proprietary?
-- Are they &quot;harvesting&quot; metadata/digital materials from other collections?
+- Are they &quot;harvesting&quot; metadata/digital materials from other collections? If so, please describe.
 - Can you browse? keyword search? faceted search?
-- Describe briefly any digitization standards, equipment, or standards.
+- Describe briefly any digitization standards, equipment, or standards, at least what you can infer.
 - Can you identify the metadata standard? If so, describe.
 - Is there a guide to searching techniques?
 - Briefly, do you feel the website has a good user interface, look and feel?
