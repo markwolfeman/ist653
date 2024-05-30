@@ -20,7 +20,7 @@ Install software:
 
 - Check your current OS by clicking on the Apple icon in the upper left corner of the screen. 
 
-![](/assets/what-mac-os-version-running.jpg)
+![](/assets/whatmacosversionrunning.jpg)
 
   
 **Due: Sunday, June 2nd**
