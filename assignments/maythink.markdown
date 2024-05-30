@@ -3,7 +3,7 @@ layout: default
 title: 
 permalink:
 ---
-<h1>"AS WE MAY THINK" Exercise</h1>
+<h1>"As We May Think" Exercise</h1>
 
 In the Brightspace Discussions tool, answer one of the questions below based on the reading by Vanavar Bush, and comment on a fellow student's post. Your posted answer should be approximately _75 - 100 words_, and the comment, a sentence or two. 
 

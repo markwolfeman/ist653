@@ -34,7 +34,7 @@ Disscussion:
 
 Exercises:
 
-- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates) **Due:**
+- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates) 
 - Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive, albeit dated, it covers the fundamentals nicely.
 
 ------------
@@ -56,12 +56,12 @@ Videos:
 
 Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit2/Foundations%20of%20Digital%20Libraries.pptx" target="_blank">Foundations of Digital Libraries</a> [ppt]
-- <a href="https://markwolfeman.github.io/ist653/assignments/homework" target="_blank">Homework 1 released</a> **Due:**
+- <a href="https://markwolfeman.github.io/ist653/assignments/homework" target="_blank">Homework 1 released</a> 
 
 
 Discussion & Exercise:
 
-- ["As We May Think"]() questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. **Due:** 
+- ["As We May Think"]() questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. 
 
 ------------
 # No Class:  May 27th Memorial Day
@@ -115,14 +115,8 @@ Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/unit4/filenaming_and_embedded_metadata.pptx" target="_blank">Filenaming & Embedded Metadata "Managing Digital Assets</a> [.ppt]
  
 
-Technology / Exercise  **Due:**  
-- Install the Renamer and PhotoScape software and experiment on a folder of photos. Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. Once installed, post a comment to the Unit 4 exercise discussion forum. Just a "great success" is fine or if you want to write more or ask questions, please do. Of course, if you have issues, please post them as well.
-
-Install software:
-- <a href="http://www.den4b.com/?x=products&product=renamer" target="_blank">Renamer (PC)</a>
-- <a href="https://renamer.com/" target="_blank">Renamer (for Mac)</a>
-- <a href="https://renamer.com/support.html" target="_blank">Renamer (for Mac **older versions**)</a>
-- <a href="http://x.photoscape.org/" target="_blank">PhotoScape for Mac and Win</a> 
+Technology / Exercise  
+- [Install the Renamer and PhotoScape software and experiment.](https://markwolfeman.github.io/ist653/assignments/renamerphotoscape) 
 
 
 ------------
