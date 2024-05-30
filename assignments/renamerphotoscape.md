@@ -6,7 +6,7 @@ permalink:
 
 <h1>Install the Renamer and PhotoScape</h1>
 
-- Make sure your folder of images has been backed up or are not important! Following the two videos above (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. 
+- Make sure your folder of images has been backed up or are not important! Following the two videos in Unit 4 (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. 
 - Once installed, post a comment to the Unit 4 exercise discussion forum. Just a “great success” is fine or if you want to write more or ask questions, please do. 
 - Of course, if you have issues, please post them as well.
 
@@ -22,7 +22,7 @@ Install software:
 
 - Check your current OS by clicking on the Apple icon in the upper left corner of the screen. 
 
-![images](/assets/whatmacosversionrunning.jpg)
+![images](assets/whatmacosversionrunning.jpg)
 
   
 **Due: Sunday, June 2nd**
