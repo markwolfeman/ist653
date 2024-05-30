@@ -19,7 +19,7 @@ Install software:
 - <a href="https://renamer.com/support.html" target="_blank">Older versions of Renamer for Mac--scroll down.</a>  
 
 - Check your current OS by clicking on the Apple icon in the upper left corner of the screen. 
-![](/assets/what-mac-os-version-running.jpg.jpg)
+![](/assets/what-mac-os-version-running.jpg)
 
   
 **Due: Sunday, June 2nd**
