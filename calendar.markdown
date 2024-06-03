@@ -149,7 +149,7 @@ Technology downloads:
 
 - <a href="https://www.adobe.com/products/bridge.html" target="_blank">Adobe Bridge</a> 
 
-- <a href="http://x.photoscape.org/" target="_blank"> Install Photoscape X (Mac & Win)</a> if you have already
+- <a href="http://x.photoscape.org/" target="_blank"> Install Photoscape X (Mac & Win)</a> if you have not already
 
 - <a href="https://markwolfeman.github.io/ist653/assignments/homework" target="_blank">Homework 2 released</a>  **Due: TBA**
 
