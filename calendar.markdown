@@ -137,8 +137,8 @@ Videos:
 	- <a href="https://www.youtube.com/watch?v=959hYLK40gE" target="_blank">Part 3</a> [3:28]
 	- <a href="https://www.youtube.com/watch?v=VWaIe2u8zRU" target="_blank">Part 4</a> [1:44]
 
-- <a href="https://youtu.be/mRkKZEWj2Jw" target="_blank">Create watermarks with PhotoScape (Mac)</a> [6:27]
-- <a href="https://youtu.be/mRkKZEWj2Jw" target="_blank">Resize multiple images with PhotoScape (Mac)</a> [3:03]
+- <a href="https://youtu.be/mRkKZEWj2Jw" target="_blank">Create watermarks with PhotoScape X (Mac)</a> [6:27]
+- <a href="https://youtu.be/mRkKZEWj2Jw" target="_blank">Resize multiple images with PhotoScape X (Mac)</a> [3:03]
 
 
 Presentation:
@@ -149,7 +149,7 @@ Technology downloads:
 
 - <a href="https://www.adobe.com/products/bridge.html" target="_blank">Adobe Bridge</a> 
 
-- Install Photoscape (Mac & Win)
+- <a href="http://x.photoscape.org/" target="_blank"> Install Photoscape X (Mac & Win)</a> if you have already
 
 - <a href="https://markwolfeman.github.io/ist653/assignments/homework" target="_blank">Homework 2 released</a>  **Due: TBA**
 
