@@ -227,7 +227,7 @@ Presentation:
 
 ------------
 
-# Unit 9:   June 12th  Metadata & Open Refine
+# Unit 9:   June 14th  Metadata & Open Refine
 
 Readings:
 - <a href="http://labs.timtom.ch/library-openrefine/" target="_blank">OpenRefine Lessons for Librarians</a> (NOT required, just for future reference)
@@ -255,7 +255,7 @@ Exercise:   Install OpenRefine and edit metadata
 
 ------------
 
-# Unit 10:  	June 14th  Linked Data & Controlled Vocabularies 
+# Unit 10:  	June 17th  Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -274,8 +274,10 @@ Presentation:
 
 
 ------------
+# No Class:  June 19th Juneteenth
+------------
 
-# Unit 11:  June 17th Project Planning
+# Unit 11:  June 21st Project Planning
 
 Readings:
 - <a href="http://dlib.org/dlib/march10/kucsma/03kucsma.html" target="_blank">Using Omeka to Build Digital Collections: The METRO Case Study by</a>Kucsma, Reiss, & Sidman (2010) in D-Lib
@@ -292,11 +294,9 @@ Presentation:
  - None 
 
 ------------
-# No Class:  June 19th Juneteenth
-------------
 
 
-# Unit 12: 	June 21st  Sustainability & Preservation
+# Unit 12: 	June 24th  Sustainability & Preservation
 
 Readings:
 
@@ -316,7 +316,7 @@ Presentation:
 
 ------------
 
-# Unit 13:  June 24th Open Lab 
+# Unit 13:  June 26th Open Lab 
 
 - Work on Final Project and Test 2
 
