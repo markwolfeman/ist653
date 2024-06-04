@@ -61,7 +61,7 @@ You've been given a collection of digitized images, but before they go into the 
 		- <a href="https://www.youtube.com/watch?v=4-HwMuK4muk" target="_blank">Resize multiple images with PhotoScape X (Windows)</a> [2:48]
 <br/>
 
-- **Due: Sunday, June 9th** 
+- **Due: Due Monday, June 10th by 9am** 
 
 - Assignment is worth 10 points. 
 
