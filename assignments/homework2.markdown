@@ -27,7 +27,6 @@ You've been given a collection of digitized images, but before they go into the 
 	- <u>change case</u> of file extension from upper to lowercase
 	- <u>serialize</u> your file names, add leading zeros for 6 character serial, for example "000001.jpg"
 	- <u>make lowercase</u> and <u>remove</u> unconventional characters or spacings
-	- <u>append</u> Exif Date, just the year <span style="font-family:Courier">(YYYY)</span>, for example "2001_000001.jpg" to the file name by clicking on <span style="font-family:Courier">Insert Meta Tag</span>, located here: <a href="https://markwolfeman.github.io/ist653/assignments/insert_meta_tag.JPG" target="_blank">ReNamer button</a>
 	- insert your college name i.e., "Bunyan College" into the filename
 	- format your file name so it goes from general to particular, left to right, for a final file name that looks like this example "bun_bunyan_college_2001_000001.jpg"
 
