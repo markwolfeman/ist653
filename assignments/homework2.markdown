@@ -57,7 +57,7 @@ You've been given a collection of digitized images, but before they go into the 
 		- <a href="https://youtu.be/mRkKZEWj2Jw" target="_blank">Create watermarks with PhotoScape X (Mac)</a> [6:27]
 		- <a href="https://youtu.be/Ge597hI9_fY" target="_blank">Create watermarks with PhotoScape X (Windows)</a> [3:03]
 	- Reduce images in size using Resize Images section on the last tab, files should be about 100k per file
-		- <a href="https://studio.youtube.com/video/4Kf5vDvElGE/edit" target="_blank">Resize multiple images with PhotoScape X (Mac)</a> [3:03]
+		- <a href="https://youtu.be/4Kf5vDvElGE?si=e4c2Otb6CeDSrrU6" target="_blank">Resize multiple images with PhotoScape X (Mac)</a> [3:03]
 		- <a href="https://youtu.be/4-HwMuK4muk?si=UsjEtQMJoF9kbjKw" target="_blank">Resize multiple images with PhotoScape X (Windows)</a> [2:48]
 <br/>
 <br/>
