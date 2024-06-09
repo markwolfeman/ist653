@@ -190,8 +190,8 @@ Readings:
 
 Videos:
 
-- <a href="https://youtu.be/6xFmFrpDMwQ" target="_blank">Introduction to Metadata</a>[40:36]
-- <a href="https://youtu.be/-kN-oY3hDyg" target="_blank">Introduction to XML</a>[44:58]
+- <a href="https://youtu.be/6xFmFrpDMwQ" target="_blank">Introduction to Metadata</a> [40:36]
+- <a href="https://youtu.be/-kN-oY3hDyg" target="_blank">Introduction to XML</a> [44:58]
 - <a href="https://www.youtube.com/watch?v=b27DeLZvkTo&amp;feature=youtu.be" target="_blank">XML Coders Boot Camp</a>
 
      
@@ -200,15 +200,17 @@ Presentation:
 - <a href="https://drive.google.com/file/d/1gCcET61X1eQ_VSH_7BznlM42Qdmfa0_V/view?usp=sharing" target="_blank">Introduction to XML</a> [.pdf]
 
 
-Exercise:  (**Install XML editor Due:**)
-- <a href="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html" target="_blank">Oxygen XML Editor (30 day trial) Mac and PC</a> 
-
-
-- [Post on the Unit 7 discussion board]once successfully installed.
+Exercise: 
 
 Click on these links, and review them briefly. They are basically the same
 - <a href="https://nsteffel.github.io/dublin_core_generator/" target="_blank">Dublin Core Generator</a> 
 - <a href="https://ockier.es/dublin-core/en-dublin-core.php" target="_blank">Dublin Core Generator form by Nicolás Ockier</a>
+
+- Install Oxygen XML Editor's 30 day trial license. 
+- <a href="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html" target="_blank">Oxygen XML Editor (30 day trial) Mac and PC</a> 
+- Once installed, please post to the Discussion Board, and please let me know (briefly) if have heard of XML before and/or familiar with the markup language. 
+
+**Due: Wednesday, June 12th**
 
 
 ------------
