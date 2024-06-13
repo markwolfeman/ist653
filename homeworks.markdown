@@ -10,7 +10,7 @@ permalink: /homeworks/
 
 ![homework](/assets/hw.jpg) [Test 1]() (navigate to "Quizes" in Brightspace to take Test 1  **Due Monday June 17th at 9am**
 
-![homework](/assets/hw.jpg) [Homework 3]() Metadata and XML **Due Thursday June 20th at 9am**
+![homework](/assets/hw.jpg) [Homework 3](https://markwolfeman.github.io/ist653/assignments/homework3) Metadata and XML **Due Thursday June 20th at 9am**
 
 ![homework](/assets/hw.jpg) [Homework 4]() Create an Omeka Digital Library **Due**
 
