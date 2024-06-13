@@ -16,13 +16,11 @@ The objective of this homework is to mark up your assigned images from Homework 
 # Part 1 (5 points)
 - Omeka's <a href="https://omeka.org/classic/docs/Content/Working_with_Dublin_Core/" target="_blank">"Working with Dublin Core"</a> and
 - <a href="http://dublincore.org/documents/2000/07/16/usageguide/generic.shtml" target="_blank">Dublin Core.org's Generic Examples</a>
-
 - Use 5 of your images from Homework 2 to describe. 
-- Download <a href="https://markwolfeman.github.io/ist653/assignments/dc_hw3.xml" target="_blank">xml file</a>Right-click and choose "Save as" to project folder.
+- Download <a href="https://markwolfeman.github.io/ist653/assignments/dc_hw3.xml" target="_blank">xml file</a> Right-click and choose "Save as" to project folder.
 - Choose five images that are as different from each other as allowable. 
 - <a href="https://s-media-cache-ak0.pinimg.com/564x/25/9c/c4/259cc4503e54e6ead71cf02ae2a9c5d1.jpg" target="_blank">Class example link</a>
-- Use<a href="https://nsteffel.github.io/dublin_core_generator/" target="_blank">Advanced Dublin Core Generator</a>to encode your metadata
-
+- Use<a href="https://nsteffel.github.io/dublin_core_generator/" target="_blank"> Advanced Dublin Core Generator</a>to encode your metadata
 - Describe them using the DC fields: Title, Creator, Subject (limit to one), Description, Date and Date Created, Type, Format, and Indentifier (use the filename without format extension)
 - Generate XML for each image and cut and paste it into your .xml file. You will have five image records when you are done. <a href="https://markwolfeman.github.io/ist653/assignments/dc_hw3_example.xml" target="_blank">Completed XML file will look like this</a>
 - Remember to consult the <a href="http://id.loc.gov/authorities/subjects.html" target="_blank">Library of Congress Subject headings (LCSH) (new)</a>or the <a href="http://authorities.loc.gov/" target="_blank">older LCSH site</a>for guidance on your subject headings.
@@ -40,6 +38,6 @@ The objective of this homework is to mark up your assigned images from Homework 
 	- Why do you think the developers of Omeka have chosen <a href="http://omeka.org/forums/topic/omeka-and-mods-element-set" target="_blank">Dublin Core over MODS?</a>
 
 
-- It's worth 10 points and due **Wednesday, November 1st** 
+- It's worth 10 points and due **Thursday, June 20th at 9am** 
 - Submit via email as one .zip file (include .xml, and .doc files). 
 - Work in groups and share information on the discussion board--it will go faster!
