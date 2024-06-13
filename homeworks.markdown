@@ -10,7 +10,7 @@ permalink: /homeworks/
 
 ![homework](/assets/hw.jpg) [Test 1]() (navigate to "Quizes" in Brightspace to take Test 1. The test covers units 1-6 **Due Monday June 17th at 9am**
 
-![homework](/assets/hw.jpg) [Homework 3]() Metadata and XML **Due**
+![homework](/assets/hw.jpg) [Homework 3]() Metadata and XML **Due Thursday June 20th at 9am**
 
 ![homework](/assets/hw.jpg) [Homework 4]() Create an Omeka Digital Library **Due**
 
