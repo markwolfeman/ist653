@@ -8,7 +8,7 @@ permalink: /homeworks/
 
 ![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/homework2) Managing Image Files **Due Monday, June 10th by 9am**
 
-![homework](/assets/hw.jpg) [Test 1]() (navigate to "Quizes" in Brightspace to take Test 1. The test covers units 1-6 **Due Monday June 17th at 9am**
+![homework](/assets/hw.jpg) [Test 1]() (navigate to "Quizes" in Brightspace to take Test 1  **Due Monday June 17th at 9am**
 
 ![homework](/assets/hw.jpg) [Homework 3]() Metadata and XML **Due Thursday June 20th at 9am**
 
