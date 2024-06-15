@@ -12,5 +12,5 @@ permalink: /exercises/
 
 ![exercises](/assets/hw.jpg) [Unit 7](https://markwolfeman.github.io/ist653/assignments/installoxygen) Install Oxygen  **Due: Wednesday, June 12th**
 
-![exercises](/assets/hw.jpg) [Unit 9](https://markwolfeman.github.io/ist653/assignments/openrefine) Open Refine  **Due: Friday, June 21st**
+![exercises](/assets/hw.jpg) [Unit 9](https://markwolfeman.github.io/ist653/assignments/openrefine) Install OpenRefine and Edit Metadata  **Due: Friday, June 21st**
 
