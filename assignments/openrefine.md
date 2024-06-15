@@ -6,6 +6,7 @@ permalink:
 
 <h1>Install OpenRefine and Edit Metadata</h1>
 
+- <a href="https://youtu.be/a2QUsF2X68o" target="_blank">OpenRefine Introduction and Exercise overview</a>[15:52] 
 - Install OpenRefine on your computer- <a href="https://openrefine.org/" target="_blank">https://openrefine.org/</a>, watch the installation video above.
 - After watching exercise overview video, download dataset to computer and import <a href="https://drive.google.com/file/d/1dVjoNjMZuyhPgUqHScfCm4zEuNsd2S4Q/view" target="_blank">Indian Food 101 .csv</a>, click download in uppper right hand corner
 - Follow instructions in exercise overview video

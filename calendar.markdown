@@ -248,8 +248,7 @@ Videos:
 
 Presentation:
 
-- <a href="https://docs.google.com/presentation/d/1zTJY9WgjQAkdf3s4h3S06SzfYn6OJD2ys5LGAkJxGuM/edit?usp=sharing" target="_blank">OpenRefine Introduction and Exercise overview
-</a>  
+- <a href="https://docs.google.com/presentation/d/1zTJY9WgjQAkdf3s4h3S06SzfYn6OJD2ys5LGAkJxGuM/edit?usp=sharing" target="_blank">OpenRefine Introduction and Exercise overview</a> [.pdf]  
 
 Exercise:   Install OpenRefine and Edit Metadata
 
