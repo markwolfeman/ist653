@@ -39,5 +39,6 @@ permalink:
 
 - **Note**: everything in your site can be updated and/or changed at a later date!
 - This assignment is worth 10 points 
-- **Due: Sunday June 23rd**. 
-- E-mail me the URL to your site.
+- E-mail me the URL to your site
+- **Due: Sunday June 23rd**
+
