@@ -25,7 +25,7 @@ permalink:
   
 - On the Dashboard page, click &quot;Add a Site&quot;
 
-	-	Develop a theme that characterizes the digital content you want to  put deposit or exhibit. This can be anything:   &ldquo;My Family History&rdquo; &ldquo;The History of Motorcycles&rdquo;   &ldquo;Squirrels of North America&rdquo; &ldquo;FDR&rsquo;s Alphabet Soup Programs&rdquo;  &ldquo;Illustration in Historical Children&rsquo;s  Literature&rdquo; &ldquo;Logging in the Adirondacks&rdquo; &quot;History of Student Groups at the University at Albany&quot;. Just be sure that you can find some content to put in the site that is related to the theme. This is an educational site, so you should have a lot of lee-way, and something you're interested in.</p>
+	-	Develop a theme that characterizes the digital content you want to deposit or exhibit. This can be anything:   &ldquo;My Family History&rdquo; &ldquo;The History of Motorcycles&rdquo;   &ldquo;Squirrels of North America&rdquo; &ldquo;FDR&rsquo;s Alphabet Soup Programs&rdquo;  &ldquo;Illustration in Historical Children&rsquo;s  Literature&rdquo; &ldquo;Logging in the Adirondacks&rdquo; &quot;History of Student Groups at the University at Albany&quot;. Just be sure that you can find some content to put in the site that is related to the theme. This is an educational site, so you should have a lot of lee-way, and something you're interested in.</p>
 	- Enter your subdomain name, title, and description--they should reflect the theme of your site.
 
 - On Dashboard, click &quot;Manage Site&quot;
@@ -33,11 +33,11 @@ permalink:
 	- Choose and configure a theme after watching this video, <a href="https://vimeo.com/103132986" target="_blank">Omeka Classic: Modifying Appearance</a>
 	- Create Header and Footer. 
 	- Create a collection
-	- Add 2 Items to that collection
+	- Add 2 Items (images) to that collection
 
 <br/>
 
 - **Note**: everything in your site can be updated and/or changed at a later date!
 - This assignment is worth 10 points 
-- **Due: Friday, November 10th**. 
+- **Due: Sunday June 23rd**. 
 - E-mail me the URL to your site.
