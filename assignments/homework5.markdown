@@ -45,7 +45,7 @@ permalink:
 
 ----------------
 
-- **Due Sunday, November 19th** 
+- **Due:  Monday June 24th** 
 - This assignment is worth 10 points. 
 - Email me the link to your Omeka site. 
 - You can work in groups and help each other on the discussion board, but you must progress with your *own* Omeka site.

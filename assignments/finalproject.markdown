@@ -10,7 +10,6 @@ permalink:
 - <a href="https://youtu.be/RkGeFUEuW2I" target="_blank">Video Overview for Final Project</a> [7:51]
 
 
-
 Using Omeka, you will demonstrate your ability to build a small repository of images using primary and/or secondary sources. Take those images and create a coherent and compelling story through an on-line exhibit.
 
 **Part 1 (15 points) Install Exhibit Builder plugin**
@@ -50,8 +49,7 @@ Using Omeka, you will demonstrate your ability to build a small repository of im
 
   
 - This assignment is worth 30 points. 
-- **Due Wednesday, December 6th**
+- **Due Friday, June 28th**
 - Once completed, email me the link to your Omeka website. 
-
 - This is a group assignment, so feel free to help, suggest and comment on each other's work and questions on the discussion board.  
 
