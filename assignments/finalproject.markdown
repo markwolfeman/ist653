@@ -49,7 +49,7 @@ Using Omeka, you will demonstrate your ability to build a small repository of im
 
   
 - This assignment is worth 30 points. 
-- **Due Friday, June 28th**
+- **Due Sunday, June 30th by Midnight**
 - Once completed, email me the link to your Omeka website. 
 - This is a group assignment, so feel free to help, suggest and comment on each other's work and questions on the discussion board.  
 
