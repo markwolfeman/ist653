@@ -18,7 +18,7 @@ permalink: /homeworks/
 
 ![homework](/assets/hw.jpg) [Final Project](https://markwolfeman.github.io/ist653/assignments/finalproject) Build a Small Repository and Digital Exhibit **Due Friday, June 28th**
 
-![homework](/assets/hw.jpg) [Test 2](https://markwolfeman.github.io/ist653/assignments/test2) Create a Job Announcement **Due Friday, June 28th**
+![homework](/assets/hw.jpg) [Test 2](https://markwolfeman.github.io/ist653/assignments/test2) Create a Job Announcement **Due Friday, June 28th by midnight**
 
 
 
