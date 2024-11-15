@@ -36,6 +36,8 @@ permalink:
 **Past Student Projects**
 
   Some ideas for your final project, which will grow out of homework 5. Look at the topics and designs, but please don't work past the above required tasks.
+  
+- <a href="https://bewitchingstitching.omeka.net/" target="_blank">Bewitching Stitching</a>
 - <a href="http://hemingwayatkeywest.omeka.net/" target="_blank">Hemingway's Home</a>
 - <a href="http://souvenirbuildings.omeka.net" target="_blank">Souvenir Buildings</a>
 - <a href="http://exoticfish.omeka.net/" target="_blank">Exotic Fish of the World</a>

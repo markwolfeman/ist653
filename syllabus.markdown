@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 # Course Information
-IST 653 / 3 Credits / Summer 2024
+IST 653 / 3 Credits / Summer 2025
 <br/>May 20 - June 28, 2024
 <br/>Fully Online (100%)
 

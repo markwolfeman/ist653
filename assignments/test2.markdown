@@ -57,7 +57,7 @@ We've spent the course exploring the domain of digitial libraries. In your "take
 ---------------
 
 - Test 2 is worth 15 points. 
-- **Due Friday, June 30th by midnight**
+- **Due Saturday, June 30th by midnight**
 - Email me the completed Word or PDF document
 
 
