@@ -26,7 +26,7 @@ Disscussion:
 - <a href="https://digitalcollections.tcd.ie/" target="_blank">Trinity College, Dublin Ireland</a>
 - <a href="https://archives.albany.edu/web/selections/" target="_blank">UAlbany Digtial Collections</a>
  - <a href="https://nsdl.oercommons.org/" target="_blank">National Science Digital Library</a>
-- <a href="http://www.marktwainproject.org/homepage.html" target="_blank">Mark Twain Project Online</a>
+- <a href="https://legacy.mtpo2.org/" target="_blank">Mark Twain Project Online</a>
 - <a href="http://vangoghletters.org/vg/" target="_blank">Vincent van Gogh: The Letters</a>
 - <a href="http://dp.la/" target="_blank">Digital Public Library of America</a>
 - <a href="https://nycopendata.socrata.com/" target="_blank">NYC OpenData</a>
