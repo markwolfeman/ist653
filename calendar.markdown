@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-# Unit 1: 	May 20th Course Introduction
+# Unit 1: 	May 27th Course Introduction
 
 Readings:
 
@@ -12,9 +12,9 @@ Readings:
 
 Videos:
 
-- <a href="https://youtu.be/eK1SrjJ6OEM" target="_blank">Course Welcome &amp; Meet the Instructor</a> [9:21 min.]
+- <a href="" target="_blank">Course Welcome &amp; Meet the Instructor</a> [ min.]
 - <a href="https://www.youtube.com/watch?v=NLsDkxZTno0" target="_blank">Overview of Course Part 1</a> [17:14 min.]
-- <a href="https://www.youtube.com/watch?v=jyplpSsp_dc" target="_blank">Overview of Course Part 2</a> [15:23 min.]
+- <a href="" target="_blank">Overview of Course Part 2</a> [.]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a> [46:19 min.]
 
 Presentation:
@@ -39,7 +39,7 @@ Exercises:
 
 ------------
 
-# Unit 2:  May 24th What is a Digital Library 
+# Unit 2:  May 30th What is a Digital Library 
 
 Readings:
 - <a href="https://www.clir.org/1998/07/clir-issues-number-4/" target="_blank">What Are Digital Libraries?</a> [Waters 1998]
@@ -63,11 +63,8 @@ Discussion & Exercise:
 
 - ["As We May Think"]() questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. 
 
-------------
-# No Class:  May 27th Memorial Day
-------------
 
-# Unit 3:  May 29th  Images (Digitization) 
+# Unit 3:  June 2nd  Images (Digitization) 
 Readings:
 
 - <a href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf" target="_blank">Introduction to Imaging (read: intro to p. 46)</a> Besser (2003) [.pdf]
@@ -89,7 +86,7 @@ Presentation:
 
 ------------
 
-# Unit 4: May 31st  Images (File Management) Part 1
+# Unit 4: June 4th  Images (File Management) Part 1
 
 Readings:
 
@@ -120,7 +117,7 @@ Technology / Exercise
 
 
 ------------
-# Unit 5: 	June 3rd  Images (File Management) Part 2
+# Unit 5: 	June 6th  Images (File Management) Part 2
 
 Readings:
 
@@ -159,7 +156,7 @@ Technology downloads:
 
 ------------
 
-# Unit 6:  	June  7th  Digital Audio and Video 
+# Unit 6:  	June  9th  Digital Audio and Video 
 
 Readings:
 
@@ -180,7 +177,7 @@ Presentation:
 
 ------------
 
-# Unit 7:  June 10th 	Metadata and XML
+# Unit 7:  June 11th 	Metadata and XML
 
 Readings:
 - <a href="https://drive.google.com/drive/folders/1ZjVql4F_YwP9CIbj3oQEAkw6TtsRn3VE?usp=drive_link" target="_blank">Chapters 1, &amp; 2 of Miller</a> 
@@ -210,11 +207,11 @@ Click on these links, and review them briefly. They are basically the same
 - <a href="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html" target="_blank">Oxygen XML Editor (30 day trial) Mac and PC</a> 
 - Once installed, please post to the Discussion Board, and please let me know (briefly) if have heard of XML before and/or familiar with the markup language. 
 
-**Due: Wednesday, June 12th**
+**Due:**
 
 
 ------------
-# Unit 8:  June 12th Choosing a Repository Architecture
+# Unit 8:  June 13th Choosing a Repository Architecture
 
 Readings:
 
@@ -233,7 +230,7 @@ Presentation:
 
 ------------
 
-# Unit 9:   June 14th  Metadata & Open Refine
+# Unit 9:   June 16th  Metadata & Open Refine
 
 Readings:
 - <a href="http://labs.timtom.ch/library-openrefine/" target="_blank">OpenRefine Lessons for Librarians</a> (NOT required, just for future reference)
@@ -260,7 +257,7 @@ Exercise:   Install OpenRefine and Edit Metadata
 
 ------------
 
-# Unit 10:  	June 17th  Linked Data & Controlled Vocabularies 
+# Unit 10:  	June 18th  Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -278,11 +275,7 @@ Presentation:
 - <a href="https://drive.google.com/file/d/1Rva3F8lkNRDjNohvHPvTQZed32xL0J_F/view?usp=sharing" target="_blank">Introduction to  Vocabularies &amp; Linked Data</a> [.pdf]
 
 
-------------
-# No Class:  June 19th Juneteenth
-------------
-
-# Unit 11:  June 21st Project Planning
+# Unit 11:  June 20th Project Planning
 
 Readings:
 - <a href="http://dlib.org/dlib/march10/kucsma/03kucsma.html" target="_blank">Using Omeka to Build Digital Collections: The METRO Case Study by</a>Kucsma, Reiss, & Sidman (2010) in D-Lib
@@ -301,7 +294,7 @@ Presentation:
 ------------
 
 
-# Unit 12: 	June 24th  Sustainability & Preservation
+# Unit 12: 	June 23rd  Sustainability & Preservation
 
 Readings:
 
@@ -321,15 +314,15 @@ Presentation:
 
 ------------
 
-# Unit 13:  June 26th Open Lab 
+# Unit 13:  June 25th Open Lab 
 
 - Work on Final Project and Test 2
 
 ------------
 
-# Final Day June 28th	 Open Lab
+# Final Day June 27th	 Open Lab
 
-**Everything Must Be Handed In By Date: Friday, June 28th**
+**Everything Must Be Handed In By Date: Friday, June 30th**
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement
