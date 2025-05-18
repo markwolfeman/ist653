@@ -13,7 +13,7 @@ Readings:
 Videos:
 
 - <a href="" target="_blank">Course Welcome &amp; Meet the Instructor</a> [ min.]
-- <a href="https://www.youtube.com/watch?v=NLsDkxZTno0" target="_blank">Overview of Course Part 1</a> [17:14 min.]
+- <a href="" target="_blank">Overview of Course Part 1</a> [17:14 min.]
 - <a href="" target="_blank">Overview of Course Part 2</a> [.]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a> [46:19 min.]
 
@@ -322,7 +322,7 @@ Presentation:
 
 # Final Day June 27th	 Open Lab
 
-**Everything Must Be Handed In By Date: Friday, June 30th**
+**Everything Must Be Handed In By Date: Monday, June 30th**
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement
