@@ -41,7 +41,7 @@ Upon completion of this course, students will:
 
 # Units 
 
-The first unit of class will begin **Tuesday, May 27th.** Each subsequent unit will be started on the date following the unit number. Each unit of course materials will be released at least three days in advance of the date on the schedule. The due date and time for each homework will be stated when released. 
+The first unit of class will begin **Tuesday, May 27th.** While the majority of the course content is released from the outset, I do release exercises and homeworks timed with the course content for that Unit. The due date and time for each homework will be stated when released. For class discussion and pacing of the course, it's important that we as a class do one unit at a time. 
 
 # Computer
 
@@ -65,7 +65,7 @@ We will be using several programs during the course, all of which will be availa
 
 # Homeworks & Final Project
 
-Your homeworks will consist of various hands-on assignments as well as written reports. The final project and ALL homeworks will completed as team-based assigments, but you will hand in individually usally via email.
+Your homeworks will consist of various hands-on assignments as well as written reports. The final project and ALL homeworks will completed as team-based assigments, but you will hand in individually usually via email.
 
 We use the Discussion tool in Brightspace to facilitate student collaboration and as a venue for asking questions. The group assignments and final project will use the Discussion tool to facilitate assignments. As with any community, the more you put into it, the more you will get in return. 
 
@@ -77,7 +77,7 @@ You will take two tests. Test 1 is administered via Brightspace and Test 2 is a 
 
 # Submission Process
 
-Submit all assignments as directed, it may be in email or on Brightspace. Homework submissions to the instructor should include a subject heading like the following, "IST 653 / Homework 3 submission." Homework will be graded and returned to you via email.
+Submit all assignments as directed, it may be in email or on Brightspace. Homework submissions to the instructor should include a subject heading like the following, "IST 653 / Homework 3 submission." Homework will be graded and returned to you via email. I will give you a grade for all homeworks, projects and tests via email. For exercises, I will give credit for your submission to the Discussion board merely by my posting comment or response.  
 
 # Disability Support
 
