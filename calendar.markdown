@@ -13,8 +13,8 @@ Readings:
 Videos:
 
 - <a href="https://youtu.be/WvUotijWD6k" target="_blank">Welcome to IST 653 Digital Libraries Summer Session 2025</a> [9:24 min.]
-- <a href="" target="_blank">Overview of Course Part 1</a> [17:14 min.]
-- <a href="" target="_blank">Overview of Course Part 2</a> [.]
+- <a href="" target="_blank">Overview of Course Part 1</a> [: min]
+- <a href="" target="_blank">Overview of Course Part 2</a> [: min]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a> [46:19 min.]
 
 Presentation:
