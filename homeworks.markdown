@@ -8,7 +8,7 @@ permalink: /homeworks/
 
 ![homework](/assets/hw.jpg) [Homework 2]() Managing Image Files **Due:**
 
-![homework](/assets/hw.jpg) [Test 1]() (navigate to "Quizes" in Brightspace to take Test 1  **Due:**
+![homework](/assets/hw.jpg) [Test 1]() (navigate to "Quizes" in Brightspace to take Test 1)  **Due:**
 
 ![homework](/assets/hw.jpg) [Homework 3]() Metadata and XML **Due:**
 
