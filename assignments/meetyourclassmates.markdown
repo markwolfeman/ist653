@@ -6,7 +6,7 @@ permalink:
 
 <h1>Meet Your Classmates</h1>
 
-- <a href="https://youtu.be/_w0f-fvXp1Y" target="_blank">Exercise Overview</a>video [3:18 minutes]
+<p><a href="https://youtu.be/_w0f-fvXp1Y" target="_blank">Exercise Overview</a>  video [3:18 minutes]</p>
 
 - Using the forum "Meet Your Classmates" on the Discussions in Brightspace, create a thread that gives information about yourself. If you want to post a picture or links related to the questions below, please do. 
 
