@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meet Your Classmates
+title: 
 permalink:
 ---
 
