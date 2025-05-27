@@ -6,7 +6,7 @@ permalink:
 
 <h1> Homework 1</h1>
 
-- <a href="https://youtu.be/MKi1HaGps38?si=2KYuupI9xQ1FCfrt" target="_blank">Homework 1 overview</a> [3:56 minutes]
+- <a href="" target="_blank">Homework 1 overview</a> [: minutes]
 
 Each group is assigned a digital library to evaluate. Students will need to address the questions below, and present to the class on the disccusion board. Answer the questions in your own words, in complete sentences, and don't merely copy and paste text from the site documentation. Each group must divide up the questions equally as best you can, and present in writing in a forum in Brightspace Discussions. Nominate a person from your group to post your assignment to a thread on the discussion forum for &quot;Homework 1&quot;. Please list your name with the section you worked on. You are welcome to use screen shots in the discussion post. Post under your group name (i.e. &quot;Group 2 final submission&quot;). If you have a question, post it to the HW 1 forum. Please feel free to include screenshots or anything a/v related that enhances your report.
 
@@ -14,13 +14,13 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 # Assigned digital libraries: 
 
-- Group 1: (Owen Basher, Alyssa Bonaro  &amp; Joanna Case) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
-- Group 2: (Mario Cesareo, Hannah Cremo &amp; Ezra Gale) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
-- Group 3: (Danielle Graham, Rachel Gunther &amp; Conan Helein) <a href="https://dp.la/" target="_blank">DPLA</a> 
-- Group 4: (Jessica Jules, Matt Livingston &amp; Fiona Lyons) <a href="https://breuer.syr.edu/" target="_blank">Marcel Breuer Digital Archive</a> 
-- Group 5: (Cynthia Ng, Maylin Rivera &amp; Krista Rogers) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
-- Group 6: (Thomas Ryan, Zaria Smalls &amp; Shelby Spaulding ) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
-- Group 7: (Halle Stout &amp; Teresa Vela-Hayes) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
+- Group 1: (Allwood, Barton, &amp; Burnett) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
+- Group 2: (Coleman, Contreras &amp; Espasande) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
+- Group 3: (Hermans, Howard &amp; Kerr ) <a href="https://dp.la/" target="_blank">DPLA</a> 
+- Group 4: (Kirkland, LeGrys &amp; Lynch ) <a href="https://www.duchas.ie/en/info/about" target="_blank">Duchas Project</a> 
+- Group 5: (Mayo, McIntire &amp; Perry) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
+- Group 6: (Shannon, Simone &amp; Sorich) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
+- Group 7: (Ulysses, Urem &amp; Vallet) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
 
 
 # Part 1 Institution
@@ -60,4 +60,4 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 This assignment is worth **10 points.**
 
-**Due Tuesday May, 28th** by 9am
+**Due Tuesday June, 3rd** by 9am
