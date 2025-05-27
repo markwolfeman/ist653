@@ -12,6 +12,7 @@ In the Brightspace Discussions tool, answer one of the questions below based on 
 - He talks about &quot;indexing&quot;, has this come to past? What's an example of where it has been used?
 - With his prediction of the &quot;Memex&quot;, give an example and description of how that has come into being.
 - The camera idea must have seemed like science fiction at the time, how has that come to pass?
+- Give one example how you think Artificial Intelligence will surpass Bush's wildest predictions.
 - <a href="http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20%28Life%20Magazine%209-10-1945%29.pdf" target="_blank">As We May Think PDF</a> or <a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/" target="_blank">HMTL</a> [Bush 1945]
 
 
