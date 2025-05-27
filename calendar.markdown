@@ -61,7 +61,7 @@ Presentation:
 
 Discussion & Exercise:
 
-- ["As We May Think"]() questions. Answer one question on the [discussion board] TBA, approximately 75 words, and comment on one other fellow student's post. 
+- ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink) questions. Answer one question on the [discussion board], approximately 75 words, and comment on one other fellow student's post. 
 
 
 # Unit 3:  June 2nd  Images (Digitization) 

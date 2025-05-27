@@ -60,4 +60,4 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 This assignment is worth **10 points.**
 
-**Due Tuesday June, 3rd** by 9am
+**Due Tuesday, June 3rd** by 9am
