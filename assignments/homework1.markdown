@@ -16,7 +16,7 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 
 - Group 1: (Kenvin Allwood, Midge Barton, &amp; Abby Burnett) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
 - Group 2: (Olivia Coleman, Sydney Contreras &amp; Raquel Espasande) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
-- Group 3: (Alvin Hermans, Anna Howard &amp; Emilyann Kerr ) <a href="https://dp.la/" target="_blank">DPLA</a> 
+- Group 3: (Cassandra Lemmon, Anna Howard &amp; Emilyann Kerr ) <a href="https://dp.la/" target="_blank">DPLA</a> 
 - Group 4: (Bonnie Kirkland, Alex LeGrys &amp; Ceili Lynch ) <a href="https://www.duchas.ie/en/info/about" target="_blank">Duchas Project</a> 
 - Group 5: (Grace Mayo, Bri McIntire &amp; Dylan Perry) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
 - Group 6: (Katherine Shannon, Meghan Simone &amp; Murphy Sorich) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
