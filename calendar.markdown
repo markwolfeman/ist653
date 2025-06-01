@@ -113,7 +113,7 @@ Presentation:
  
 
 Technology / Exercise  
-- [Install the Renamer and PhotoScape software and experiment.](https://markwolfeman.github.io/ist653/assignments/renamerphotoscape) 
+- [Install the Renamer and PhotoScape software and experiment.]() 
 
 
 ------------

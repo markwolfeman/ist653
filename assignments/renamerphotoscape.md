@@ -25,4 +25,4 @@ Install software:
 ![images](whatmacosversionrunning.jpg)
 
   
-**Due: Sunday, June 2nd**
+**Due:**
