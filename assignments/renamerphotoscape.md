@@ -19,7 +19,7 @@ Install software:
 
 - **Attention Mac Users** Please don't upgrade your system merely to download and use Renamer. It's not necessary because they have older compatible versions that will work fine on your current system. 
 
-- <a href="https://renamer.com/support.html" target="_blank">Older versions of Renamer for Mac--scroll down.</a>  
+- <a href="https://renamer.com/support.html" target="_blank">Older versions of Renamer for Mac--scroll down. Do not pay for this, there should be a trial option that will last through the course</a>  
 
 - Check your current OS by clicking on the Apple icon in the upper left corner of the screen. 
 
