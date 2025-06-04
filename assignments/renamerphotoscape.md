@@ -9,6 +9,7 @@ permalink:
 - Make sure your folder of images has been backed up or are not important! Following the two videos in Unit 4 (Renamer and Batch edit with PhotoScape), and complete a similar task on your own. 
 - Once installed, post a comment to the Unit 4 exercise discussion forum. Just a “great success” is fine or if you want to write more or ask questions, please do. 
 - Of course, if you have issues, please post them as well.
+- Please note, that unfortunately, both applications have a different looks for both PC and Mac. They more or less have the same funtionality. 
 
 Install software:
 - <a href="http://www.den4b.com/?x=products&product=renamer" target="_blank">Renamer (PC)</a>
