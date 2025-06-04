@@ -8,7 +8,7 @@ permalink: /exercises/
 
 ![exercises](/assets/hw.jpg) [Unit 2](https://markwolfeman.github.io/ist653/assignments/maythink) As We May Think **Due: Sunday, June 1st**
 
-![exercises](/assets/hw.jpg) [Unit 4]() Install Renamer and PhotoScape  **Due:**
+![exercises](/assets/hw.jpg) [Unit 4](https://markwolfeman.github.io/ist653/assignments/renamerphotoscape) Install Renamer and PhotoScape  **Due: June 9th**
 
 ![exercises](/assets/hw.jpg) [Unit 7]() Install Oxygen  **Due:**
 

@@ -73,7 +73,6 @@ Readings:
 	- Review Process 
 	- Skim the Glossary
 
-
 Videos:
 - <a href="https://www.youtube.com/watch?v=U0kazym7NB8" target="_blank">Introduction to Image Scanning</a> [48:04]
 - <a href="https://sustainableheritagenetwork.org/digital-heritage/flatbed-scanner-vs-overhead-camera-digitization" target="_blank">Flatbed Scanner vs Overhead Digitization</a> [2:54]
@@ -103,7 +102,8 @@ Videos:
 	- <a href="https://youtu.be/GUCbciGAhD4" target="_blank">(Lecture) Part 2</a> [27:03]
 - <a href="https://www.youtube.com/watch?v=wxIIskKmUQA" target="_blank">How to Show File Extensions in Windows</a> [0:43]
 - <a href="https://youtu.be/mYNchWitkyg" target="_blank">How to Show File Extensions for Mac</a> [5:03]
- - <a href="https://www.youtube.com/watch?v=VA55zshYwTs&t=1s" target="_blank">Renamer, a Powerful Software for Mass File Renaming</a>
+ - <a href="https://www.youtube.com/watch?v=VA55zshYwTs&t=1s" target="_blank">Renamer, a Powerful Software for Mass File Renaming</a> (PC Version)
+ - <a href="https://youtu.be/iL2LEqFwNhU?si=2cVf90T7Plnvq1rS" target="_blank">Renamer App Review: Simplify File Organization</a> (Mac Version)
  - <a href="https://www.youtube.com/watch?v=LIucNQmNSNw&t=91s" target="_blank">How to Batch Edit Images with PhotoScape</a>
 
 
@@ -113,7 +113,7 @@ Presentation:
  
 
 Technology / Exercise  
-- [Install the Renamer and PhotoScape software and experiment.]() 
+- [Install the Renamer and PhotoScape software and experiment.](https://markwolfeman.github.io/ist653/assignments/renamerphotoscape) 
 
 
 ------------

@@ -13,7 +13,7 @@ permalink:
 Install software:
 - <a href="http://www.den4b.com/?x=products&product=renamer" target="_blank">Renamer (PC)</a>
 - <a href="https://renamer.com/" target="_blank">Renamer (for Mac)</a>
-- <a href="https://renamer.com/support.html" target="_blank">Renamer (for Mac **older versions**)</a>
+- <a href="https://renamer.com/support.html" target="_blank">Renamer (for Mac **older versions**)</a> be sure to scroll to the bottom.
 - <a href="http://x.photoscape.org/" target="_blank">PhotoScape for Mac and Win</a> 
 
 - **Attention Mac Users** Please don't upgrade your system merely to download and use Renamer. It's not necessary because they have older compatible versions that will work fine on your current system. 
@@ -25,4 +25,4 @@ Install software:
 ![images](whatmacosversionrunning.jpg)
 
   
-**Due:**
+**Due: June 9th at 9am**
