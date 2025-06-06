@@ -7,15 +7,16 @@ permalink:
 <h1>College Photo Assignment for Homework 2</h1>
 
 
-- Allwood,Kenvin<a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Ball State University</a>
+- Allwood,Kenvin <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Ball State University</a>
 - Barton,Midge <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Bard College</a>
 - Burnett,Abby <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Bowling Green University</a>
-- Coleman,Olivia<a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Bucknell College</a>
+- Coleman,Olivia <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Bucknell College</a>
 - Contreras,Sydney <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Colby College</a>
 - Espasande,Raquel <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Denison University</a>
 - Howard,Anna <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Harvard University</a>
 - Kerr,Emilyann <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">James Madison University</a>
-- Lemmon,Cassandra LeGrys,Alex <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Kent State University</a>
+- Lemmon,Cassandra <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Kent State University</a>
+- LeGrys,Alex <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Sage College</a>
 - Lynch,Ceili <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Kenyon College</a>
 - Mayo,Grace <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Miami of Ohio University</a>
 - McIntire,Bri <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Middlebury College</a>
