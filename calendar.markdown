@@ -140,8 +140,6 @@ Videos:
 - <a href="https://www.youtube.com/watch?v=4-HwMuK4muk" target="_blank">Resize multiple images with PhotoScape X (Windows)</a> [2:48]
 
 
-
-
 Presentation:
 
 - No presentation
@@ -152,7 +150,7 @@ Technology downloads:
 
 - <a href="http://x.photoscape.org/" target="_blank"> Install Photoscape X (Mac & Win)</a> if you have not already
 
-- <a href="https://markwolfeman.github.io/ist653/assignments/homework2" target="_blank">Homework 2 released</a>
+<!-- - <a href="https://markwolfeman.github.io/ist653/assignments/homework2" target="_blank">Homework 2 released</a> -->
 
 ------------
 
