@@ -146,7 +146,8 @@ Presentation:
 
 Technology downloads:
 
-- <a href="https://www.adobe.com/products/bridge.html" target="_blank">Adobe Bridge</a> 
+- <a href="https://www.adobe.com/products/bridge.html" target="_blank">Adobe Bridge</a>
+- Please DO NOT upgrade your computer. If will not install, we can find an alternative. You might try installing an older version. <br/>![Look at this image ](../assets/adobe_bridge_olderversion.png)to see where to click in the Creative Cloud app to install and older version of Adobe Bridge.  
 
 - <a href="http://x.photoscape.org/" target="_blank"> Install Photoscape X (Mac & Win)</a> if you have not already
 
