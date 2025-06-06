@@ -15,7 +15,7 @@ Videos:
 
 You've been given a collection of digitized images, but before they go into the repository, you must complete additional actions as part of you digital workflow. You will be using ReNamer, PhotoScape, Excel/spreadsheet program, and Adobe Bridge (free) to update and manage a small collection of images. These images were shot or scanned by different people for different purposes. The file names must be normalized. The embedded metadata must be added or updated, and exported to a spreadsheet. The images must be resized and watermarked in preparation for deposit into a digital library.  
 - <a href="https://markwolfeman.github.io/ist653/assignments/college_photo_list.html" target="_blank">Get your assigned photos and college here.</a>
-- <a href="https://www.adobe.com/products/bridge.html" target="_blank">Install Adobe Bridge</a>
+- <a href="https://www.adobe.com/products/bridge.html" target="_blank">Install Adobe Bridge</a> **Please remember** about not forcing this installation. If you can't install it, post to the discussion board for help.
 - <a href="https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html" target="_blank">User customizable export-import plugin</a>
 
 
@@ -61,7 +61,7 @@ You've been given a collection of digitized images, but before they go into the 
 		- <a href="https://youtu.be/4-HwMuK4muk?si=UsjEtQMJoF9kbjKw" target="_blank">Resize multiple images with PhotoScape X (Windows)</a> [2:48]
 <br/>
 <br/>
-- **Due: Monday, June 10th by 9am** 
+- **Due: Satuday, June 14th** 
 
 - Assignment is worth 10 points. 
 
