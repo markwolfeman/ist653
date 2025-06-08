@@ -15,6 +15,7 @@ permalink:
 - Espasande,Raquel <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Denison University</a>
 - Howard,Anna <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Harvard University</a>
 - Kerr,Emilyann <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">James Madison University</a>
+- Kirkland, Bonnie <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Xavier University</a>
 - Lemmon,Cassandra <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Kent State University</a>
 - LeGrys,Alex <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Sage College</a>
 - Lynch,Ceili <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Kenyon College</a>
