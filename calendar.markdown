@@ -319,9 +319,19 @@ Presentation:
 
 ------------
 
-# Final Day June 27th	 Open Lab
+# Unit 14:  June 27th Open Lab 
 
-**Everything Must Be Handed In By Date: Monday, June 30th**
+- Work on Final Project and Test 2
+
+------------
+
+# Final Day June 30th	 Open Lab
+
+- Work on Final Project and Test 2
+
+------------
+
+**Everything Must Be Handed In By Date: Wednesday, July 2nd**
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement
