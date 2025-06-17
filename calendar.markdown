@@ -331,7 +331,7 @@ Presentation:
 
 ------------
 
-**Everything Must Be Handed In By Date: Wednesday, July 2nd**
+**Everything Must Be Handed In By Date: Thursday, July 3rd**
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement
