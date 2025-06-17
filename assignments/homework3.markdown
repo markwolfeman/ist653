@@ -23,7 +23,7 @@ The objective of this homework is to mark up your assigned images from Homework 
 - Use<a href="https://nsteffel.github.io/dublin_core_generator/" target="_blank"> Advanced Dublin Core Generator</a> to encode your metadata
 - Describe them using the DC fields: Title, Creator, Subject (limit to one), Description, Date and Date Created, Type, Format, and Indentifier (use the filename without format extension)
 - Generate XML for each image and cut and paste it into your .xml file. You will have five image records when you are done. <a href="https://markwolfeman.github.io/ist653/assignments/dc_hw3_example.xml" target="_blank">Completed XML file will look like this</a>
-- Remember to consult the <a href="http://id.loc.gov/authorities/subjects.html" target="_blank">Library of Congress Subject headings (LCSH) (new)</a>or the <a href="http://authorities.loc.gov/" target="_blank">older LCSH site</a>for guidance on your subject headings.
+- Remember to consult the <a href="http://id.loc.gov/authorities/subjects.html" target="_blank">Library of Congress Subject headings (LCSH) (new)</a> or the <a href="http://authorities.loc.gov/" target="_blank">older LCSH site</a> for guidance on your subject headings.
 
 
 # Part 2  (5 points)
@@ -38,6 +38,6 @@ The objective of this homework is to mark up your assigned images from Homework 
 	- Why do you think the developers of Omeka have chosen <a href="http://omeka.org/forums/topic/omeka-and-mods-element-set" target="_blank">Dublin Core over MODS?</a>
 
 
-- It's worth 10 points and due **Thursday, June 20th at 9am** 
+- It's worth 10 points and due **Sunday, June 22nd at 9am** 
 - Submit via email as one .zip file (include .xml, and .doc files). 
 - Work in groups and share information on the discussion board--it will go faster!
