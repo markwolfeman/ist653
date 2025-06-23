@@ -35,7 +35,7 @@ permalink:
 	- Create a collection
 	- Add 2 Items (images) to that collection
 
-<br/>
+<p/>
 
 - **Note**: everything in your site can be updated and/or changed at a later date!
 - This assignment is worth 10 points 
