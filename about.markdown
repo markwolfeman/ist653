@@ -8,7 +8,7 @@ permalink: about
 
 ![Instructor](/assets/instructor_new.jpg)
 
-IST 653 / 3 Credits / Summer 2025 6 Week
+IST 653 / 3 Credits / Summer 2025 6 Weeks
 
 **May 27 - July 3, 2025**
 
