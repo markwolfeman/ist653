@@ -12,9 +12,9 @@ Readings:
 
 Videos:
 
-- <a href="https://youtu.be/WvUotijWD6k" target="_blank">Welcome to IST 653 Digital Libraries Summer Session 2025</a> [9:24 min.]
-- <a href="https://youtu.be/-f_Q1ayKEbw" target="_blank">Overview of Course Part 1</a> [15:22 min]
-- <a href="https://youtu.be/JVd3lQ-IdvY?si=rCe8vbW611iURS66" target="_blank">Overview of Course Part 2</a> [8:32 min]
+- <a href="" target="_blank">Welcome to IST 653 Digital Libraries Summer Session 2026</a> [: min.]
+- <a href="" target="_blank">Overview of Course Part 1</a> [: min]
+- <a href="" target="_blank">Overview of Course Part 2</a> [: min]
 - <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a> [46:19 min.]
 
 Presentation:
@@ -23,7 +23,7 @@ Presentation:
 
 Disscussion:
  - <a href="http://peacockroom.wayne.edu" target="_blank">The Story of the Beautiful</a>
-- <a href="https://digitalcollections.tcd.ie/" target="_blank">Trinity College, Dublin Ireland</a>
+- <a href="https://exhibitions.bgc.bard.edu/americanstyle/about/" target="_blank">American Art in American Dress, Bard College</a>
 - <a href="https://archives.albany.edu/web/selections/" target="_blank">UAlbany Digtial Collections</a>
  - <a href="https://nsdl.oercommons.org/" target="_blank">National Science Digital Library</a>
 - <a href="https://legacy.mtpo2.org/" target="_blank">Mark Twain Project Online</a>
