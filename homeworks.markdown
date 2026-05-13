@@ -4,7 +4,7 @@ title: Homeworks
 permalink: /homeworks/
 ---
 
-![homework](/assets/hw.jpg) [Homework 1]() Digital Library Report **** 
+![homework](/assets/hw.jpg) [Homework 1]() Digital Library Report **Due:** 
 
 ![homework](/assets/hw.jpg) [Homework 2]() Managing Image Files **Due:**
 
