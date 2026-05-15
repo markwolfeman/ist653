@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-# Unit 1: 	May 27th Course Introduction
+# Unit 1: 	May 26th Course Introduction
 
 Readings:
 
@@ -22,6 +22,7 @@ Presentation:
 
 
 Disscussion:
+Here are examples of digital libraries. 
  - <a href="http://peacockroom.wayne.edu" target="_blank">The Story of the Beautiful</a>
 - <a href="https://exhibitions.bgc.bard.edu/americanstyle/about/" target="_blank">American Art in American Dress, Bard College</a>
 - <a href="https://archives.albany.edu/web/selections/" target="_blank">UAlbany Digtial Collections</a>
@@ -30,7 +31,7 @@ Disscussion:
 - <a href="http://vangoghletters.org/vg/" target="_blank">Vincent van Gogh: The Letters</a>
 - <a href="http://dp.la/" target="_blank">Digital Public Library of America</a>
 - <a href="https://nycopendata.socrata.com/" target="_blank">NYC OpenData</a>
-- <a href="https://www.youtube.com/watch?v=oiqHv_SofNo" target="_blank">The Salman Rushdie Digital Archive</a>
+- <a href="https://oa.letterformarchive.org/" target="_blank">The Letterform Archive</a>
 
 Exercises:
 
@@ -39,7 +40,7 @@ Exercises:
 
 ------------
 
-# Unit 2:  May 30th What is a Digital Library 
+# Unit 2:  May 29th What is a Digital Library 
 
 Readings:
 - <a href="https://www.clir.org/1998/07/clir-issues-number-4/" target="_blank">What Are Digital Libraries?</a> [Waters 1998]
@@ -64,7 +65,7 @@ Discussion & Exercise:
 - ["As We May Think"](https://markwolfeman.github.io/ist653/assignments/maythink) questions. Answer one question on the [discussion board], approximately 75 words, and comment on one other fellow student's post. 
 
 
-# Unit 3:  June 2nd  Images (Digitization) 
+# Unit 3:  June 1st  Images (Digitization) 
 Readings:
 
 - <a href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892367334.pdf" target="_blank">Introduction to Imaging (read: intro to p. 46)</a> Besser (2003) [.pdf]
@@ -85,7 +86,7 @@ Presentation:
 
 ------------
 
-# Unit 4: June 4th  Images (File Management) Part 1
+# Unit 4: June 3rd  Images (File Management) Part 1
 
 Readings:
 
@@ -117,7 +118,7 @@ Technology / Exercise
 
 
 ------------
-# Unit 5: 	June 6th  Images (File Management) Part 2
+# Unit 5: 	June 5th  Images (File Management) Part 2
 
 Readings:
 
@@ -155,7 +156,7 @@ Technology downloads:
 
 ------------
 
-# Unit 6:  	June  9th  Digital Audio and Video 
+# Unit 6:  	June  8th  Digital Audio and Video 
 
 Readings:
 
@@ -176,7 +177,7 @@ Presentation:
 
 ------------
 
-# Unit 7:  June 11th 	Metadata and XML
+# Unit 7:  June 10th 	Metadata and XML
 
 Readings:
 - <a href="https://drive.google.com/drive/folders/1ZjVql4F_YwP9CIbj3oQEAkw6TtsRn3VE?usp=drive_link" target="_blank">Chapters 1, &amp; 2 of Miller</a> 
@@ -206,11 +207,11 @@ Click on these links, and review them briefly. They are basically the same
 - <a href="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html" target="_blank">Oxygen XML Editor (30 day trial) Mac and PC</a> 
 - Once installed, please post to the Discussion Board, and please let me know (briefly) if have heard of XML before and/or familiar with the markup language. 
 
-**Due: Monday, June 16th**
+**Due: Monday, June 15th**
 
 
 ------------
-# Unit 8:  June 13th Choosing a Repository Architecture
+# Unit 8:  June 12th Choosing a Repository Architecture
 
 Readings:
 

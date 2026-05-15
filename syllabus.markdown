@@ -4,8 +4,8 @@ title: Syllabus
 permalink: /syllabus/
 ---
 # Course Information
-IST 653 / 3 Credits / Summer 2025
-<br/>May 27 - July 3, 2025
+IST 653 / 3 Credits / Summer 2026
+<br/>May 26 - July 3, 2025
 <br/>Fully Online (100%)
 
 # Instructor Information
@@ -41,7 +41,7 @@ Upon completion of this course, students will:
 
 # Units 
 
-The first unit of class will begin **Tuesday, May 27th.** While the majority of the course content is released from the outset, I do release exercises and homeworks timed with the course content for that Unit. The due date and time for each homework will be stated when released. For class discussion and pacing of the course, it's important that we as a class do one unit at a time. 
+The first unit of class will begin **Tuesday, May 26th.** While the majority of the course content is released from the outset, I do release exercises and homeworks timed with the course content for that Unit. The due date and time for each homework will be stated when released. For class discussion and pacing of the course, it's important that we as a class do one unit at a time. 
 
 # Computer
 
@@ -49,7 +49,7 @@ Students must have access to a computer and a high-speed Internet connection, an
 
 # Group Work
 
-Except for the two tests, all assignments will be group oriented projects. You must help each other to succeed via the discussion tool. Homework 1 is the only assignment that you will not collaborate on class-wide, instead you will have an assigned partner(s). All other group assignments will entail resolving problems together, but everyone will hand in or post their individual assignment. 
+Except for the two tests, all assignments will be group oriented projects. You must help each other to succeed via the discussion tool. Homework 1 is the only assignment that you will not collaborate on class-wide, instead you will have an assigned partner(s). All other group assignments will entail resolving problems together, but everyone will hand in or post their individual assignment and graded accordingly. 
 
 # Readings
 
@@ -61,7 +61,7 @@ The success of this class will be greatly enhanced by active participation from 
 
 # Required Software
 
-We will be using several programs during the course, all of which will be available on to download for free. 
+We will be using several programs during the course, all of which will be available on the web to download for free. 
 
 # Homeworks & Final Project
 
