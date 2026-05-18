@@ -35,7 +35,7 @@ Here are examples of digital libraries.
 
 Exercises:
 
-- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates) **Due:  Wednesday, May 28th**
+- [Meet Your Classmates](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates) **Due:  Wednesday, May 27th**
 - Spend a couple minutes with each digital repository above, and watch the video about the Rushdie Archive, albeit dated, it covers the fundamentals nicely.
 
 ------------
@@ -230,7 +230,7 @@ Presentation:
 
 ------------
 
-# Unit 9:   June 16th  Metadata & Open Refine
+# Unit 9:   June 15th  Metadata & Open Refine
 
 Readings:
 - <a href="http://labs.timtom.ch/library-openrefine/" target="_blank">OpenRefine Lessons for Librarians</a> (NOT required, just for future reference)
@@ -253,11 +253,11 @@ Exercise:   Install OpenRefine and Edit Metadata
 - After watching exercise overview video, download dataset to computer and import  <a href="https://drive.google.com/file/d/1dVjoNjMZuyhPgUqHScfCm4zEuNsd2S4Q/view?usp=drive_link" target="_blank">Indian Food 101 .csv file</a> click download in uppper right hand corner
 - Follow instructions in exercise overview video
 - Post screenshot to discussion board of your newly updated Indian Food 101 dataset. 
-- **Due: Monday, June 23rd**
+- **Due:**
 
 ------------
 
-# Unit 10:  	June 18th  Linked Data & Controlled Vocabularies 
+# Unit 10:  	June 17th  Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -275,7 +275,7 @@ Presentation:
 - <a href="https://drive.google.com/file/d/1Rva3F8lkNRDjNohvHPvTQZed32xL0J_F/view?usp=sharing" target="_blank">Introduction to  Vocabularies &amp; Linked Data</a> [.pdf]
 
 
-# Unit 11:  June 20th Project Planning
+# Unit 11:  June 22nd Project Planning
 
 Readings:
 - <a href="http://dlib.org/dlib/march10/kucsma/03kucsma.html" target="_blank">Using Omeka to Build Digital Collections: The METRO Case Study by</a>Kucsma, Reiss, & Sidman (2010) in D-Lib
@@ -294,7 +294,7 @@ Presentation:
 ------------
 
 
-# Unit 12: 	June 23rd  Sustainability & Preservation
+# Unit 12: 	June 24th  Sustainability & Preservation
 
 Readings:
 
@@ -314,25 +314,25 @@ Presentation:
 
 ------------
 
-# Unit 13:  June 25th Open Lab 
+# Unit 13:  June 26th Open Lab 
 
 - Work on Final Project and Test 2
 
 ------------
 
-# Unit 14:  June 27th Open Lab 
+# Unit 14:  June 29th Open Lab 
 
 - Work on Final Project and Test 2
 
 ------------
 
-# Final Day June 30th	 Open Lab
+# Final Day July 1st	 Open Lab
 
 - Work on Final Project and Test 2
 
 ------------
 
-**Everything Must Be Handed In By Date: Thursday, July 3rd**
+**Everything Must Be Handed In By Date: Friday, July 3rd**
 
 - Please hand in all assignments. 
 - Test 2 / Create Job Announcement
