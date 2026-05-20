@@ -4,7 +4,7 @@ title: Exercises
 permalink: /exercises/
 ---
 
-![exercises](/assets/hw.jpg) [Unit 1](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates) Meet Your Classmates **Due:**
+![exercises](/assets/hw.jpg) [Unit 1](https://markwolfeman.github.io/ist653/assignments/meetyourclassmates) Meet Your Classmates **Due: Wednesday, May 27th**
 
 ![exercises](/assets/hw.jpg) [Unit 2]() As We May Think **Due:**
 
