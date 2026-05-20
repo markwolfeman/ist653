@@ -13,8 +13,8 @@ Readings:
 Videos:
 
 - <a href="https://youtu.be/1jhs8LvFhY8?si=KsLkk9gVq4GzhgJ5" target="_blank">Welcome to IST 653 Digital Libraries Summer Session 2026</a> [9:32 min.]
-- <a href="" target="_blank">Overview of Course Part 1</a> [: min]
-- <a href="" target="_blank">Overview of Course Part 2</a> [: min]
+- <a href="https://youtu.be/-f_Q1ayKEbw" target="_blank">Overview of Course Part 1</a> [15:22 min]
+- <a href="https://youtu.be/JVd3lQ-IdvY" target="_blank">Overview of Course Part 2</a> [8:33 min]
 - <a href="https://youtu.be/Jux3d5ETDdI" target="_blank">Pre-History to Digital Libraries</a> [46:30 min.]
 
 Presentation:
