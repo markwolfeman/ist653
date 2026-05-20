@@ -5,7 +5,7 @@ permalink: /syllabus/
 ---
 # Course Information
 IST 653 / 3 Credits / Summer 2026
-<br/>May 26 - July 3, 2025
+<br/>May 26 - July 3, 2026
 <br/>Fully Online (100%)
 
 # Instructor Information
