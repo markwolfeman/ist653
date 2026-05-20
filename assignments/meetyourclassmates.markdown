@@ -16,7 +16,7 @@ permalink:
 
 - Briefly list one reaction or surprise you had while looking at the various Digital Libraries.
 
-- Any brief thoughts about Anthropics' use of books for feeding its LLM? Here's a very short read: <p><a href="https://lithub.com/anthropic-didnt-want-us-to-know-that-they-were-destroying-millions-of-books-to-feed-their-software/" target="_blank">Anthropic didn’t want us to know that they were destroying millions of books to feed their software</a>.</p> If you were the Dean of a research library, would you sell or give permission for an AI company to build its Large Language Model on your collections? Would you put any stipulations? 
+- Any brief thoughts about Anthropics' use of books for feeding its LLM? Here's a very short read: <a href="https://lithub.com/anthropic-didnt-want-us-to-know-that-they-were-destroying-millions-of-books-to-feed-their-software/" target="_blank">Anthropic didn’t want us to know that they were destroying millions of books to feed their software</a>. If you were the Dean of a research library, would you sell or give permission for an AI company to build its Large Language Model on your collections? Would you put any stipulations? 
 
 - What academic program are you? What track? and briefly tells us about your academic or career interests.
 
