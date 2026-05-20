@@ -15,7 +15,7 @@ Videos:
 - <a href="" target="_blank">Welcome to IST 653 Digital Libraries Summer Session 2026</a> [: min.]
 - <a href="" target="_blank">Overview of Course Part 1</a> [: min]
 - <a href="" target="_blank">Overview of Course Part 2</a> [: min]
-- <a href="https://www.youtube.com/watch?v=WlWawSnkUxI" target="_blank">Pre-History to Digital Libraries</a> [46:19 min.]
+- <a href="https://youtu.be/Jux3d5ETDdI" target="_blank">Pre-History to Digital Libraries</a> [46:30 min.]
 
 Presentation:
 - <a href="https://www.albany.edu/~mwolfe/ist653/prehistory_to_digital_libraries.pptx" target="_blank">Pre-History to Digital Libraries</a> [.pptx]
@@ -28,7 +28,7 @@ Here are examples of digital libraries.
 - <a href="https://archives.albany.edu/web/selections/" target="_blank">UAlbany Digtial Collections</a>
  - <a href="https://nsdl.oercommons.org/" target="_blank">National Science Digital Library</a>
 - <a href="https://legacy.mtpo2.org/" target="_blank">Mark Twain Project Online</a>
-- <a href="http://vangoghletters.org/vg/" target="_blank">Vincent van Gogh: The Letters</a>
+- <a href="http://vangoghletters.org/vg/" target="_blank">Vincent Van Gogh: The Letters</a>
 - <a href="http://dp.la/" target="_blank">Digital Public Library of America</a>
 - <a href="https://nycopendata.socrata.com/" target="_blank">NYC OpenData</a>
 - <a href="https://oa.letterformarchive.org/" target="_blank">The Letterform Archive</a>
