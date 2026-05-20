@@ -16,8 +16,8 @@ permalink:
 
 - Briefly list one reaction or surprise you had while looking at the various Digital Libraries.
 
-- If you were hired as the new CEO of Amazon, what might you change about your business? (The sky is the limit) Like their cloud to doorstep practices? New ideas? Better technology for the underserved? AI assisted services? "AI-Free" human-oriented service?  
+- Any brief thoughts about Anthropics' use of books for feeding its LLM? Here's a very short read: <p><a href="https://lithub.com/anthropic-didnt-want-us-to-know-that-they-were-destroying-millions-of-books-to-feed-their-software/" target="_blank">Anthropic didn’t want us to know that they were destroying millions of books to feed their software</a>.</p> If you were the Dean of a research library, would you sell or give permission for an AI company to build its Large Language Model on your collections? Would you put any stipulations? 
 
 - What academic program are you? What track? and briefly tells us about your academic or career interests.
 
-**Due: Wednesday, May 28th**
+**Due: Wednesday, May 27th**
