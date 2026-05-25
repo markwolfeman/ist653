@@ -32,6 +32,7 @@ Here are examples of digital libraries.
 - <a href="http://dp.la/" target="_blank">Digital Public Library of America</a>
 - <a href="https://nycopendata.socrata.com/" target="_blank">NYC OpenData</a>
 - <a href="https://oa.letterformarchive.org/" target="_blank">The Letterform Archive</a>
+- <a href="https://youtu.be/oiqHv_SofNo?si=gJkBxDdVdS3Wxqut" target="_blank">video about the Rushdie Archive</a>
 
 Exercises:
 
