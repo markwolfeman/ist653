@@ -15,11 +15,11 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 # Assigned digital libraries: 
 
 - Group 1: (Marcus Ade, Shai-ana Bess, &amp; Alek Brusgul) <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a> 
-- Group 2: (Henry Cooley, Elizabeth DeMeis  &amp; Ava Ericson) <a href="http://calisphere.cdlib.org/" target="_blank">CALI-SPHERE</a> 
+- Group 2: (Henry Cooley, Elizabeth DeMeis  &amp; Ava Ericson) <a href="https://calisphere.org//" target="_blank">CALI-SPHERE</a> 
 - Group 3: (Marisa Fernandez, Yamira Garcia &amp; Lea Howlett) <a href="https://dp.la/" target="_blank">DPLA</a> 
 - Group 4: (Erik Landa, Paige Papandrea,  &amp; Julia Perkins) <a href="https://www.duchas.ie/en/info/about" target="_blank">Duchas Project</a> 
 - Group 5: (Jay Plastino, Caroline Purdy, &amp; Malika Ramama) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
-- Group 6: (Jennifer Rutherford,Dom Sgambati,  &amp;Alex Sirna) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
+- Group 6: (Jennifer Rutherford, Dom Sgambati,  &amp; Alex Sirna) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
 - Group 7: (Gary Sutton Jr.,David Terzuoli, Jackson Turner  &amp; Marina Vidrio) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
 
 
