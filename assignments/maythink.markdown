@@ -5,7 +5,9 @@ permalink:
 ---
 <h1>"As We May Think" Exercise</h1>
 
-In the Brightspace Discussions tool, answer one of the questions below based on the reading by Vanavar Bush, and comment on a fellow student's post. Your posted answer should be approximately _75 - 100 words_, and the comment, a sentence or two. Please express your own idea, using your words. I want to know what you think. 
+In the Brightspace Discussions tool, answer one of the questions below based on the reading by Vanavar Bush, and comment on a fellow student's post. Your posted answer should be approximately _75 - 100 words_, and the comment, a sentence or two. 
+
+Please express your own idea, using your words. I want to know what you think. 
 
 - It's a short title for such an  influential paper, what did he mean by it?
 - What are some technologies that he predicted that did come true? Give an example, and what are its benefits and/or shortcomings.
