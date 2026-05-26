@@ -5,7 +5,7 @@ permalink:
 ---
 <h1>"As We May Think" Exercise</h1>
 
-In the Brightspace Discussions tool, answer one of the questions below based on the reading by Vanavar Bush, and comment on a fellow student's post. Your posted answer should be approximately _75 - 100 words_, and the comment, a sentence or two. 
+In the Brightspace Discussions tool, answer one of the questions below based on the reading by Vanavar Bush, and comment on a fellow student's post. Your posted answer should be approximately _75 - 100 words_, and the comment, a sentence or two. Please express your own idea, using your words. I want to know what you think. 
 
 - It's a short title for such an  influential paper, what did he mean by it?
 - What are some technologies that he predicted that did come true? Give an example, and what are its benefits and/or shortcomings.
@@ -18,6 +18,6 @@ In the Brightspace Discussions tool, answer one of the questions below based on 
 - <a href="http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20%28Life%20Magazine%209-10-1945%29.pdf" target="_blank">As We May Think PDF</a> or <a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/" target="_blank">HMTL</a> [Bush 1945]
 
 
-**Exercise Due Sunday, June 1st by midnight**
+**Exercise Due Sunday, May 31st by midnight**
 
 <br/>![Bush](../assets/think.png)
