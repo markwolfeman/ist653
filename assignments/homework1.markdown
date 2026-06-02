@@ -19,8 +19,8 @@ Each group is assigned a digital library to evaluate. Students will need to addr
 - Group 3: (Marisa Fernandez, Yamira Garcia &amp; Lea Howlett) <a href="https://dp.la/" target="_blank">DPLA</a> 
 - Group 4: (Erik Landa, Paige Papandrea,  &amp; Julia Perkins) <a href="https://www.duchas.ie/en/info/about" target="_blank">Duchas Project</a> 
 - Group 5: (Jay Plastino, Caroline Purdy, &amp; Malika Ramama) <a href="https://digital.sciencehistory.org/" target="_blank">Science History Institute</a> 
-- Group 6: (Jennifer Rutherford, Dom Sgambati,  &amp; Alex Sirna) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
-- Group 7: (Gary Sutton Jr.,David Terzuoli, Jackson Turner  &amp; Marina Vidrio) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
+- Group 6: (Gary Sutton Jr., Dom Sgambati,  &amp; Alex Sirna) <a href="https://www.slavevoyages.org/" target="_blank">SlaveVoyages</a> 
+- Group 7: (David Terzuoli, Jackson Turner  &amp; Marina Vidrio) <a href="http://www.perseus.tufts.edu/" target="_blank">Perseus Digital Library</a> 
 
 
 # Part 1 Institution
