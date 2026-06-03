@@ -23,7 +23,8 @@ Install software:
 
 - Check your current OS by clicking on the Apple icon in the upper left corner of the screen. 
 
+**Due: Monday, June 8th at 9am**
+
 ![images](whatmacosversionrunning.jpg)
 
   
-**Due: Monday, June 8th at 9am**
