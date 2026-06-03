@@ -26,4 +26,4 @@ Install software:
 ![images](whatmacosversionrunning.jpg)
 
   
-**Due: June 9th at 9am**
+**Due: Monday, June 8th at 9am**
