@@ -20,7 +20,6 @@ permalink:
 - Landa, Erik <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Sage College</a>
 - Papandrea, Paige <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Kenyon College</a>
 - Perkins, Julia <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Miami of Ohio University</a>
-- <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Middlebury College</a>
 - Plastino, Jay <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Monmouth University</a>
 - Ramama, Malika <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Shawnee State University</a>
 - Sgambati, Dom <a href="https://drive.google.com/drive/folders/1DAec-SmQM3XN46sXRUHqJxWv3KrS9Rvd?usp=drive_link" target="_blank">Tufts University</a>
