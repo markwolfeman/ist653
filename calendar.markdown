@@ -258,6 +258,11 @@ Exercise:   Install OpenRefine and Edit Metadata
 
 ------------
 
+# Holiday 	No Class <a href="https://en.wikipedia.org/wiki/Juneteenth" target="_blank">Juneteenth</a>
+
+------------
+
+
 # Unit 10:  	June 22nd  Linked Data & Controlled Vocabularies 
 
 Readings:
