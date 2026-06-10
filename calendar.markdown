@@ -332,11 +332,7 @@ Presentation:
 
 ------------
 
-# Final Day July 3rd	 Open Lab
-
-- Work on Final Project and Test 2
-
-------------
+# Final Day July 3rd	 
 
 **Everything Must Be Handed In By Date: Friday, July 3rd**
 
