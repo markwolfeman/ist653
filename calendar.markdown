@@ -178,7 +178,7 @@ Presentation:
 
 ------------
 
-# Unit 7:  June 10th 	Metadata and XML
+# Unit 7:  June 12th 	Metadata and XML
 
 Readings:
 - <a href="https://drive.google.com/drive/folders/1ZjVql4F_YwP9CIbj3oQEAkw6TtsRn3VE?usp=drive_link" target="_blank">Chapters 1, &amp; 2 of Miller</a> 
@@ -212,7 +212,7 @@ Click on these links, and review them briefly. They are basically the same
 
 
 ------------
-# Unit 8:  June 12th Choosing a Repository Architecture
+# Unit 8:  June 15th Choosing a Repository Architecture
 
 Readings:
 
@@ -231,7 +231,7 @@ Presentation:
 
 ------------
 
-# Unit 9:   June 15th  Metadata & Open Refine
+# Unit 9:   June 17th  Metadata & Open Refine
 
 Readings:
 - <a href="http://labs.timtom.ch/library-openrefine/" target="_blank">OpenRefine Lessons for Librarians</a> (NOT required, just for future reference)
@@ -258,7 +258,7 @@ Exercise:   Install OpenRefine and Edit Metadata
 
 ------------
 
-# Unit 10:  	June 17th  Linked Data & Controlled Vocabularies 
+# Unit 10:  	June 22nd  Linked Data & Controlled Vocabularies 
 
 Readings:
 
@@ -276,7 +276,7 @@ Presentation:
 - <a href="https://drive.google.com/file/d/1Rva3F8lkNRDjNohvHPvTQZed32xL0J_F/view?usp=sharing" target="_blank">Introduction to  Vocabularies &amp; Linked Data</a> [.pdf]
 
 
-# Unit 11:  June 22nd Project Planning
+# Unit 11:  June 24th Project Planning
 
 Readings:
 - <a href="http://dlib.org/dlib/march10/kucsma/03kucsma.html" target="_blank">Using Omeka to Build Digital Collections: The METRO Case Study by</a>Kucsma, Reiss, & Sidman (2010) in D-Lib
@@ -295,7 +295,7 @@ Presentation:
 ------------
 
 
-# Unit 12: 	June 24th  Sustainability & Preservation
+# Unit 12: 	June 26th  Sustainability & Preservation
 
 Readings:
 
@@ -315,19 +315,19 @@ Presentation:
 
 ------------
 
-# Unit 13:  June 26th Open Lab 
+# Unit 13:  June 29th Open Lab 
 
 - Work on Final Project and Test 2
 
 ------------
 
-# Unit 14:  June 29th Open Lab 
+# Unit 14:  July 1st Open Lab 
 
 - Work on Final Project and Test 2
 
 ------------
 
-# Final Day July 1st	 Open Lab
+# Final Day July 3rd	 Open Lab
 
 - Work on Final Project and Test 2
 
