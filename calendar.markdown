@@ -258,7 +258,7 @@ Exercise:   Install OpenRefine and Edit Metadata
 
 ------------
 
-# Holiday 	No Class <a href="https://en.wikipedia.org/wiki/Juneteenth" target="_blank">Juneteenth</a>
+# Holiday 	 <a href="https://en.wikipedia.org/wiki/Juneteenth" target="_blank">** No Class ** on Juneteenth</a>
 
 ------------
 
