@@ -10,7 +10,7 @@ permalink: /exercises/
 
 ![exercises](/assets/hw.jpg) [Unit 4](https://markwolfeman.github.io/ist653/assignments/renamerphotoscape) Install Renamer and PhotoScape  **Due: Monday, June 8th at 9am**
 
-![exercises](/assets/hw.jpg) [Unit 7]() Install Oxygen  **Due:**
+![exercises](/assets/hw.jpg) [Unit 7](/Users/markwolfe/Documents/teaching/ist653/assignments/installoxygen) Install Oxygen  **Due: Wednesday June 17th**
 
 ![exercises](/assets/hw.jpg) [Unit 9]() Install OpenRefine and Edit Metadata  **Due:**
 
