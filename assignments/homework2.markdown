@@ -62,7 +62,7 @@ You've been given a collection of digitized images, but before they go into the 
 <br/>
 <br/>
 
--  **Due: Monday, June 15th** 
+-  **Due: Wednesday, June 17th** 
 
 - Assignment is worth 10 points. 
 

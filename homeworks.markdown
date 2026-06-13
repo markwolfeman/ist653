@@ -6,7 +6,7 @@ permalink: /homeworks/
 
 ![homework](/assets/hw.jpg) [Homework 1](https://markwolfeman.github.io/ist653/assignments/homework1) Digital Library Report **Due: Wednesday, June 3rd** 
 
-![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/homework2) Managing Image Files **Due: Monday, June 15th**
+![homework](/assets/hw.jpg) [Homework 2](https://markwolfeman.github.io/ist653/assignments/homework2) Managing Image Files **Due: Wednesday, June 17th**
 
 ![homework](/assets/hw.jpg) [Test 1]() (navigate to "Quizes" in Brightspace to take Test 1)  **Due:**
 
