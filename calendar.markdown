@@ -217,7 +217,7 @@ Click on these links, and review them briefly. They are basically the same
 Readings:
 
 - <a href="https://omeka.org/classic/docs/GettingStarted/Site_Planning_Tips/" target="_blank">Omeka Site Planning Tips</a> 
-- <a href="https://omeka.org/classic/docs/GettingStarted/UsingOmeka/" target="_blank">Omeka Examples and Case Studies</a> 
+- <a href="https://omeka.org/classic/docs/GettingStarted/Examples/" target="_blank">Omeka Examples and Case Studies</a> 
 - <a href="https://foundhistory.org/2010/09/omeka-and-its-peers/" target="_blank">Omeka and Its Peers, Scheinfeldt (2010)</a> 
 
 
