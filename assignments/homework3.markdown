@@ -28,7 +28,7 @@ The objective of this homework is to mark up your assigned images from Homework 
 
 # Part 2  (5 points)
 
-- Based on Miller's discussion in Chapter 2 &amp; 7. Discuss in roughly 300 words, using mostly your own words, but a few quotations are fine:
+- Based on Miller's discussion in Chapter 2 &amp; 7. Discuss in roughly 300 word, using your own words, but a few quotations are fine:
     
 	- Why was Dublin Core and MODS created?
 	- What are the strengths and weaknesses of using MODS or Dublin Core?
@@ -38,6 +38,6 @@ The objective of this homework is to mark up your assigned images from Homework 
 	- Why do you think the developers of Omeka have chosen <a href="http://omeka.org/forums/topic/omeka-and-mods-element-set" target="_blank">Dublin Core over MODS?</a>
 
 
-- It's worth 10 points and due **Sunday, June 22nd at 9am** 
+- It's worth 10 points and due **Tuesday, June 23nd at 9am** 
 - Submit via email as one .zip file (include .xml, and .doc files). 
 - Work in groups and share information on the discussion board--it will go faster!
