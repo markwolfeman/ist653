@@ -255,7 +255,7 @@ Exercise:   Install OpenRefine and Edit Metadata
 - After watching exercise overview video, download dataset to computer and import  <a href="https://drive.google.com/file/d/1dVjoNjMZuyhPgUqHScfCm4zEuNsd2S4Q/view?usp=drive_link" target="_blank">Indian Food 101 .csv file</a> click download in uppper right hand corner
 - Follow instructions in exercise overview video
 - Post screenshot to discussion board of your newly updated Indian Food 101 dataset. 
-- **Due:**
+- **Due: Wednesday June 24th**
 
 ------------
 
