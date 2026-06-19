@@ -28,7 +28,7 @@ The objective of this homework is to mark up your assigned images from Homework 
 
 # Part 2  (5 points)
 
-- Based on Miller's discussion in Chapter 2 &amp; 7. Discuss in roughly 300 words the prompts below, using your own words, but a few quotations are fine:
+- Based on Miller's discussion in Chapter 2 &amp; 7. Discuss in roughly 300 words based on the questions below, using your own words without using AI:
     
 	- Why was Dublin Core and MODS created?
 	- What are the strengths and weaknesses of using MODS or Dublin Core?
