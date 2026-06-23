@@ -293,7 +293,7 @@ Readings:
 Videos:
 
 - Omeka Screencasts:
-  - Watch all 12 <a href="https://omeka.org/classic/docs/GettingStarted/Screencasts/" target="_blank">&quot;Getting Started&quot; screencasts videos</a>
+  - Watch all of the  <a href="https://omeka.org/classic/docs/GettingStarted/Screencasts/" target="_blank">&quot;Getting Started&quot; screencasts videos</a>
 
 Presentation:
  - None 
